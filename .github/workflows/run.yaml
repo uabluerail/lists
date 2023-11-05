@@ -1,0 +1,37 @@
+name: Update mute lists
+
+on:
+  schedule:
+    - cron: "23 3 * * *"
+  workflow_dispatch:
+
+concurrency: global
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Go compiler
+        uses: actions/setup-go@v4
+        with:
+          go-version: ">=1.21.0"
+      - name: Let the actually used go version to update go.mod.sum as it sees fit
+        run: go mod tidy
+      - name: Run
+        run: go run .
+        env:
+          BSKY_CREDENTIALS: ${{ secrets.CREDENTIALS }}
+      - name: Commit changes
+        run: |
+          git config user.name automation
+          git config user.email github-actions@github.com
+          git add *.json
+          if ! git diff-index --quiet HEAD; then
+            git commit -m 'Update lists'
+            git push
+          fi
