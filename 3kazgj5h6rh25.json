@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "subject": {
+        "did": "did:plc:ihstqmbxbe6yxkpoey4bvxa2",
+        "displayName": "Meanwhile in Ukraine",
+        "handle": "meanwhileua.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:jd3xtr7pzwm6aelbf6436cm6",
+        "displayName": "Шляхта не працює",
+        "handle": "shlyahta.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:kuuht3vj6mffnwdpggvxl24j",
+        "displayName": "International Observers Ukraine",
+        "handle": "intobservers.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:sbrqshqbiu3sdzpoudjgkptx",
+        "handle": "anti-colorados.bsky.social"
+      }
+    }
+  ],
+  "list": {
+    "$type": "",
+    "cid": "bafyreidmumtdoo5ryzonf6ndzl7sueydybe3f52jzw2mbigkwi6esq3u4q",
+    "creator": null,
+    "description": "Anonymous accounts with a significant following that are Ukrainian or connected to Ukraine (probably). Because of anonymity, consequences of posting false/misleading information for them are minimal. ",
+    "indexedAt": "2023-10-05T17:04:33.921Z",
+    "name": "FYI: Anonymous accounts",
+    "purpose": "app.bsky.graph.defs#modlist",
+    "uri": "at://did:plc:bmjomljebcsuxolnygfgqtap/app.bsky.graph.list/3kazgj5h6rh25"
+  }
+}

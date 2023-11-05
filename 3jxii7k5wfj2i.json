@@ -1,0 +1,342 @@
+{
+  "items": [
+    {
+      "subject": {
+        "did": "did:plc:22o5txxg7qnx7srm423irsmz",
+        "displayName": "Saturnax",
+        "handle": "saturnax.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:2mkgbhbhqvappkkorf2bzyrp",
+        "displayName": "Jason Schreier",
+        "handle": "jasonschreier.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:2pvvtfr6kuq3cvnb3vngemfz",
+        "displayName": "Mike Stone",
+        "handle": "michaelstone.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:2qweqi2jlvlcy7xnfnc4d3dh",
+        "displayName": "Doug Klain",
+        "handle": "dougklain.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:2w45zyhuklwihpdc7oj3mi63",
+        "displayName": "Forbes",
+        "handle": "forbes.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:3tzorgcbid4sidamxv4iaxdr",
+        "displayName": "Erasing 76 Crimes / Colin Stewart, editor",
+        "handle": "76crimes.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:4aqzua5vsewimmusg66fyajl",
+        "displayName": "NOELREPORTS",
+        "handle": "noelreports.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:4nm4tnsz7xrhppgj6puf4aot",
+        "displayName": "Upstract",
+        "handle": "upstract.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:5o6k7jvowuyaquloafzn3cfw",
+        "displayName": "The Tennessee Holler ",
+        "handle": "thetnholler.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:5u54z2qgkq43dh2nzwzdbbhb",
+        "displayName": "Financial Times",
+        "handle": "financialtimes.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:7ovywzofx3xxpn66s5r6vjm3",
+        "displayName": "openDemocracy",
+        "handle": "opendemocracy.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:7v4zh2oqny3s7zejpapnm55s",
+        "displayName": "Dr Bashir 2023   ",
+        "handle": "drbashir2023.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:btwjog3c5amivs3rf22jt4ax",
+        "displayName": "German Aid to Ukraine",
+        "handle": "deaidua.org"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:c4xfsft4lzf65tsvaayke5tq",
+        "displayName": "The Continent ",
+        "handle": "thecontinent.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:eclio37ymobqex2ncko63h4r",
+        "displayName": "The New York Times",
+        "handle": "nytimes.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:f2vkoe6mu7hyiyjxwwirkd5l",
+        "displayName": "BBCNews (World)",
+        "handle": "bbcnews-world-rss.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:hav5phbqzu4jsrul5m7uhzan",
+        "displayName": "AP News (World)",
+        "handle": "apnews-world-rss.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ifjxyftjswhy3udx5jozbvr4",
+        "displayName": "European News 🇪🇺",
+        "handle": "eunews.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:j7ubeplmmpq4zn3c5deg7tcz",
+        "displayName": "FFD",
+        "handle": "gunjan.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:jbnriginiqitcc4h5cngn3qy",
+        "displayName": "Pulse",
+        "handle": "pulse.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:k5nskatzhyxersjilvtnz4lh",
+        "displayName": "The Washington Post",
+        "handle": "washingtonpost.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ldtdnoxaint7yzelpnpljwes",
+        "displayName": "Charles Я. Davis",
+        "handle": "charliearchy.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:lyjr5pm3xljkxopg7hl2lday",
+        "displayName": "Liveuamap",
+        "handle": "liveuamap.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:m7jpx43iuyb2dsd7h4lczvfz",
+        "displayName": "EUwatch 🇪🇺 ",
+        "handle": "euwatch.live"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:mbnsiz6rsjeqc5jvh2rvnyxx",
+        "displayName": "#MilkTeaAlliance Galleries ",
+        "handle": "mtamuseum.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:mfam7sumoyb6lmiemlmhrwup",
+        "displayName": "Kim Zetter",
+        "handle": "kimzetter.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:nvxqtbkovpwd7ocuf3vajjpy",
+        "displayName": "Political IQ",
+        "handle": "politicaliq.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:p6yajypzxf7uv6d7w66c77hc",
+        "handle": "ioffe.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:pv7fudnt4dspurzdnyq73pfe",
+        "displayName": "Techmeme",
+        "handle": "techmeme.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:saxvrna3y465mhh4kfo6mlsc",
+        "displayName": "Secrets \u0026 Spies Podcast",
+        "handle": "secretsandspies.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:sguaikukuxa4guhjwfvpjwmb",
+        "displayName": "Mediagazer",
+        "handle": "mediagazer.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:tcyv5gk43e5gekr5wo3vglhl",
+        "displayName": "InfoSec",
+        "handle": "infosec.skyfleet.blue"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:tj2j3xbmiz3arhqjvaqg4zwj",
+        "displayName": "Doge",
+        "handle": "inteldoge.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:uewxgchsjy4kmtu7dcxa77us",
+        "displayName": "Bloomberg",
+        "handle": "bloomberg.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ul3dm3b76hu2cqla3qxb4v6u",
+        "displayName": "Financial Times Visual \u0026 Data Journalism",
+        "handle": "data.ft.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:usktoienjig6rm5cxm46j3zl",
+        "displayName": "CrimethInc. Ex-Workers' Collective",
+        "handle": "crimethinc.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:uzimqm3hddxa7jfjsdt7xofd",
+        "displayName": "Julia Davis",
+        "handle": "juliadavisnews.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:v6dtl2e3p77y4gjzuvfsdv64",
+        "displayName": "CyberScoop",
+        "handle": "cyberscoop.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:vq6qocflnorbiqgft5n5cidz",
+        "displayName": "io•d4r report",
+        "handle": "d4r.pw"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:vtwv2edeyhasfqgd53x5yius",
+        "displayName": "The Intercept",
+        "handle": "theintercept.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:wdeppxzul2i66l7lkk2dlsjg",
+        "displayName": "Podcast Świat",
+        "handle": "podcastswiat.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:x6iwiot43norkasv6mnxvfgs",
+        "displayName": "Cédric Mas ",
+        "handle": "cedricmas.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:xxwue234qcujtpngei7u44qo",
+        "displayName": "War on the Rocks",
+        "handle": "warontherocks.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:yow3ni6hanedjubexs6imfg4",
+        "displayName": "Refugees",
+        "handle": "refugees.skyfleet.blue"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:yp75bmg575z7c7v735ldvjoc",
+        "displayName": "C'est du Belge ",
+        "handle": "polbegov.skyfleet.blue"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:yxwuluq3ksl4hur6mopcl5el",
+        "displayName": "memeorandum",
+        "handle": "memeorandum.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:yyfqbflm2ox53z6qg57sv6zn",
+        "displayName": "Jared Malsin",
+        "handle": "jmalsin.bsky.social"
+      }
+    }
+  ],
+  "list": {
+    "$type": "",
+    "cid": "bafyreigj6ho4y4gqnvxdb2n2maimg6mu3tevnlhh7l7w3pduvungr3kuhy",
+    "creator": null,
+    "description": "Global coverage on 🇺🇦 in English.\n\nFeed building purpose list. \n\n⚠️CW: Western media may use wordings like \"Ukraine war\", \"Ukraine crisis\", \"the Ukraine\", \"Kiev\" and can be tone deaf towards the victims\n\n⚠️DO NOT SUBSCRIBE unless you know what you're doing! This will mute most western media",
+    "indexedAt": "2023-06-06T10:32:57.082Z",
+    "name": "FYI: 🌐📰 media on 🇺🇦 in English",
+    "purpose": "app.bsky.graph.defs#modlist",
+    "uri": "at://did:plc:bmjomljebcsuxolnygfgqtap/app.bsky.graph.list/3jxii7k5wfj2i"
+  }
+}

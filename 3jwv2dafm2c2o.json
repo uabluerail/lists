@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "subject": {
+        "did": "did:plc:4jvdejevbttgfs67hdrxgrv5",
+        "displayName": "Petr",
+        "handle": "afitnessmodel.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:5hl24rtzjhxgazagihzunjvk",
+        "displayName": "Chris 🇩🇪 🇺🇦",
+        "handle": "eiwasdann.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:aqdx7vb7ylbl6pej7teamom5",
+        "displayName": "dekoder",
+        "handle": "dekoder.org"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:asw5uzqcfcigczxeza67vyaa",
+        "displayName": "pragma",
+        "handle": "pragma.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:hklwgimzcioeuqcvcxhmfwhg",
+        "displayName": "Natalia Antonova🇺🇸🇺🇦",
+        "handle": "nataliaantonova.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:i2lbmttsnealpztysstj3a4o",
+        "displayName": "алло, Нибиру? ",
+        "handle": "zhurnalrasstrel.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:i7e64lvb5c4sox7oqazf57cs",
+        "displayName": "Alexy and 69 others",
+        "handle": "chiefscientist.org"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:j3xmpy2zsz3rd7an5ydkoc62",
+        "displayName": "Barbarism Rider",
+        "handle": "barbarismrider.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:jij5o6rfy7oymdq2mowmfnm4",
+        "displayName": "Gert-Jan Dennekamp",
+        "handle": "gjdennekamp.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:n3lnles3nqhtniyefyytgcsh",
+        "displayName": "LeftwardSwing 🏳️‍⚧️ 🌈 🏳️‍🌈 ♿",
+        "handle": "leftwardswing.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:nhpypclitubsvtodm2gyfaiw",
+        "displayName": "John Lackland ",
+        "handle": "johnlackland.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:rip2bovbqms76sdvgelxddz2",
+        "displayName": "Metamorview 🔴🇺🇦🐶🍄",
+        "handle": "metamorview.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:stxwg3quqyouxcyagwwjcbaq",
+        "displayName": "Dylan Primakoff",
+        "handle": "dylanmp.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:yuehqkmrnpetb6qcjq7udo4m",
+        "displayName": "Defmon3",
+        "handle": "defmon3.bsky.social"
+      }
+    }
+  ],
+  "list": {
+    "$type": "",
+    "cid": "bafyreiem6frs2aj3pzqjgvcp3zhpblr6dd4732rdrcqigdihrnc6domjym",
+    "creator": null,
+    "description": "- suspected propaganda\n- some known occurences of disinfo or sharing harmful myths about Ukraine\n- osinters, who are known to have indulged in doxxing AFU or hit locations despite the official discouragement of MDU",
+    "indexedAt": "2023-05-29T17:03:53.840Z",
+    "name": "DNI: 📰 ⚠️ disinfo watchlist",
+    "purpose": "app.bsky.graph.defs#modlist",
+    "uri": "at://did:plc:bmjomljebcsuxolnygfgqtap/app.bsky.graph.list/3jwv2dafm2c2o"
+  }
+}

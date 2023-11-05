@@ -1,0 +1,534 @@
+{
+  "items": [
+    {
+      "subject": {
+        "did": "did:plc:25vg5uxx6q64reskw2wguzes",
+        "displayName": "PropaGandalf 🌾",
+        "handle": "propagandalf.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:2u45bca5qfzqzmwej6d6sqee",
+        "displayName": "Медиазона",
+        "handle": "mediazona.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:2w27hivt5ugj3rmq3hqv653f",
+        "displayName": "Tamina Kutscher",
+        "handle": "tak77.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:3c7ar33m2j46675hpkw7767m",
+        "handle": "antispiegel.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:3oh3u4fbev3zlc7vcfdazlas",
+        "displayName": "Aric Toler",
+        "handle": "aric.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:3sc2rb2yuerjl4iayjmywgw7",
+        "displayName": "hellfire jr",
+        "handle": "echolalialia.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:4byw3o4wczjvjkkciczq6ndz",
+        "displayName": "The Barents Observer ",
+        "handle": "barentsobserver.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:4sjl25ntym5lz4vrvmpo22ph",
+        "displayName": "Christopher Miller",
+        "handle": "christopherjm.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:4tmejmyfzhhfpyipxkzufz3h",
+        "displayName": "Jeremy Corbyn",
+        "handle": "jeremycorbyn.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:556xmpymuwrvbubumgc4mv5z",
+        "displayName": "🇺🇦goblin ",
+        "handle": "goblinsoup.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:56ibjbeifx6o5teksmcbz2kv",
+        "displayName": "BNE Editor",
+        "handle": "bneeditor.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:5iorr4rg7h72twjphkiscu2c",
+        "displayName": "Russian Telegram Archive",
+        "handle": "russia.osintukraine.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:5u4isxfguabjavvrf7s7l2nw",
+        "displayName": "yegor skovoroda",
+        "handle": "skovoroda.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:63klslolnvwalks5ryrclrdw",
+        "displayName": "Miguel Suez-Canal",
+        "handle": "rustbeltred.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:6e6cvn3x5vkyl7o6g24p4uyg",
+        "displayName": "Mriya",
+        "handle": "themriyareport.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:6jpq5n3fiqkewfs7tc33ipkv",
+        "displayName": "Margaret Kimberley",
+        "handle": "margaretkimberley.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:6lsyursitdztqi3k3uaobq7n",
+        "displayName": "Anika Zeller",
+        "handle": "anikazeller.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:6vblwh2edno4ayc2mku72r7e",
+        "handle": "antibot4navalny.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:a3hyagdbwqfw67kqib635kmu",
+        "displayName": "Alexander Borodikhin",
+        "handle": "borodikhin.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:aauhgsye32ibjl5hdvrgrnro",
+        "displayName": "Arseny",
+        "handle": "ampanmdagaba.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:axwvargaayncia6ny5sx6fvh",
+        "displayName": "Caitlin Johnstone",
+        "handle": "caitoz.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:b466yq6ph47wmh2fr3pdwcmm",
+        "displayName": "Ian Welsh",
+        "handle": "ianwelsh.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:bwheulnj77xqs3hrmangtimf",
+        "displayName": "Scott Rose",
+        "handle": "rprose.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:c5m4ubivl7h7kizecuq7u5gd",
+        "displayName": "Galochka Latygovskaya",
+        "handle": "galamz.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:cmixkqtg4smh7xvpwh4aafdg",
+        "displayName": "Olya Oliker aka Dr. Olga Oliker (she/her)",
+        "handle": "olyaoliker.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:cnletzqisnpyzimz5xk6baol",
+        "displayName": "Сергей Смирнов",
+        "handle": "sssmirnov.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:dkrobcqyjhhm7arsq3tnzifb",
+        "displayName": "Evgeny Feldman",
+        "handle": "evgenyfeldman.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:e2f77azwjcnvfxldyeppfum6",
+        "displayName": "Neil MacFarquhar",
+        "handle": "nmacfarquhar.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ekeimscmejnjeryc6sldq5vh",
+        "displayName": "Protiv",
+        "handle": "protiv.osintukraine.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:f4knatbzejknubekokfdfrkq",
+        "displayName": "Pavel Lokshin",
+        "handle": "lokshin.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:fd2p5ntu4kj7wtnxg3wohtz2",
+        "displayName": "Panda ",
+        "handle": "suspanda.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:fjar45oauoeppfghwonggrec",
+        "displayName": "Michael Sheldon",
+        "handle": "michaelsheldon.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:gbfoywnnkmggvakzixxwgwsy",
+        "displayName": "katyaarenina",
+        "handle": "poreznasobake.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:glcx7ydnufge4iknejfdmiao",
+        "displayName": "Alexandra Dalsbaek ",
+        "handle": "alexdalsbaek.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:gnojehtaplifhkgfnbe22l7l",
+        "displayName": "Медиазона Беларусь",
+        "handle": "mediazonaby.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:gohtnzmfrufiw7h4ayleotbz",
+        "displayName": "Joshua R. Kroeker ",
+        "handle": "joshuarkroeker.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:iuqgqrgxcskmjpbyv5xyt2bs",
+        "displayName": "Свистонов",
+        "handle": "snovskij.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:j3j3usj7sjfatwgthgwoohdn",
+        "displayName": "romashova",
+        "handle": "olyarom.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:jshg7dsirar4hvkiuxiixrd3",
+        "displayName": "elizabeth 🫡 ",
+        "handle": "posting.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ko3s73jlvrnlgv6ie36malkt",
+        "displayName": "Квіточка Криму 🇺🇦",
+        "handle": "kvitochkakrumy.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:kpkqu7odzhelr2idxytethe7",
+        "displayName": "Meduza in English",
+        "handle": "meduza.io"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:l2irpxi6hl2t4ughzhjl65js",
+        "displayName": "Samantha Berkhead",
+        "handle": "samberkhead.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:lvfh6gdurkhbuzn6qlxcc4cj",
+        "displayName": "McMullah",
+        "handle": "mcmullah.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:lyhlzdwmxq67mcrwe7wvkpli",
+        "displayName": "David Frenkel",
+        "handle": "merrik.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:m2ktokpzrknkzvzefmngjqqm",
+        "handle": "dondebar.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:mgty4ra3ylos3jzpim7vrxj7",
+        "displayName": "spook",
+        "handle": "spook.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:mwqgmpbufnlgptszaikvmo3c",
+        "handle": "yamzallagh.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:n5ygsvktcea43nu54t3sv2ic",
+        "displayName": "Human Rights Watch",
+        "handle": "hrw.org"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ndbvrtuojt5r7hekuruua7bf",
+        "displayName": "Roman Dobrokhotov ",
+        "handle": "dobrokhotov.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:nfmllxoe6le3dvecuc4j6jvf",
+        "displayName": "Eilish Hart",
+        "handle": "eilishhart.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:nkexqs2ehjq4tcicjwgcyuu3",
+        "displayName": "Mediazona English",
+        "handle": "mediazonaen.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:oaa6tpd54pcly733gxhuuqsg",
+        "displayName": "Jason Jay Smart",
+        "handle": "officejjsmart.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ovzunlc3brkgawcdvdeuebfg",
+        "displayName": "Katie Marie Davies",
+        "handle": "katiemariedavies.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:qrzfshhvqgpcncgvprk6s2ck",
+        "displayName": "Margot",
+        "handle": "filippova.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:rdcfv5bwuitw3lng6f7azf3h",
+        "displayName": "The Mriya",
+        "handle": "themriyaaid.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:sb54dpdfefflykmf5bcfvr7t",
+        "displayName": "Bellingcat",
+        "handle": "bellingcat.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:sshzk7ebmpoa34e6lfhqpzkq",
+        "displayName": "Sam Breazeale",
+        "handle": "sambreazeale.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:swklcpa5n3k32kixcdzomebs",
+        "displayName": "Amnesty International UK",
+        "handle": "amnestyuk.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:swu5swn2eg4vulovc2kgp5xj",
+        "displayName": "На войну мы все насрем",
+        "handle": "dm-e.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:szgb3iofdxzmar4pvcgrgw7n",
+        "displayName": "KyivPost",
+        "handle": "kyivpost.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:szwdionqlsixa4vvyrimbygi",
+        "displayName": "Nastia",
+        "handle": "alextasy.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:tdpns2ajyjp4g5niu4ouczuo",
+        "displayName": "Justin Ling",
+        "handle": "justinling.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:tr2us6ns737pfb7aaa6wvnfk",
+        "displayName": "Mriya Aid",
+        "handle": "mriyaaid.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:txhctlnub3agg6645d4ylya5",
+        "displayName": "Jake Fox",
+        "handle": "jakefoxuwu.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ty42uz67qbam52si5yduwwaa",
+        "displayName": "Kevin Rothrock",
+        "handle": "kevinrothrock.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:u766marymg2wmwv5whygvxnp",
+        "displayName": "Conor Humphries ",
+        "handle": "conorhumphries.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:vuhtg7yfi2zms77zzlvz6ts2",
+        "displayName": "Artem Besedin",
+        "handle": "besedin.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:vxkzcsoor2dr6bcik7icnklz",
+        "displayName": "Mriya Report",
+        "handle": "mriyareport.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:w7pkn5hp7ueksrh6gyq43gkn",
+        "displayName": "Ned Garvey",
+        "handle": "nedgarvey.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:wj45mpvm2bjeb22wwgelo7jf",
+        "displayName": "Nik Ford 🎃👻",
+        "handle": "drnikford.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:wj7svnevomfon6j3dj4c6ekf",
+        "displayName": "The Left Independent ✊🏻✊🏼✊🏽✊🏾✊🏿",
+        "handle": "left-indy.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:wycp7mdhjfjmchnulqnemrii",
+        "displayName": "Русский маркетинг",
+        "handle": "smmrus.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:y3zbsi2pqz6wixc7vntrjwe7",
+        "displayName": "Кримськi Єнотi.",
+        "handle": "irinaenot.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:yfsumvmehxhw55kaoshmpmdt",
+        "handle": "alexbakus.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:zvsqxqtunvcypzkwbptnfzne",
+        "displayName": "Emily S.",
+        "handle": "emsr.bsky.social"
+      }
+    }
+  ],
+  "list": {
+    "$type": "",
+    "cid": "bafyreibkb56wuqgamjwl4vy547t3ownp5ygztkrnt52naqchvbmw7gkmf4",
+    "creator": null,
+    "description": "- anti-Ukrainian propaganda \n- info manipulation, masking as independent media e.g. Meduza/TV Rain/Bellingcat\n- accounts that repeatedly promoted harmful myths about Ukraine and contributed to the genocide informationally",
+    "indexedAt": "2023-05-29T16:51:37.411Z",
+    "name": "DNI: 📰 🛑 disinfo about Ukraine",
+    "purpose": "app.bsky.graph.defs#modlist",
+    "uri": "at://did:plc:bmjomljebcsuxolnygfgqtap/app.bsky.graph.list/3jwuznbtjc42m"
+  }
+}

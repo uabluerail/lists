@@ -1,0 +1,126 @@
+{
+  "items": [
+    {
+      "subject": {
+        "did": "did:plc:2ywby725qcwv7rqdotimk7mp",
+        "displayName": "OSINTtechnical",
+        "handle": "osinttechnical.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:3sevzhwj4nz5otpml4yj26e2",
+        "displayName": "BlackCage",
+        "handle": "blackcage.es"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:42nygfl4lwieikb6xaqmxzlg",
+        "displayName": "BenB 🇺🇦 ",
+        "handle": "benborges.xyz"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:biw6z7kakatgsbz7covnbjkg",
+        "displayName": "OSINTukraine",
+        "handle": "osintukraine.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:frfm2p5effxxzy4t53tggxti",
+        "displayName": "TheIntelFrog",
+        "handle": "theintelfrog.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:hgucyznfmcaajn2vo5exap7m",
+        "displayName": "Ukraine Telegram Archive",
+        "handle": "ukraine.osintukraine.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:iytrhibkdqciuei4wr5qdmu7",
+        "displayName": "hatless1der - Griffin",
+        "handle": "hatless1der.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:kuuht3vj6mffnwdpggvxl24j",
+        "displayName": "International Observers Ukraine",
+        "handle": "intobservers.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:lyaq7apcbkau4ipdz257jiez",
+        "displayName": "Ineffable Intel",
+        "handle": "ineffableintel.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:pomgh6mnycejl7qdfg3urspj",
+        "displayName": "OSINT",
+        "handle": "osintbridge.osintukraine.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:uwsqhwqymobodlgr3bu6xax2",
+        "displayName": "Little Bird Corps",
+        "handle": "littlebirdcorps.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:vxow4igppa5loc6f3cfoznxu",
+        "displayName": "War Mapper",
+        "handle": "warmapper.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:x5h2ry3msnhgyzovjtaqkzc5",
+        "displayName": "Cyber Detective",
+        "handle": "cybdetective.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:yuehqkmrnpetb6qcjq7udo4m",
+        "displayName": "Defmon3",
+        "handle": "defmon3.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:yx2nfpytmmze4fau2qxw2c5a",
+        "displayName": "🔱🇺🇦",
+        "handle": "amplifyukraine.eu"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:zb7o7xari2ajwuivvobfqwo2",
+        "displayName": "Intel Schizo",
+        "handle": "intelschizo.bsky.social"
+      }
+    }
+  ],
+  "list": {
+    "$type": "",
+    "cid": "bafyreiblquwhpvhbvoz7alxn2azgbtfqkdhnwzglm3rb2odt3uh5ynypwa",
+    "creator": null,
+    "description": "Useful for a feed with all the OSINT insights separately.\n\n⚠️Warning: OSINT may give you more recent and frequent info, but it has intrinsic disinfo and security risk so you should be highly vigilant on any of the following:\n\n- breaking OPSEC \n- doxxing 🇺🇦 defence forces\n- enemy disinfo campaigns",
+    "indexedAt": "2023-08-04T08:47:25.327Z",
+    "name": "FYI: 📰 OSINT",
+    "purpose": "app.bsky.graph.defs#modlist",
+    "uri": "at://did:plc:bmjomljebcsuxolnygfgqtap/app.bsky.graph.list/3k44nt5jqug2g"
+  }
+}

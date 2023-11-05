@@ -1,0 +1,384 @@
+{
+  "items": [
+    {
+      "subject": {
+        "did": "did:plc:2u57uw7ffpzjqrzhfh7zue7d",
+        "handle": "basketball.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:5krm4pb5gecb5uawvgr7uxuu",
+        "displayName": "90’s anime",
+        "handle": "90sanime.pics"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:6wpkkitfdkgthatfvspcfmjo",
+        "displayName": "wint",
+        "handle": "dril.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:775vm3uxqaujf37igllgco23",
+        "displayName": "no context dogs",
+        "handle": "nocontextdogs.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:7w2fdrnjrmqcupp5phyohmx6",
+        "displayName": "Na Jaemin",
+        "handle": "jaemin.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:7yvsfg2ppdeglnpnvxsw7vav",
+        "displayName": "Shokunin",
+        "handle": "sho.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:aasdqrztryprp3btvv5d6kex",
+        "displayName": "Johnny Randall",
+        "handle": "johnny-randall.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:atipzhxkznkvlg5clzcsil72",
+        "displayName": "神瀬りりい⚜️⚔️ビーセイの民",
+        "handle": "bs-days.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:bpauyhw2aqdubjfug4j72nci",
+        "displayName": "Ian Rathbone",
+        "handle": "rathbone.dev"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:cd2lmbzqutpqhl5yoi2fnufw",
+        "displayName": "⊹𝓥𝒾𝒹𝑒𝑜-２０ＸＸ⊹",
+        "handle": "video20xx.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:clubv23gz75qqny2j74dccus",
+        "displayName": "🐁👾 Glitch 🔞 ",
+        "handle": "bubblegumplaguerat.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:eocbkzd6vn3fp7l46nymnohm",
+        "displayName": "Bluesky Global | Open Social",
+        "handle": "bsky.global"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:f7du5s6xe4fza2gixnynvzxq",
+        "displayName": "‏shitpost machine 3000‏",
+        "handle": "oof.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:fezgqukekwyvhz2ljrmcnmrk",
+        "displayName": "Ish",
+        "handle": "ishverduzco.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:fl5ztptq45qb2qbyo2wkojjk",
+        "displayName": "Why you should have a cat",
+        "handle": "shouldhavecat.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:fphafqon6s6tlhnuln52ha2j",
+        "displayName": "Digital Art",
+        "handle": "digitalart.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:g5r4vwf3djtzwtpfxivmvlst",
+        "displayName": "S4m‪🇯🇵",
+        "handle": "54m.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:gavqr7yuapgfhfr4hvosjyoh",
+        "displayName": "Nelson Coffee Roaster ☕️ 🐱🎸🏍",
+        "handle": "nelsonbeans.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:gr3zsqab63cfvv7nao4mrh7v",
+        "displayName": "Artificial Intelligence",
+        "handle": "artificial.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ha5tvry6kkxiujam6kyjgagg",
+        "displayName": "poetical photos.",
+        "handle": "poeticalphotos.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:hn2ebg3nposwaqhhojn4gmd7",
+        "displayName": "Trippy",
+        "handle": "trippy.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:i24iidrrj2hc6dwz2luiiqa5",
+        "displayName": "Adam Bouska",
+        "handle": "adambouska.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ioddc2qmd7762amwufgt4evl",
+        "displayName": "rodrigo souza",
+        "handle": "msrodrigo.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:jg66drxkqd7zrvluorpfie6q",
+        "displayName": "Tim Holt",
+        "handle": "timholt.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:jmsnrrykqrtsnd4qh6yirxzz",
+        "displayName": "Discovery",
+        "handle": "discovery.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:k2weqoffrljoi7d45jjhjaqk",
+        "displayName": "Satan ",
+        "handle": "thedevil.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:krwqzpbetxtkbbw5ncumviyr",
+        "displayName": "Bay Area Times",
+        "handle": "bayareatimes.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:leoqc7bnjyypatgq26ggqgl5",
+        "displayName": "wonk⬖",
+        "handle": "wonk.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:mdz6e7xj65kt2iuutw5v4vyf",
+        "displayName": "Glomps ",
+        "handle": "glomps.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:mdzc75ga33dhvkpgx7n5tgq4",
+        "displayName": "Cats That Heal Your Depression",
+        "handle": "catshealdepression.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:mxdlsmrzuki6rzn4nrx6rif3",
+        "displayName": "Brendon Luke Jaramillo",
+        "handle": "blj.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:n6wa7tjnh3wlcizknasz6r2f",
+        "displayName": "Lorenzo ",
+        "handle": "lorenzolne.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:o7cjkbvotxydby7uvvx32hkm",
+        "displayName": "weird medieval guys ",
+        "handle": "weirdmedieval.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:poqixmef4gnznajw6xj4b7dy",
+        "displayName": "Dr.Stanton 🇨🇦",
+        "handle": "drstanton.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:qreg3fnvpxhpdsjgf2ougezt",
+        "displayName": "Khanate",
+        "handle": "khanate.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:s3kgjpyoec2fd7ztruqiaxwx",
+        "displayName": "Aify.co",
+        "handle": "aify.co"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:sbalnchbqyuqkwpjjy3zry7f",
+        "displayName": "Rie",
+        "handle": "megumin.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:skivi2y5ex5qgkdosf7ddar4",
+        "displayName": "out of context cats",
+        "handle": "contextcats.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:sxhvvd27nuho3aqdfxybwt3d",
+        "displayName": "Grant Peace",
+        "handle": "thx.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:tmjyxghnlw4mffzqj25owhw3",
+        "displayName": "fluxjoy",
+        "handle": "fluxjoy.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:u2422q7nqnd3x3mn4ed56uxx",
+        "displayName": "",
+        "handle": "sora02.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:uajcbxbjfqlx74qabgr7olqh",
+        "displayName": "Adam Bressler Chudiak",
+        "handle": "madam7.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:uzkqphsznycugmyz7hqvna3f",
+        "displayName": "Grandiloquent Word of the Day",
+        "handle": "grandiloquentwords.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:vcp5h5umjkde2trrgul5a5ty",
+        "displayName": "Mohammad Safari",
+        "handle": "msafariofficial.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:vfd4wfkntvprozbhryhrzftn",
+        "displayName": "jpren",
+        "handle": "jpren.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:vie33avagsao2xhdn4kftzvo",
+        "displayName": "Cat \u0026 Dog",
+        "handle": "catanddog.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:w2ekzredq63fvwey7dqrkgeh",
+        "displayName": "memes folder",
+        "handle": "memesfolder.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:wbuezhu46trfmg5hduqphn3r",
+        "displayName": "Miranda",
+        "handle": "miranda.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:wwakmfq74pvducx2pbbdxhlg",
+        "displayName": "cat with confusing auras",
+        "handle": "catswithaura.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:xfqcsi7wuwedeqaa5m7aih44",
+        "displayName": "Anonymous",
+        "handle": "anonymous.expectus.fyi"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:xzclkpnhcab63m3dwgmds6j4",
+        "displayName": "Code on the Rocks 🍹",
+        "handle": "codeontherocks.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:yg4mn3sdoqmjeinutbwnxlij",
+        "displayName": "Jane",
+        "handle": "fightingpride93.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ylmbufmy5btcigjk27oup4zl",
+        "displayName": "nature",
+        "handle": "nature.bsky.social"
+      }
+    }
+  ],
+  "list": {
+    "$type": "",
+    "cid": "bafyreias5x5zouijvev74p6ivkgq4r4v7vnvsxtnjq25za22lt55klhnsm",
+    "creator": null,
+    "description": "Spam followers and growth hackers that follow everyone.\n\nСпам-фоловери, які фоловлять всіх підряд.\nТут немає наших, тільки імпортні.\n\nCan be used as diff for feeds, lists etc as well as regular mute/block list.",
+    "indexedAt": "2023-08-02T06:39:43.580Z",
+    "name": "DNI: 🚯 Mass/Spam followers",
+    "purpose": "app.bsky.graph.defs#modlist",
+    "uri": "at://did:plc:bmjomljebcsuxolnygfgqtap/app.bsky.graph.list/3k3xfqx76nu2y"
+  }
+}

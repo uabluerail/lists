@@ -1,0 +1,125 @@
+{
+  "items": [
+    {
+      "subject": {
+        "did": "did:plc:42nygfl4lwieikb6xaqmxzlg",
+        "displayName": "BenB 🇺🇦 ",
+        "handle": "benborges.xyz"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:4hm6gb7dzobynqrpypif3dck",
+        "displayName": "News Feed",
+        "handle": "news-feed.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:4oazfy4f6b4qze6kecwqt3yo",
+        "handle": "bskytest.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:6nyfmewlkuzb4x4o47ylahkm",
+        "displayName": "Random Restaurant Bot",
+        "handle": "restaurant-bot.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:6tva7ibr24b6qix575yuzkp2",
+        "displayName": "Teletekstbot",
+        "handle": "teletekstbot.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:7ktx3oe2zbompu3cjwthlest",
+        "displayName": "Trend Words",
+        "handle": "trend-words-en.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:7ni6ktnv7pnp3pk6eosdznrg",
+        "displayName": "Sketchy News",
+        "handle": "sketchynews.net"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:7ym7sibkzlma7ktqu7kytgqc",
+        "displayName": "☁️Now🤖Breezing💨 DEV",
+        "handle": "nowbreezingdev.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:cic3ukc4xpcwxfenrjkzyphv",
+        "displayName": "The Last Word",
+        "handle": "lastword.page"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:eadoaixfgdv3jh5ljlrpsuzl",
+        "displayName": "NextLaunch",
+        "handle": "nextlaunch.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:hgucyznfmcaajn2vo5exap7m",
+        "displayName": "Ukraine Telegram Archive",
+        "handle": "ukraine.osintukraine.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:mdejv56u46umey5xallqu7ej",
+        "displayName": "G. DeYoung",
+        "handle": "vikingoncall.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:otvshozirpfglddrotac7a66",
+        "displayName": "Bottest account",
+        "handle": "lorandev.lorankloeze.nl"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:w4es6sfh43zlht3bgrzi5qzq",
+        "displayName": "Jazbot!",
+        "handle": "jazbot.jazco.dev"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:yd4lkyq3jxlvdyfkcqnjxmyk",
+        "displayName": "Interactive Journalism",
+        "handle": "interactives.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:yx2nfpytmmze4fau2qxw2c5a",
+        "displayName": "🔱🇺🇦",
+        "handle": "amplifyukraine.eu"
+      }
+    }
+  ],
+  "list": {
+    "$type": "",
+    "cid": "bafyreicx4zfi3k5in7artii4ypjcl5wf6iiorebp5tgom2qhelmakg3kna",
+    "creator": null,
+    "description": "Useful for a feed with all the news and telegram dumps, but a bit too spammy for a normal news feed.\n\n⚠️Warning: news bots are automated aggregators from other sources and therefore can be questionable in terms of OPSEC and disinfo.",
+    "indexedAt": "2023-08-04T08:35:24.420Z",
+    "name": "FYI: 📰🤖 Bots",
+    "purpose": "app.bsky.graph.defs#modlist",
+    "uri": "at://did:plc:bmjomljebcsuxolnygfgqtap/app.bsky.graph.list/3k44n5o5osg2z"
+  }
+}

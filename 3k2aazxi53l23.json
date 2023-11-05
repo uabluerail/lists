@@ -1,0 +1,944 @@
+{
+  "items": [
+    {
+      "subject": {
+        "did": "did:plc:25wqzbddlpy42w7xtubr7xav",
+        "displayName": "osterblade",
+        "handle": "osterblade.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:273ira4uuggcnxzhnnj2ebi7",
+        "displayName": "Dzieŭčyna z Viejšnoryi",
+        "handle": "poliniator.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:2eq2goxw44slwbp3sr7bo6ys",
+        "displayName": "Acy",
+        "handle": "acyoko.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:2igk5x4s35zsdzfefhzv6lyi",
+        "displayName": "pyromairon 🌙",
+        "handle": "pyromairon.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:3jkhhpqgw5flzfo7flmdjcfd",
+        "displayName": "Zeliboba",
+        "handle": "zeliboba.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:3kbsgaqnljdh3ngexo5ezcwg",
+        "displayName": "Aliaksandr Lomau",
+        "handle": "allomau.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:3m7h5nei3cqmwaufv657w4fo",
+        "displayName": "Дэнчык Вясковы ",
+        "handle": "villageman.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:3z4i7bps5otkoesm4bh44xph",
+        "displayName": "мыш'як",
+        "handle": "asurum.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:44wpmfjtlruxwk7kudct4clv",
+        "displayName": "Сонейка",
+        "handle": "wiwierna.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:46nvod7mnsk5pzvyntbotjhi",
+        "displayName": "🤍♥️🤍 Hramadzianin 💛💙",
+        "handle": "hramadzianin.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:4f6pe7st4wltz6sivqw3gkiu",
+        "displayName": "세이지",
+        "handle": "felicidad.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:54remqknm5fvplbatnbfck6l",
+        "displayName": "Tidko2077",
+        "handle": "tidko2077.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:55g3yfnli7fsameay3xjedsv",
+        "displayName": "Lex Kartynnik",
+        "handle": "itbeard.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:56nigcycifbvwjovpu7eucf3",
+        "displayName": "Актыўна-агрэсіўная ",
+        "handle": "mimiliuk.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:5bceikdp4te3h7obs3w6mzlq",
+        "displayName": "маргуня лоўца захадаў",
+        "handle": "iamyourmrgrt.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:5hlmgzcyxeggs2dbd3etqxzy",
+        "displayName": "Pasha Jezhora (She/they)",
+        "handle": "pashajezhora.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:5iwbdutphjfitkhk47p4hnxd",
+        "displayName": "Anekomaton",
+        "handle": "anekomaton.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:5jp4tpqcsugdj27buaew5pzw",
+        "displayName": "Georg Shilin",
+        "handle": "georgshilin.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:5jtv6yek7wadtamkafbfw7rr",
+        "displayName": "Tolstoy",
+        "handle": "tolstoy.cloud"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:5znix4u4r6mfj7va2slkum4j",
+        "displayName": "Ihar Vozhyk Palynski",
+        "handle": "vozhykby.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:67offcxbsr25yichui7vomoe",
+        "displayName": "Джыпсінкоў",
+        "handle": "gypsynkov.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:6haygn7rgqz2wxbcpfvliwpw",
+        "displayName": "Тадэвуш Падасцюшка",
+        "handle": "tadevushp.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:6tberqq7yijkhy4e7qlomvwj",
+        "displayName": "Usiasłaŭ Paškievič",
+        "handle": "usiaslaup.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:74gp2ynxph4sih4p7gc4lnah",
+        "displayName": "Kostyugova",
+        "handle": "lessprit.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:7z2pxjphkgh3hryermb53fmr",
+        "displayName": "Tat",
+        "handle": "tcherkes.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:al2yotv5wfmxaz2nqslxgypy",
+        "displayName": "pawa ramonak 🌟",
+        "handle": "pawaramonak29.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:auxohdxvefrtilq4vert7ehw",
+        "displayName": "сродак для біцьця паскуды",
+        "handle": "b33fbaby.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:avomufnwq4yf7tga4cpskquq",
+        "displayName": "Льоша",
+        "handle": "roswell.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:aysveurxdridur5knpycnzv3",
+        "displayName": "Karpeka",
+        "handle": "djafi.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:b2j4y6ihgzwbksmwahr533x3",
+        "displayName": "Іван Кондзераў",
+        "handle": "kondzerau.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:brspmfdj5q3b3vtfqqmgjuek",
+        "displayName": "бровка",
+        "handle": "brofffka.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:buqromjx3viutuduihex6mdd",
+        "displayName": "Tall_n_nerdy",
+        "handle": "tallnerdy.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:c3dmygd5ujds24wsct3crdz6",
+        "displayName": "Nine Ravens Cemetery",
+        "handle": "nr-cemetery.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:cbmii44iny7oomt33ec3ab6t",
+        "displayName": "🤍❤️🤍 🇺🇦 vic𓂿or",
+        "handle": "viz.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:cc6igt4stjocuhiz4mlarhu4",
+        "displayName": "Беларусаед",
+        "handle": "belarusaed.gay"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:cer2rosmyap63isknejts64q",
+        "displayName": "kambeg",
+        "handle": "kambeg.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:cfdyu64lyelw5m7gtt3cd4is",
+        "displayName": "Pes Superbrat",
+        "handle": "superpes.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ct323riigv4pamohni667bu2",
+        "displayName": "Радыё Аршыца",
+        "handle": "orshafans.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:cvnccvfyzs6ail4ggwe3zw3v",
+        "displayName": "Alexander Galtsow",
+        "handle": "agaltsow.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:d3njej63ujzpghsohndhurxt",
+        "displayName": "Alexey Gulev",
+        "handle": "agulev.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:decnoubvnenfp73d3rjecqtk",
+        "displayName": "Svetliačok💜",
+        "handle": "kainsv.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:dipywg4eh5juc3oeq3ry264k",
+        "displayName": "Spravavy Čalaviek",
+        "handle": "spravavy.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:e6pa2j5l6bvk3uqoup6mnste",
+        "displayName": "Ihar Trafimovich",
+        "handle": "trafimovi.ch"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:eatchhypndy5lhoupkhk7ujp",
+        "displayName": "Воля",
+        "handle": "burkatuha.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:eecjzezs37byy4ngmllamiw5",
+        "handle": "hvedarnabilkin.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:eosf5tmldelsbgsuhup36tdk",
+        "handle": "khto-nikhto.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:epunbo4rkisdbrr345wku543",
+        "displayName": "Vikk’s",
+        "handle": "vikk.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ertyzfvxpqatcnfciufyirqy",
+        "displayName": "Toddzie",
+        "handle": "toddzie.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:et7gevpt3cpnmdhjgis35g4m",
+        "displayName": "kalahary",
+        "handle": "kalahary.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ewooiwr4gxqo7y6sau33jnro",
+        "displayName": " kurisu illusiä ✧",
+        "handle": "kurisuillusia.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:f5fo3qnnhfcaah5rmnxpz4vy",
+        "displayName": "Stanislav",
+        "handle": "stanleymoan.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:fle7b27irl5ybos24yj4dekk",
+        "displayName": "П⚈лиция Ск⚈рби",
+        "handle": "policeofsorrow.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:gdbqs7433rhbm2rudbenny7x",
+        "displayName": "Yahor Kliastoŭ",
+        "handle": "nineofsvvords.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:geedkryrxxasdotl67gzeway",
+        "displayName": "Весці з палёў",
+        "handle": "metronom.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:gfoyar4xnbzkbd7rgii45njt",
+        "displayName": "Jaŭhien Kazarcaŭ",
+        "handle": "kzrtsv.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ghfxgeofyqrzjk6phqv7goeq",
+        "displayName": "Mike Karpitski ",
+        "handle": "karpitsky.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:gl54j3xllsno2iagbxcsxm7c",
+        "displayName": "Ivan Dubovik",
+        "handle": "vandubovik.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:glqapaoptkptvlfqfwvhptgi",
+        "displayName": "Адмін цыбулінкі",
+        "handle": "cblnq.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:go6zqailawdc34funpssrfbl",
+        "displayName": "Rin🍒",
+        "handle": "pmpknx.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:gsdzgnzrspknyf3bwthpbzvl",
+        "handle": "gomzik.by"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:htjawe54laordmt6gd3i6ncl",
+        "handle": "mineralka.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:hyk3alrw6zt5twzez77u4nji",
+        "displayName": "Alina.by",
+        "handle": "lilisosoon.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:i2ztq24eueryk5pwxq7ccg7n",
+        "displayName": "Сонная 🌖",
+        "handle": "daisysad.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ic767juj6lwbdn3d3araklzy",
+        "displayName": "Idiot-cola",
+        "handle": "idiotcola.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:idpoip2vxwmnd3jvlrh5hcu2",
+        "displayName": "⟡ 𝔻𝔼𝕎𝕆𝕆 ⟡",
+        "handle": "rindewoo.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ig6ryyw3d64cawpkirkrbi4f",
+        "displayName": "tolanych",
+        "handle": "tolany.ch"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ijbfryhmmqwg3cxbn4rqll5g",
+        "displayName": "못만",
+        "handle": "r0ma.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:itwypmrertpsv3dhewadxdro",
+        "displayName": "Сонца",
+        "handle": "19lines.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:iuttkbpi72kqkwlwj5ufi4l3",
+        "displayName": "Vika Markouskaya",
+        "handle": "vikamarkouskaya.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:jgnpsp5jvtsp6xrodgpqrawd",
+        "displayName": "Vožyk",
+        "handle": "vozhyk.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:jovo7hf2spav2vvgrzrsbc3h",
+        "displayName": "Адарачка🐣🌸🤍❤️🤍🌼🐤",
+        "handle": "adarka.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:jzqnom6xuwldigjaophsupm5",
+        "displayName": "Былы Сын Былой Краіны",
+        "handle": "byly-byloj.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:k6bb46i3nl5qukkdgvjsbs3z",
+        "displayName": "Eva",
+        "handle": "evilfrau.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:kcd26vzxlrnbfmkuj36pol6o",
+        "displayName": "Mad'S, the tired Toxic Duck🦆💀",
+        "handle": "madsduck.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:keom4cbwcykttnh5yumdkbq7",
+        "displayName": "King Julien",
+        "handle": "mimimikalai.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ky5kl47p66anu4ypoapudbpc",
+        "displayName": "Лиса Анубиса",
+        "handle": "foxywitchery.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:kycjzdovu3f3fzjxrqxawymo",
+        "displayName": "Evil Sasha 🤍❤️🤍",
+        "handle": "evilsasha.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:kyovpk2o3qmte3xjzwfpq7xn",
+        "displayName": "pissedzhizn",
+        "handle": "pissedzhizn.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:lqz2he7armt77bwn2tcu3mas",
+        "displayName": "Роланд Дискейн ",
+        "handle": "serega20121981.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:lsjsz4satezt37rr24j5qmf7",
+        "displayName": "lucii7vel",
+        "handle": "lucii7vel.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:lyueslfzuunsl6eokm7uacd7",
+        "displayName": "𝕥𝕠𝕣𝕥𝕚𝕜 ",
+        "handle": "zloitortik.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:m2y3r4v7jnjki53t55dupbf7",
+        "displayName": "Kot⭐Sin",
+        "handle": "kotsin.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:m7ac2llffo7apgjikcrh4hiu",
+        "displayName": "Al_Č.",
+        "handle": "alch.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:m7jlrgvvfh7lqfplq2ft5isx",
+        "displayName": "SheriCat",
+        "handle": "zmrochyi.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:mdjpaf2axt7puferq4hms4gm",
+        "displayName": "Volia miasa Mumi-Trola",
+        "handle": "muuminliha.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:mdybb5t2sacipuquulpd5z7k",
+        "displayName": "Mikita",
+        "handle": "mikita.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:mn2st6q37hfj52ic2gtkm6t4",
+        "displayName": "Dev.by",
+        "handle": "devby.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:n2rcgffycwhga47345bbjor7",
+        "displayName": "Tim Zubreichuk",
+        "handle": "autotroph.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:o2efoix4pzh3vxpnzxhowyn3",
+        "displayName": "mpdblr",
+        "handle": "mienskimpd.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:odid2jqvg3reytquuqzt7ce5",
+        "displayName": "Uładźimir Hramadski 🇺🇦",
+        "handle": "hramadski.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ok42xyfm6omyhn6up6mrkwib",
+        "displayName": "Занадта пахмурна 🦒",
+        "handle": "yuyudik.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:onwioq5lrckit4pbpxrfpbl6",
+        "displayName": "Эль Кото",
+        "handle": "bykot.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:orxcarplakfk6cwmf3d7zi5n",
+        "displayName": "Пясецкі",
+        "handle": "kahanak.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ozexqkqttzkupqz6ch52u6h4",
+        "displayName": "Natalia Petrouchkevitch ",
+        "handle": "natusiok.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:phoo7bzl7y3shy5yq264qmtd",
+        "displayName": "Veranika",
+        "handle": "ipasadena.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:phydt3u3i74qpgtby3wyed4p",
+        "handle": "mayerpm.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:pimi5wsdgxkmxtlofqr4thkd",
+        "displayName": "сосновая шишечбка",
+        "handle": "gdzt.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:pvq5kq6b5elpftdzsql24aos",
+        "displayName": "Natallia",
+        "handle": "f3rin.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:q3tldanm53ssezzofyxfgxu5",
+        "displayName": "Зорная Шаць 🤍💔🤍",
+        "handle": "starryhoar.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:q5e4cm6kzdqpzekbxiv7pxhu",
+        "displayName": "šanoŭny ahreśiŭny vožyk Žžońe",
+        "handle": "sennutiny.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:qcfx3leo7uwxp6b2jswuk5rc",
+        "displayName": "hunter becomes hunted ",
+        "handle": "hunterdunter.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:qflon2envuzpdbmcaaxdoizs",
+        "displayName": "Ластаўка ў выраі     ◻️🟥◻️",
+        "handle": "lastavachka.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:qk4gqx2pv2teshxa43fm3gcj",
+        "displayName": "Aleś Karoza",
+        "handle": "krz.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:qka7iyusg2me46jotulwh4kw",
+        "displayName": "Ночь и Мщение",
+        "handle": "neutrinotrap.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:rgnjdhonc4eyd2bxb7ewihdo",
+        "displayName": "Pčv",
+        "handle": "paczvarny.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:rr2gkr6llhr3hqk5cwps5fw3",
+        "displayName": "Varožka",
+        "handle": "sija.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:rvwxmnulbzg4ynj54ys6jnwj",
+        "displayName": "amaralny pryhažun",
+        "handle": "goodnotbad.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:sj6rcwkswupevnxd6lknny7b",
+        "displayName": "Litvin z baradoj",
+        "handle": "mrbeardedman.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:t6ps7gnwklpva2zppiwwwgfe",
+        "displayName": "януш ",
+        "handle": "champanjan.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:tjpml7dinyk5ynjh32ko6dhl",
+        "displayName": "𝓙𝓲𝓶 𝓑𝓮𝓪𝓶𝔂č ®",
+        "handle": "beaminovich.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:tkrhhxujszeonrsupnycwzpl",
+        "displayName": "Маленькая радость",
+        "handle": "charmingtea.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ujq4ipqmwds4aj4zuo2ogiyb",
+        "displayName": "Calibro ❤️✊✌️🇺🇦🏳️‍🌈🏳️‍⚧️",
+        "handle": "dontevenask.me"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:umqudqbleetbmbmupaod5f5h",
+        "displayName": "Maksim Kliazovič ",
+        "handle": "kliazovich.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:uyrqxcv4dxsfekvm33un3kgf",
+        "displayName": "Агучка Кавярня",
+        "handle": "kaviarnia.com"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:vfidvfbgh6ioxel2pxk2qeh7",
+        "handle": "achtung1.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:vwcjpft5qdngtonfq6ku3xnw",
+        "displayName": "Таварыш Браўзэр",
+        "handle": "tavaryshb.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:vzbfgr2nn3gmfqug6s5hb2pn",
+        "displayName": "kynareth give me strenght",
+        "handle": "d1dice.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:wf7x4v7pm72efbvbhyuwhhul",
+        "displayName": "цмочыца ая",
+        "handle": "ayakhm.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:wiieodmfv35sahb74uaur4be",
+        "displayName": "Каза з катом",
+        "handle": "cowgoat.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:wrrguzvnrttzbnf5hr6gtalb",
+        "handle": "maryko.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:xcu6mnt3cavluoisvnjzoqmi",
+        "displayName": "Жужаль",
+        "handle": "zhuzhal.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:xheu35f6ytidg2yfc43jix7a",
+        "displayName": "Menavita ",
+        "handle": "menavitaonline.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:yg5gk2mnldzvafjz6b5gkwrp",
+        "displayName": "𐌕R𐌖𐌔𐌕 𐌍𐌏𐌕H𐌉𐌍G",
+        "handle": "trustnothing.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:yhemcjwr44o347fh5ot2wzil",
+        "displayName": "Свестулик ",
+        "handle": "svestulik.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:yhovihahn5of7fhjfsrxwjot",
+        "displayName": "Yinwille",
+        "handle": "yinwille.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:yrjcnonx477camnzka7n4nfw",
+        "displayName": "Ядовитый Пирожочек",
+        "handle": "matroskina.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ytoq2ufioilozuinsd57qshq",
+        "displayName": "vikes 🙇🏻‍♀️",
+        "handle": "vikes.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:z5dmhs5wqb4qfpkynhg45syi",
+        "displayName": "Гюнтэр з мястэчка Менск ",
+        "handle": "guntherfm.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:z6c53dtpuerhbby75muhpk2l",
+        "displayName": "Panie Kachanku",
+        "handle": "paniekachanku.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:zbiatras62ipa3rlhmdge4me",
+        "displayName": "Арэгана",
+        "handle": "arehana.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:zcxtsuyhak72m4f6tje2egj4",
+        "displayName": "batonio",
+        "handle": "speaker.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:zi6b6icf3mgrkc5yskremg45",
+        "displayName": "lkswznk",
+        "handle": "nieczakaj.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:zqp63rv7aa4rf6tly4exxqdk",
+        "displayName": "Вафля",
+        "handle": "windoversea.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:zwz5v2z673nnkmdpd2kzvpag",
+        "handle": "marharyta.bsky.social"
+      }
+    }
+  ],
+  "list": {
+    "$type": "",
+    "cid": "bafyreif6zqo2hayu3bmeyjhv5o7i3gbf622eejkgnaqk76pni6k6d5r35i",
+    "creator": null,
+    "description": "- якщо ви не хочете бачити білорусів у своїй стрічці - просто підпишіться на цей список\n- many Ukrainians chose to not interact with belarusians, as it's traumatizing and triggering to them, please respect that",
+    "indexedAt": "2023-07-11T08:18:51.627Z",
+    "name": "DNI: 🇧🇾 belaruskiy mir or adjacent",
+    "purpose": "app.bsky.graph.defs#modlist",
+    "uri": "at://did:plc:bmjomljebcsuxolnygfgqtap/app.bsky.graph.list/3k2aazxi53l23"
+  }
+}
