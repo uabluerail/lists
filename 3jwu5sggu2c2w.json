@@ -3957,13 +3957,6 @@
     },
     {
       "subject": {
-        "did": "did:plc:cwzujh3vggxawbyvkh2t5n2p",
-        "displayName": "thelma 🏳️‍⚧️💕",
-        "handle": "livelivid.bsky.social"
-      }
-    },
-    {
-      "subject": {
         "did": "did:plc:cxut2m3lo4i7t5qp7dakwltd",
         "displayName": "Twoey",
         "handle": "twoey2e.bsky.social"
@@ -4477,6 +4470,13 @@
         "did": "did:plc:e33gpsmkya6ffndmaw7sc3bt",
         "displayName": "Scapegoat ",
         "handle": "bod4obiscoito.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:e3ctbnkh6w2bhicvbvw7dsbi",
+        "displayName": "Allesca ☭",
+        "handle": "allesca.bsky.social"
       }
     },
     {
@@ -6068,6 +6068,13 @@
         "did": "did:plc:hij2iqdsnvq5y7fhybx3eavd",
         "displayName": "쏘비에뜨펭TV",
         "handle": "sovietpeng.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:him33ginlr5wpjnnj6gjvmfz",
+        "displayName": "Artuts",
+        "handle": "artuts.bsky.social"
       }
     },
     {
@@ -9946,6 +9953,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:pj4rxv5n3vbotm7tk6s63ihe",
+        "displayName": "Friedrich (Engels) the Great ☭",
+        "handle": "davidlaeber.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:pj5yzruetncjv756xhbbxmnn",
         "displayName": "BudgieSmuggler",
         "handle": "budgiesmuggler.bsky.social"
@@ -11584,7 +11598,7 @@
     {
       "subject": {
         "did": "did:plc:tdfg6h42ua76amv7zpavokqv",
-        "displayName": "Y☭nn-Bleiz",
+        "displayName": "Y☭nn·Bleiz",
         "handle": "yann-bleiz.bsky.social"
       }
     },
