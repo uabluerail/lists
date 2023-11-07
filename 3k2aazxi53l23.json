@@ -600,6 +600,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:mkz4rgcvxy72dxnq7idpvyyk",
+        "displayName": "Nadvorie",
+        "handle": "nadvorie.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:mn2st6q37hfj52ic2gtkm6t4",
         "displayName": "Dev.by",
         "handle": "devby.bsky.social"

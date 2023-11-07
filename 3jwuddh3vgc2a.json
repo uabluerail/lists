@@ -78,6 +78,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:57n46dkq5drdk7svgvqur3up",
+        "displayName": "Otocolobus manulka🇰🇿💙💛🇲🇨",
+        "handle": "gelena.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:5an3xgiqsyb5uuqlfis2fr2e",
         "displayName": "安东",
         "handle": "alcoyoga.bsky.social"
@@ -211,6 +218,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:bdkdd4agojslh72wnz5elp3u",
+        "displayName": "VMM",
+        "handle": "vugarma.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:ben2bpynauquadyybkr3hh66",
         "displayName": "Roman Shaposhnik",
         "handle": "rvs.bsky.social"
@@ -277,6 +291,13 @@
         "did": "did:plc:dao7g5d7zfyu5lhe2uqqycyy",
         "displayName": "Arseni Troitski",
         "handle": "blackdingus.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:dax27ashm46wybfnndvqqg4j",
+        "displayName": "P. A. from Munich 🇩🇪",
+        "handle": "papillon16.bsky.social"
       }
     },
     {
@@ -622,6 +643,13 @@
         "did": "did:plc:myesxgqndt4an4tdtqnqoyc4",
         "displayName": "David Castro ",
         "handle": "davidca.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:n3bjdrlckbxgaqifwxwotiq4",
+        "displayName": "Gani🇲🇩🇺🇦",
+        "handle": "gani74.bsky.social"
       }
     },
     {
@@ -1052,9 +1080,23 @@
     },
     {
       "subject": {
+        "did": "did:plc:wbsq3odqdeqlmbzg5uaojhso",
+        "displayName": "Boris Rudominsky",
+        "handle": "mirzo.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:wccixawfgnp7nuu4omosn5ha",
         "displayName": "ПиСдецкотёнку",
         "handle": "tinaarishina.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:wl4vuyzcnsdno5ptrm4qikve",
+        "displayName": "Lika Fox ",
+        "handle": "likafox.bsky.social"
       }
     },
     {
