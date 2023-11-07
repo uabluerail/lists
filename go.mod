@@ -4,11 +4,11 @@ go 1.21
 
 require (
 	github.com/rs/zerolog v1.31.0
-	github.com/uabluerail/bsky-tools v0.0.0-20231029143628-2c7fbfec92d5
+	github.com/uabluerail/bsky-tools v0.0.0-20231107083831-3340a2248801
 )
 
 require (
-	github.com/bluesky-social/indigo v0.0.0-20231018194245-d4dfa2e3d870 // indirect
+	github.com/bluesky-social/indigo v0.0.0-20231103003940-7be9693179e3 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang-jwt/jwt/v5 v5.0.0 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
