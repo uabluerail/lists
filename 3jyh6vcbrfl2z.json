@@ -321,6 +321,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:vkfrb2iesnedmqwhj6adtvc2",
+        "displayName": "Khaganate Appreciator",
+        "handle": "secularspacelaser.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:wfqkqq2rbspymaejfv364jjq",
         "displayName": "lura ☭🎀",
         "handle": "lura.veriny.tf"

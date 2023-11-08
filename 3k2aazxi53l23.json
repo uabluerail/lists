@@ -760,6 +760,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:sv5yi6mwu2gwh56ce7sku5af",
+        "displayName": "Ustinov Sergey",
+        "handle": "ustin13.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:t6ps7gnwklpva2zppiwwwgfe",
         "displayName": "януш ",
         "handle": "champanjan.bsky.social"
