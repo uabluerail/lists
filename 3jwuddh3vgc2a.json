@@ -619,6 +619,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:ligpqikerqcfiuorrvfhdiav",
+        "displayName": "Jam 𐰳𐰀𐰢",
+        "handle": "jam0s.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:lihfimmoayi5tcwslew3gbfe",
         "displayName": "Seva Khusid",
         "handle": "sevakhusid.bsky.social"
@@ -1153,6 +1160,13 @@
         "did": "did:plc:ydef2rm64ydou2is6rjawqrb",
         "displayName": "InkaVSOP",
         "handle": "zinkavsop.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:yjwmu55opszzumgauksolir2",
+        "displayName": "Ketty",
+        "handle": "kettyart.bsky.social"
       }
     },
     {

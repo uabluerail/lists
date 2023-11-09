@@ -523,6 +523,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:kmdekgukkahkm2sbdm6xcwdv",
+        "displayName": "Linux па-беларуску",
+        "handle": "gnulinuxbe.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:ky5kl47p66anu4ypoapudbpc",
         "displayName": "Лиса Анубиса",
         "handle": "foxywitchery.bsky.social"
@@ -788,6 +795,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:tldigpc3l5zbgfo3wd5mm7s2",
+        "displayName": "Дэзічка. ",
+        "handle": "archidaisy.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:ujq4ipqmwds4aj4zuo2ogiyb",
         "displayName": "Calibro ❤️✊✌️🇺🇦🏳️‍🌈🏳️‍⚧️",
         "handle": "dontevenask.me"
@@ -825,6 +839,13 @@
         "did": "did:plc:vzbfgr2nn3gmfqug6s5hb2pn",
         "displayName": "kynareth give me strenght",
         "handle": "d1dice.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:w6uyckxsizhy2gbdorcroflk",
+        "displayName": "Марозіва з водарам хлору",
+        "handle": "ejch6.bsky.social"
       }
     },
     {

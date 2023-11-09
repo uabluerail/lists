@@ -191,7 +191,7 @@
     {
       "subject": {
         "did": "did:plc:giip3jr2xysgzgcexh3h2ygz",
-        "displayName": "dogman superstar",
+        "displayName": "you",
         "handle": "commiebastard.bsky.social"
       }
     },
@@ -289,6 +289,13 @@
         "did": "did:plc:rdcfv5bwuitw3lng6f7azf3h",
         "displayName": "The Mriya",
         "handle": "themriyaaid.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:rvf73wrazkpwew2m4znsyjs6",
+        "displayName": "Maria Baronova",
+        "handle": "baronova.bsky.social"
       }
     },
     {
