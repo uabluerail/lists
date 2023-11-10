@@ -364,6 +364,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:fyr3yfge3lttrsejt7do6epw",
+        "displayName": "Dobski ",
+        "handle": "dobski.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:gdbqs7433rhbm2rudbenny7x",
         "displayName": "Yahor Kliastoŭ",
         "handle": "nineofsvvords.bsky.social"
@@ -732,6 +739,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:qk6vd7uzz7jywq2ajkgca2ks",
+        "displayName": "Mažoji_Šikšnosparnė",
+        "handle": "mazojis.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:qka7iyusg2me46jotulwh4kw",
         "displayName": "Ночь и Мщение",
         "handle": "neutrinotrap.bsky.social"
@@ -864,6 +878,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:wnmri2mt4y3bvtbo3yaqmlgp",
+        "displayName": "Трапеция",
+        "handle": "tr4pezium.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:wrrguzvnrttzbnf5hr6gtalb",
         "handle": "maryko.bsky.social"
       }
@@ -955,7 +976,7 @@
     {
       "subject": {
         "did": "did:plc:zqp63rv7aa4rf6tly4exxqdk",
-        "displayName": "Вафля",
+        "displayName": "Жэлешка",
         "handle": "windoversea.bsky.social"
       }
     },
