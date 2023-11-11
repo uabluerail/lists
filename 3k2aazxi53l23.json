@@ -149,6 +149,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:6farza5hvoo2ncaws6gaduid",
+        "displayName": "Jan Pona",
+        "handle": "jan-pona.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:6haygn7rgqz2wxbcpfvliwpw",
         "displayName": "Тадэвуш Падасцюшка",
         "handle": "tadevushp.bsky.social"
@@ -926,6 +933,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:yqgn6uupnk7mfnykc6xnbm64",
+        "displayName": "MΘRAY",
+        "handle": "anamoray.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:yrjcnonx477camnzka7n4nfw",
         "displayName": "Ядовитый Пирожочек",
         "handle": "matroskina.bsky.social"
@@ -976,7 +990,7 @@
     {
       "subject": {
         "did": "did:plc:zqp63rv7aa4rf6tly4exxqdk",
-        "displayName": "Жэлешка",
+        "displayName": "Жэлейная вафля",
         "handle": "windoversea.bsky.social"
       }
     },

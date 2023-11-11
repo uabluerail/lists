@@ -36,6 +36,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:3xvkquralp4x4hu5vwu5ehit",
+        "displayName": "ShuryaSHISH 🔞 ",
+        "handle": "shuryashish.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:3zhcfblo6vsf5dbi3y4cwtuv",
         "displayName": "Anton Arhipov ",
         "handle": "antonarhipov.bsky.social"
@@ -123,6 +130,13 @@
         "did": "did:plc:6treiwvaunhy6v6xwrseipjm",
         "displayName": "🇧🇷Belkus Vulgaris",
         "handle": "belkus.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:74vrfcvjin544uuromqgzvws",
+        "displayName": "Кибернетик Снаут",
+        "handle": "snautsolaris.bsky.social"
       }
     },
     {
@@ -1244,6 +1258,13 @@
         "did": "did:plc:zjsabggfnrdhwcbiujjmlyxr",
         "displayName": "niemda",
         "handle": "niemda.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:zqypaexdgf6kroz5rpglrbpy",
+        "displayName": "Abby Scripka",
+        "handle": "abbyscripka.bsky.social"
       }
     },
     {
