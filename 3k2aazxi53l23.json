@@ -656,6 +656,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:ogxaho7kocjgieg7h4wyxynx",
+        "displayName": "Не Дартс, но Вербер",
+        "handle": "nadzeia.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:ok42xyfm6omyhn6up6mrkwib",
         "displayName": "Занадта пахмурна 🦒",
         "handle": "yuyudik.bsky.social"
@@ -833,6 +840,13 @@
         "did": "did:plc:umqudqbleetbmbmupaod5f5h",
         "displayName": "Maksim Kliazovič ",
         "handle": "kliazovich.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:uszue7do2pcfl4gkhb2srf5x",
+        "displayName": "Млявасць",
+        "handle": "radacast.bsky.social"
       }
     },
     {

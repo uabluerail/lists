@@ -1804,6 +1804,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:5t52sxk7uvebeamtfv355mxx",
+        "displayName": "a. ishmael ",
+        "handle": "aishmael.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:5tbag2txktzq7xrqvfbplils",
         "displayName": "Jamie Brown ☭",
         "handle": "jamesmarxian.bsky.social"
@@ -1884,6 +1891,13 @@
         "did": "did:plc:62a63qfy7s4li5rtq5udq3sn",
         "displayName": "Milan Pablo",
         "handle": "milanpablo.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:62dk7qkmhtmgpz7ozxonljla",
+        "displayName": "Fahad Hossain ",
+        "handle": "fa7ad.bsky.social"
       }
     },
     {
@@ -2804,7 +2818,7 @@
     {
       "subject": {
         "did": "did:plc:a4lqe5dzedqstokj3kdoa3rb",
-        "displayName": "Clara de Limón🍋",
+        "displayName": "trаnny devito // Clara de Limón🍋",
         "handle": "clara-de-lemon.bsky.social"
       }
     },
@@ -5892,7 +5906,7 @@
     {
       "subject": {
         "did": "did:plc:gr6glr3getmxszdshfg6zozs",
-        "displayName": "blocked by pfrazee 🏴‍☠️",
+        "displayName": "🏴‍☠️ blocked by pfrazee 🇵🇸",
         "handle": "hstark.bsky.social"
       }
     },
@@ -9288,7 +9302,7 @@
     {
       "subject": {
         "did": "did:plc:nouw5qiblevyqi6seetauwcl",
-        "displayName": "Isaac, that's it (VOIDLOT) 🌿♦️",
+        "displayName": "Isaac, that's it (VOIDLOT) 🍉",
         "handle": "voidlot.bsky.social"
       }
     },
@@ -9365,8 +9379,8 @@
     {
       "subject": {
         "did": "did:plc:nspb4s5gdzfxcbidu56ej2ft",
-        "displayName": "Humech",
-        "handle": "humech.bsky.social"
+        "displayName": "Humecha",
+        "handle": "humecha.bsky.social"
       }
     },
     {
@@ -9540,7 +9554,7 @@
     {
       "subject": {
         "did": "did:plc:oafqvo4jex5mmsalstyprjv4",
-        "displayName": "🦇 Momento Mori 🦇 ",
+        "displayName": "Mori Croft",
         "handle": "momentomori.bsky.social"
       }
     },
@@ -11240,7 +11254,7 @@
     {
       "subject": {
         "did": "did:plc:rvnggyycty6dqqrc6sv3qerv",
-        "displayName": "TrainEnjoyer🇵🇸🇨🇺",
+        "displayName": "TrainEnjoyer",
         "handle": "peppapigthought.bsky.social"
       }
     },
@@ -11576,7 +11590,7 @@
     {
       "subject": {
         "did": "did:plc:sscklijuxnogjygsxm7fzm7u",
-        "displayName": "☭🏳️‍⚧️🇵🇸",
+        "displayName": "☭       🏳️‍⚧️      🇵🇸",
         "handle": "transanarchist.bsky.social"
       }
     },

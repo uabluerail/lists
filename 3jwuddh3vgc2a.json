@@ -419,6 +419,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:fqjmk2ser743bqozqefjfqld",
+        "displayName": "St.Parazyth",
+        "handle": "parazyth.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:fxirbgkqy7rzn3e2jwcvmcv6",
         "displayName": "Oleg Zhuravlev",
         "handle": "zhuravlev.bsky.social"
