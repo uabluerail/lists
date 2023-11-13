@@ -226,6 +226,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:5zylmat6q7rnj2fdysxv52cj",
+        "displayName": "Michelle Perez",
+        "handle": "michelleperez.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:62iu2x72ypwjpqz6xc3zrnsm",
         "displayName": "dysphoria sommelier",
         "handle": "takecamera2.bsky.social"
@@ -896,6 +903,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:hwjlhms4tyxjkxes7qpgis7u",
+        "displayName": "Red Emmy",
+        "handle": "redemmy2.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:hwk7n46vzilundet5ki3j7km",
         "displayName": "iPad Expert",
         "handle": "byyourlogic.bsky.social"
@@ -927,6 +941,13 @@
         "did": "did:plc:ikcemwsxcyysw4uo57ribyvi",
         "displayName": "chip goines",
         "handle": "chip.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ikuvyyzinrrojzi4dtvtknkb",
+        "displayName": "TH (The Stuffing King arc)",
+        "handle": "yaboyth.bsky.social"
       }
     },
     {
@@ -1572,6 +1593,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:ukbehp635c2dt3st4f7cnmur",
+        "displayName": "Weird Alex",
+        "handle": "jackalpants.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:uuy6bu77jsu5sihkov2wpnpg",
         "displayName": "Luna 🌒🌕🌘",
         "handle": "txbeergoddess.bsky.social"
@@ -1608,7 +1636,7 @@
     {
       "subject": {
         "did": "did:plc:vjxhm76k5blwbkc5f3cygdgn",
-        "displayName": "breakbeat takeshi 🏳️‍🌈",
+        "displayName": "metal gear solid: kush coma 🏳️‍🌈",
         "handle": "disco-socialist.bsky.social"
       }
     },
@@ -1617,6 +1645,12 @@
         "did": "did:plc:vlsyzno7ktw6wgsdbw3kgvt2",
         "displayName": "Mimi",
         "handle": "idkyrbffmimi.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:vnegrfadyuf55wswrofctyfr",
+        "handle": "kafkapresents.bsky.social"
       }
     },
     {
@@ -1673,6 +1707,13 @@
         "did": "did:plc:wohaewr47ifb5dwrbdmgiczu",
         "displayName": "беа – королева fake",
         "handle": "koroleva.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:wxsrzcbkqbwydeaifa5fl3lz",
+        "displayName": "Flora Orientalis Cascades ",
+        "handle": "thomasbelfield.bsky.social"
       }
     },
     {

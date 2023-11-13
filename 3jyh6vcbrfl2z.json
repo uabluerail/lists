@@ -335,6 +335,12 @@
     },
     {
       "subject": {
+        "did": "did:plc:vnegrfadyuf55wswrofctyfr",
+        "handle": "kafkapresents.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:wfqkqq2rbspymaejfv364jjq",
         "displayName": "lura ☭🎀",
         "handle": "lura.veriny.tf"
@@ -352,6 +358,13 @@
         "did": "did:plc:ww5b2qaef7tjlrrejqwicrih",
         "displayName": "naomi 🪂",
         "handle": "kaimai.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:wxsrzcbkqbwydeaifa5fl3lz",
+        "displayName": "Flora Orientalis Cascades ",
+        "handle": "thomasbelfield.bsky.social"
       }
     },
     {
