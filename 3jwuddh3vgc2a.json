@@ -544,6 +544,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:i4v56vjkjvcpewpfrk7j45z5",
+        "displayName": "The Goddamnit Emperor mitori",
+        "handle": "mitori.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:i5pqlp447ffipfxxhhkwc5xn",
         "displayName": "Sasha Blo",
         "handle": "sashablo.bsky.social"
@@ -831,6 +838,13 @@
         "did": "did:plc:osiefzovwm6oqdldjfy6b7yp",
         "displayName": "Oleg Varõpajev🇫🇮🇪🇺🇪🇪",
         "handle": "varooleg71.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ostsn666dc374siw6em63cbx",
+        "displayName": "Vera",
+        "handle": "provocaty.bsky.social"
       }
     },
     {
@@ -1230,6 +1244,13 @@
         "did": "did:plc:xgqq44rnkjgz35cprox5ps5m",
         "displayName": "Andrei",
         "handle": "cainntear.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:xoykwgnpy4px5oeggl2khvsn",
+        "displayName": "Latin Verb Primavera",
+        "handle": "latinverb.bsky.social"
       }
     },
     {
