@@ -705,6 +705,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:mbea5jlbwyvmjv2h2wvytgnw",
+        "displayName": "Шо пасёш, падпісвайся",
+        "handle": "shopasesh.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:mdjpaf2axt7puferq4hms4gm",
         "displayName": "Volia miasa Mumi-Trola",
         "handle": "muuminliha.bsky.social"
@@ -734,7 +741,7 @@
     {
       "subject": {
         "did": "did:plc:mvgbegahworrmtxn2w66zsaj",
-        "displayName": "Kai su, bygay 💫",
+        "displayName": "Kai su, bygåy 💫",
         "handle": "bygay.bsky.social"
       }
     },
@@ -1103,6 +1110,13 @@
         "did": "did:plc:xheu35f6ytidg2yfc43jix7a",
         "displayName": "Menavita ",
         "handle": "menavitaonline.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:xj3fhebxvf7jtcpjslwy46jj",
+        "displayName": "Yull Ahrest ⚪🔴⚪",
+        "handle": "ahrest.bsky.social"
       }
     },
     {

@@ -155,6 +155,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:75xkfer2xjuzu2fuyotmgscg",
+        "displayName": "🌟",
+        "handle": "sosiskiklass.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:76dplznha3v3zu334mm35kr4",
         "displayName": "Magistr",
         "handle": "aopab.art"

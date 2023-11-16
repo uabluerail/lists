@@ -9,6 +9,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:53r5cp2f2wly2y43qm2slfal",
+        "displayName": "EndryX",
+        "handle": "endry.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:5hl24rtzjhxgazagihzunjvk",
         "displayName": "Chris 🇩🇪 🇺🇦",
         "handle": "eiwasdann.bsky.social"

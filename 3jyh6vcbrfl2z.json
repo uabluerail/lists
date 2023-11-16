@@ -57,6 +57,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:53r5cp2f2wly2y43qm2slfal",
+        "displayName": "EndryX",
+        "handle": "endry.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:556xmpymuwrvbubumgc4mv5z",
         "displayName": "🇺🇦goblin ",
         "handle": "goblinsoup.bsky.social"
