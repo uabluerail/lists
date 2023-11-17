@@ -5810,6 +5810,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:mxwhjav7zw4nt3szgck4rwte",
+        "displayName": "SPbugene ",
+        "handle": "spbugene.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:mytrg7vgwfbb3e622iroaqp5",
         "displayName": "Alina Litvinova ",
         "handle": "alberry.bsky.social"
@@ -6609,6 +6616,13 @@
         "did": "did:plc:pkgha4wia4s7xck4rd3n3vsv",
         "displayName": "NanElmot",
         "handle": "nanelmot.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:plcoh4gipnlgome6t5xhceno",
+        "displayName": "senkasadva",
+        "handle": "senkasadva.bsky.social"
       }
     },
     {
