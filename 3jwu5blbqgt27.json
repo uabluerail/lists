@@ -3666,6 +3666,12 @@
     },
     {
       "subject": {
+        "did": "did:plc:fwebqbbb4kpmhfrzaf4mvi3a",
+        "handle": "sibiryak.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:fyqrv5iz5c2osl5il5irwvvh",
         "displayName": "Эсха",
         "handle": "milkystep.bsky.social"
@@ -4325,7 +4331,7 @@
     {
       "subject": {
         "did": "did:plc:iajrkczfbujd64jjmujh6nfa",
-        "displayName": "double dory",
+        "displayName": "double Dorothy ",
         "handle": "dailydarling.bsky.social"
       }
     },
@@ -4781,6 +4787,13 @@
         "did": "did:plc:jsrtqs66fxo5i7yraufkweb4",
         "displayName": "Selann",
         "handle": "selann.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:jtbwsm53tbc423rvgz4hl4ad",
+        "displayName": "2lex",
+        "handle": "2lex.bsky.social"
       }
     },
     {
@@ -5736,6 +5749,13 @@
       "subject": {
         "did": "did:plc:mred4uiiyrs7jzasrlmlxgu2",
         "handle": "random-goer.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:mrwfwqpozzjbl6ytu3x3a55c",
+        "displayName": "Teos, but even worse",
+        "handle": "teosverdi.bsky.social"
       }
     },
     {
@@ -7051,6 +7071,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:qtopomhvubylr5jkgrhygxor",
+        "displayName": "китайские флюиды",
+        "handle": "3ae4.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:qtucqt2znobqukm54o2ji67k",
         "displayName": "Mintyllete || Мятничка",
         "handle": "mintyllete.bsky.social"
@@ -7387,6 +7414,7 @@
     {
       "subject": {
         "did": "did:plc:rxccqmpqua2zhmihxd4ddyaq",
+        "displayName": "BBoogwin",
         "handle": "bboogwin.bsky.social"
       }
     },
@@ -7646,6 +7674,13 @@
         "did": "did:plc:sq2bjsq3w6ode6mb4hndyldq",
         "displayName": "Тот Самый",
         "handle": "plohoitovarisch.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:sriwrmxmxoljakb5meyhqobu",
+        "displayName": "Странный психолог",
+        "handle": "psycholog.bsky.social"
       }
     },
     {
@@ -9402,6 +9437,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:yr7qond22qla7bsfx6kj2pqx",
+        "displayName": "Мама Стифлера",
+        "handle": "kaydenpub.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:yrcfyum5k5duko7xbh23ygdi",
         "displayName": "Ну, как-то так",
         "handle": "rezzo.bsky.social"
@@ -9492,6 +9534,7 @@
     {
       "subject": {
         "did": "did:plc:z4enkrrsajg4fyk764so4urz",
+        "displayName": "Саша Тоехара",
         "handle": "archeveque.bsky.social"
       }
     },

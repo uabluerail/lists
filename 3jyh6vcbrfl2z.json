@@ -382,6 +382,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:yr7qond22qla7bsfx6kj2pqx",
+        "displayName": "Мама Стифлера",
+        "handle": "kaydenpub.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:zepiozrsi6xi5aa3oneqnshg",
         "displayName": "International Legion Fund ",
         "handle": "intlegionfund.bsky.social"
