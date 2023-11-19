@@ -356,6 +356,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:2tv3hfjwfyjij52uye2astv7",
+        "displayName": "h3llsyu ",
+        "handle": "h3llsyu.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:2u2x6c2wv6mnyzy56s4qo6eo",
         "displayName": "Comrade Alita ☭☭",
         "handle": "comradealita.bsky.social"
@@ -981,6 +988,13 @@
         "did": "did:plc:43j2yqxuxjm4yyxvmay5xjxv",
         "displayName": "Quirky (but not quarky) Electron",
         "handle": "electron.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:442ctings2pdczdakhxvo7oc",
+        "displayName": "☭🏳️‍⚧️📕",
+        "handle": "slaterisgay.bsky.social"
       }
     },
     {
@@ -2999,7 +3013,7 @@
     {
       "subject": {
         "did": "did:plc:afioobsamkdjiagnyn4elql5",
-        "displayName": "TibaldTheBlue🍉",
+        "displayName": "TibaldTheBlue",
         "handle": "tibaldtheblue.bsky.social"
       }
     },
@@ -3076,7 +3090,7 @@
     {
       "subject": {
         "did": "did:plc:an3uoatp4wltzvdvfqg2kb2x",
-        "displayName": "⛓️🕯☆ 𝔏𝔲𝔡𝔴𝔦𝔤 θΔ☭🕯⛓️",
+        "displayName": "⛓️🕯☆ 𝔏𝔲𝔡𝔴𝔦𝔤 θΔ☭🕯⛓️🔞",
         "handle": "lddraws.bsky.social"
       }
     },
@@ -5339,7 +5353,7 @@
     {
       "subject": {
         "did": "did:plc:fdbks7ugpy5i6nweuhffho4b",
-        "displayName": "🕯️🪦𝔱𝔥𝔢 𝔩𝔦𝔠𝔱𝔬𝔯 𝔬𝔣 𝔱𝔥𝔯𝔞𝔰𝔥🪦🕯️",
+        "displayName": "🥧🦃𝔱𝔥𝔢 𝔩𝔦𝔠𝔱𝔬𝔯 𝔬𝔣 𝔱𝔥𝔯𝔞𝔰𝔥🦃🥧",
         "handle": "ubergreen.bsky.social"
       }
     },
@@ -6375,6 +6389,13 @@
         "did": "did:plc:hl3b7uxrev3xorm27z7np63u",
         "displayName": "FranzmitL ",
         "handle": "franzmitl.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:hlh2u7vhbe3iok5tx5swuo6o",
+        "displayName": "Murph ☭",
+        "handle": "bobbylmurphy.bsky.social"
       }
     },
     {
@@ -7563,7 +7584,7 @@
     {
       "subject": {
         "did": "did:plc:k24fkgdkz44rpwsla6q2tdla",
-        "displayName": "rachy 🐌",
+        "displayName": "rachy🐌",
         "handle": "gourdhugs.bsky.social"
       }
     },
@@ -8331,7 +8352,7 @@
       "subject": {
         "did": "did:plc:lbdrnz3wtouzp5v5xxsfnjrd",
         "displayName": "Freso 🇵🇸",
-        "handle": "freso.bsky.social"
+        "handle": "freso.dk"
       }
     },
     {
@@ -9596,7 +9617,7 @@
     {
       "subject": {
         "did": "did:plc:o2dz5dqkt64fdbvnutc4472w",
-        "displayName": "Alex ☭ (they/them) 🇵🇸",
+        "displayName": "🔻Alex🔻☭ (they/them) 🇵🇸",
         "handle": "gothgf.bsky.social"
       }
     },
@@ -11401,7 +11422,7 @@
     {
       "subject": {
         "did": "did:plc:rxlo3cnj3a6cm55jwfqgfn55",
-        "displayName": "Brian Mulvey",
+        "displayName": "Brian Mulvey 🍉 ",
         "handle": "brianmulvey.bsky.social"
       }
     },
@@ -11466,6 +11487,13 @@
         "did": "did:plc:s4mr5odcb6r2opyycw7mr7q6",
         "displayName": "Windy|☭∞🦇🔊🛡",
         "handle": "nhagio.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:s4tt6jmspq3jqkc4gpiz5f7t",
+        "displayName": "Jokinha",
+        "handle": "mestrejokinha.bsky.social"
       }
     },
     {
@@ -11702,7 +11730,7 @@
     {
       "subject": {
         "did": "did:plc:sol3zhr6ra4tb2qanmmd7rl3",
-        "displayName": "🎲🎱Jinx🎱🎲",
+        "displayName": "Jinx ",
         "handle": "ahjuicyfruit.bsky.social"
       }
     },
@@ -12624,7 +12652,7 @@
     {
       "subject": {
         "did": "did:plc:uraielgolztbeqrrv5c7qbce",
-        "displayName": "Reputable Journalist Kairi E. Empress",
+        "displayName": "Kairi, Estrogen Empress 🏳️‍⚧️",
         "handle": "estrogenempress.gay"
       }
     },
@@ -13259,7 +13287,7 @@
     {
       "subject": {
         "did": "did:plc:w5ttkkgcd4ieqte5bfmdtkea",
-        "displayName": "Ner0 ☭",
+        "displayName": "Nero ☭",
         "handle": "ner0.bsky.social"
       }
     },
@@ -13671,7 +13699,7 @@
     {
       "subject": {
         "did": "did:plc:x6non3suffouw2tggohjjtem",
-        "displayName": "lauren thee comrade ☭",
+        "displayName": "lauren thee comrade ☭🇵🇸🇨🇩🇸🇩",
         "handle": "sadxcomrade.bsky.social"
       }
     },
@@ -14629,7 +14657,7 @@
     {
       "subject": {
         "did": "did:plc:yzvkvbuv3fdwf2hoywb3tmvy",
-        "displayName": "Purlane 🇵🇸",
+        "displayName": "🇵🇸 Purlane 🔜 FC",
         "handle": "purlane.ink"
       }
     },
@@ -15028,7 +15056,7 @@
     {
       "subject": {
         "did": "did:plc:zxpwqngk2qwffu3gt37mkrds",
-        "displayName": "austin",
+        "displayName": "🇵🇸 austin 🇵🇸",
         "handle": "bainard.bsky.social"
       }
     },
@@ -15072,6 +15100,13 @@
         "did": "did:plc:zz3w2kplweq6wmcr3ix3kajv",
         "displayName": "Lane (he/him)",
         "handle": "lane1312.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:zzjvoppucnt73xuy4a6hxsxx",
+        "displayName": "esquerdogata do tchan ☭",
+        "handle": "dehgarcia.bsky.social"
       }
     }
   ],

@@ -538,6 +538,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:3ufng3kdrvz7gmd6nbztb3fp",
+        "displayName": "Разность Потанцевалов",
+        "handle": "stuslo.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:3v7xppuqwc6x6yvzjxyqxbn4",
         "displayName": "люси",
         "handle": "lucykertesz.bsky.social"
@@ -2944,6 +2951,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:dpivfj26vofifksapnwrmihe",
+        "displayName": "Каркот",
+        "handle": "deadlinehero.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:dqeukxbyxlxps574hhfvqv25",
         "handle": "vladshestel.bsky.social"
       }
@@ -5126,6 +5140,7 @@
     {
       "subject": {
         "did": "did:plc:kuquza3yf2ojb73nzdxv37zs",
+        "displayName": "pytat0",
         "handle": "milkspace.xyz"
       }
     },
