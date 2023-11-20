@@ -530,6 +530,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:ifcg6ulu553bek36msxbvver",
+        "displayName": "Silvermooncat",
+        "handle": "silvermooncat.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:ig6ryyw3d64cawpkirkrbi4f",
         "displayName": "tolanych",
         "handle": "tolany.ch"
