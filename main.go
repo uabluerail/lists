@@ -37,6 +37,7 @@ var lists = []string{
 	"at://did:plc:bmjomljebcsuxolnygfgqtap/app.bsky.graph.list/3kazgj5h6rh25", // FYI: Anonymous accounts
 	"at://did:plc:bmjomljebcsuxolnygfgqtap/app.bsky.graph.list/3k44nt5jqug2g", // FYI: � OSINT
 	"at://did:plc:bmjomljebcsuxolnygfgqtap/app.bsky.graph.list/3k44n5o5osg2z", // FYI: �� Bots
+	"at://did:plc:bmjomljebcsuxolnygfgqtap/app.bsky.graph.list/3keb6kxesnx2c", // DNI: RuTwi EXTENDED (automated)
 }
 
 func runMain(ctx context.Context) error {
