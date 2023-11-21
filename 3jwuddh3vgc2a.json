@@ -204,6 +204,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:aitulbkc5iqlkixyx3r6i7cn",
+        "displayName": "Arvy",
+        "handle": "arvy.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:an5pxnrxzmeh4b33ck6awx4o",
         "displayName": "anastasia🐻‍❄️❤️‍🩹🇸🇪🕊️ᶠʳᵒᵐ ",
         "handle": "mrsgreenchy.bsky.social"
@@ -402,6 +409,13 @@
         "did": "did:plc:ettri5wzexsdlvyhfvyyxysg",
         "displayName": "Andreas !!!1!1!11!!",
         "handle": "dinozinhoinho.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ewljbtkvanrwqmvdopfnpdas",
+        "displayName": "Alex",
+        "handle": "biryuk.bsky.social"
       }
     },
     {
@@ -1013,6 +1027,13 @@
         "did": "did:plc:rhm33d7ornhlufhflyyoyrni",
         "displayName": "DarkMoonRAY",
         "handle": "darkmoonray.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:rnjixuzh74zmzgfyxh35bipk",
+        "displayName": "Klimarev Mikhail ",
+        "handle": "klimarev.bsky.social"
       }
     },
     {

@@ -22,6 +22,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:3ksolji6twa5rjqbp2m5brmv",
+        "displayName": "arno",
+        "handle": "arnokim7.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:3mo4e4v5lmbh5wyd2cu2pw5k",
         "displayName": "a haunted house of gay trauma",
         "handle": "mordantivore.bsky.social"
@@ -315,7 +322,7 @@
     {
       "subject": {
         "did": "did:plc:smmuzxhbumgqptziqeujv2su",
-        "displayName": "BASED ARYAN CHAD 🇰🇵🇨🇺🇮🇷🇻🇪🇵🇸",
+        "displayName": "SCARING THE HOES 🇰🇵🇨🇺🇮🇷🇻🇪🇵🇸",
         "handle": "killergorilla.bsky.social"
       }
     },
