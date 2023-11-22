@@ -415,6 +415,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:3evobeugz7lonlbsmns2dhpf",
+        "displayName": "talya schedar",
+        "handle": "neriumschedar.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:3gdxjrxfzs5i2we7epqcv5ge",
         "displayName": "сиги и серёжки ⛅ ",
         "handle": "oksirok.bsky.social"
@@ -611,6 +618,13 @@
         "did": "did:plc:3yn5u3p6c5k4cv7rivigcqje",
         "displayName": "холи гуакамоли!",
         "handle": "pawpawpower23.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:3zzls5d7najpcloqnvzpjy2h",
+        "displayName": "Tatjana",
+        "handle": "mirfak.bsky.social"
       }
     },
     {
@@ -3748,6 +3762,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:fukg2ntb5cfvsptu5upvowdk",
+        "displayName": "zаshtshееshtshауоushtshееkhsуа",
+        "handle": "cepauptytb.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:ful2cbslpdtrvav7yxc4bfwr",
         "displayName": "vsevoλod",
         "handle": "rasiel.bsky.social"
@@ -4520,6 +4541,13 @@
         "did": "did:plc:iewgum35orvv45imxeakqznc",
         "displayName": "атомная черничка",
         "handle": "majougari.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:if66ry5w75lknkwhryhdqr5q",
+        "displayName": "Maat",
+        "handle": "hgk.bsky.social"
       }
     },
     {
@@ -7148,7 +7176,7 @@
       "subject": {
         "did": "did:plc:qneqjzhqvly2cq7vgkd2b55q",
         "displayName": "Vladimir",
-        "handle": "skij.ru"
+        "handle": "handle.invalid"
       }
     },
     {
@@ -7156,6 +7184,13 @@
         "did": "did:plc:qp5bqil7idn5djj25ckqeoqg",
         "displayName": "Kiyoomi",
         "handle": "verlainessorrow.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:qqawv7hendbtnlbfevgaz7k4",
+        "displayName": "Vugar R",
+        "handle": "vugar.bsky.social"
       }
     },
     {
@@ -9858,7 +9893,7 @@
       "subject": {
         "did": "did:plc:zkifzvpl6l5snzj6iq5rmzkt",
         "displayName": "Anton Shcherbakov",
-        "handle": "scherbakov.top"
+        "handle": "handle.invalid"
       }
     },
     {

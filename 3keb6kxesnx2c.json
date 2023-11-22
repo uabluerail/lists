@@ -2934,6 +2934,7 @@
     {
       "subject": {
         "did": "did:plc:iuerm3qewj6u2k7fzub5v3r3",
+        "displayName": "Вендичка",
         "handle": "wendyjm.bsky.social"
       }
     },
@@ -5651,7 +5652,7 @@
     {
       "subject": {
         "did": "did:plc:x252riwngkpqlyq74ngdt3sc",
-        "displayName": "иджболина идгафқызы",
+        "displayName": "дельта",
         "handle": "sutaroberi.bsky.social"
       }
     },
@@ -6294,7 +6295,7 @@
   ],
   "list": {
     "$type": "",
-    "cid": "bafyreieq3zwj4pk7fau44bx3mfqnx3krnbxls5jrnbrt24hh44klbq6rmi",
+    "cid": "bafyreif6duudeh4at4uotk6ggvez26t2kpspeeqdwd4c7ycp5btwr2h7p4",
     "creator": null,
     "description": "EXPERIMENTAL\n\nCommunity detection algorithm extended list based on 3 existing lists: \n🇷🇺 RU, 🩰 RU adjacent, 🇧🇾 BEL +adjacent.\nFully automated.",
     "indexedAt": "2023-11-15T23:19:17.026Z",
