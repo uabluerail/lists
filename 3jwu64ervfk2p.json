@@ -247,6 +247,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:cf4gumixaiavgbakd26zd5id",
+        "displayName": "gogurts (she/her)",
+        "handle": "gogurts.tube"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:cflir2zo6prul7qazy5mio2q",
         "displayName": "Sarah Walsh",
         "handle": "bigdamnherossir.bsky.social"
@@ -619,7 +626,7 @@
     {
       "subject": {
         "did": "did:plc:r6xugwwpp4ss5liddodf7thw",
-        "displayName": "River Badge Truther 👀",
+        "displayName": "🎄❄️Seasonal Depression ❄️🎄",
         "handle": "notenoughcrows.bsky.social"
       }
     },
@@ -752,7 +759,7 @@
     {
       "subject": {
         "did": "did:plc:wnimfrqb3r6jokmsbonqaq3x",
-        "displayName": "Zora 🐶",
+        "displayName": "Zora Elbe",
         "handle": "zora.red"
       }
     },
@@ -878,7 +885,7 @@
     {
       "subject": {
         "did": "did:plc:zohm4as5bd67mjpdggblvckq",
-        "displayName": "tïçøšůăvæ",
+        "displayName": "ticosuave",
         "handle": "jer.bsky.social"
       }
     },

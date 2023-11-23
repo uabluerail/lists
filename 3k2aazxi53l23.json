@@ -642,6 +642,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:ko6um3rqrsy763izbdvvjc3x",
+        "displayName": "thepixelphoenix",
+        "handle": "thepixelphoenix.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:ky5kl47p66anu4ypoapudbpc",
         "displayName": "Лиса Анубиса",
         "handle": "foxywitchery.bsky.social"

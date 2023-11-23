@@ -155,6 +155,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:75knpp4xpldoslmayv74ljp4",
+        "displayName": "Gela Shabbat ",
+        "handle": "gelashabbat.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:75xkfer2xjuzu2fuyotmgscg",
         "displayName": "🌟",
         "handle": "sosiskiklass.bsky.social"
@@ -1125,6 +1132,27 @@
         "did": "did:plc:tipx4lczo4bvyf44m65p4y42",
         "displayName": "Pasha Borisov",
         "handle": "frailtynine.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:tk3s766s33yvvnfisr7jovti",
+        "displayName": "раньвань🦋",
+        "handle": "ranxiwan.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:tpl3eltnyuhwmtejkezt36uq",
+        "displayName": "Lukafil",
+        "handle": "lukafil.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:u6bu6vipdxv3hiff2fwxbxjy",
+        "displayName": "Nietanya",
+        "handle": "nietanya.bsky.social"
       }
     },
     {

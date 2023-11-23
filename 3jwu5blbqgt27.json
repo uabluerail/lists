@@ -193,6 +193,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:2sj6kncjxvwls3bgdxy63vr2",
+        "displayName": "Лелишна",
+        "handle": "lampa2707.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:2tlmvc63r5auw65hjrcjvmfw",
         "displayName": "ixus",
         "handle": "1xus.bsky.social"
@@ -1275,6 +1282,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:5tknavwrqdqzqwgcnymhjcy6",
+        "displayName": "FK",
+        "handle": "korochkin.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:5u4isxfguabjavvrf7s7l2nw",
         "displayName": "yegor skovoroda",
         "handle": "skovoroda.bsky.social"
@@ -1331,6 +1345,20 @@
     },
     {
       "subject": {
+        "did": "did:plc:5yhfadkoucdsjcbouhjaqq3s",
+        "displayName": "заблудившийся омнибус ",
+        "handle": "anniemerevaik.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:5yqpelpwlbhmdlkumdsemuue",
+        "displayName": "Ina",
+        "handle": "fayris.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:5yrx3hzjidizpuhl5qplpleq",
         "handle": "togusarusso.bsky.social"
       }
@@ -1340,6 +1368,13 @@
         "did": "did:plc:5yypa7eezthc5lmhedl5tmpw",
         "displayName": "Помёт писца",
         "handle": "olddogblues.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:5z6ifjocotq5gfzecs7ng2rg",
+        "displayName": "𝑻𝒉𝒆 𝑴𝒊𝒓𝒓𝒐𝒓",
+        "handle": "korishikagami.bsky.social"
       }
     },
     {
@@ -2428,6 +2463,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:bpes45b4pnwcy2vlfqjw4nva",
+        "displayName": "tosha",
+        "handle": "lsyuh.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:bprk7tldf2mkl4cf4aikdw6h",
         "displayName": "sir Krowley",
         "handle": "sirkrowley.bsky.social"
@@ -2478,6 +2520,13 @@
       "subject": {
         "did": "did:plc:bsmliy2q2cumy77ck2uycrbp",
         "handle": "orangy.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:btun7lvpmkkpdix6qggbwcei",
+        "displayName": "Anatoly Kalin",
+        "handle": "ttldtor.bsky.social"
       }
     },
     {
@@ -2817,6 +2866,13 @@
         "did": "did:plc:cyimhy6ahchnfjssqyfabyd3",
         "displayName": "Loulett",
         "handle": "loulett.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:cykahx554haol5cb3y6a5xpf",
+        "displayName": "IdkWdym",
+        "handle": "idkwdym.bsky.social"
       }
     },
     {
@@ -3706,6 +3762,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:fquxv5dxoitrrmqo3w3pq7bg",
+        "displayName": "undlake",
+        "handle": "undlake.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:fr56anq42vzyz4mm67op7str",
         "displayName": "Conqista",
         "handle": "conqista.bsky.social"
@@ -4094,9 +4157,23 @@
     },
     {
       "subject": {
+        "did": "did:plc:gxudtuduyv3kkurezcdnwa2w",
+        "displayName": "Vlad Gruchik ",
+        "handle": "vagruchi.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:gxzzniw7qs2e3tmbcximbgb6",
         "displayName": "дама кролей",
         "handle": "sempervivum.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:gzsrby43qlltnpgptrbr5hds",
+        "displayName": "Symberzite",
+        "handle": "symberzite.bsky.social"
       }
     },
     {
@@ -4443,6 +4520,13 @@
         "did": "did:plc:i4br6ydnyri7pbmhwtolhjmf",
         "displayName": "Ugly Croco",
         "handle": "uglycroco.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:i4yyerwlvt2umte3cyegaldc",
+        "displayName": "aaanyway",
+        "handle": "aryanyway.bsky.social"
       }
     },
     {
@@ -4971,7 +5055,7 @@
     {
       "subject": {
         "did": "did:plc:jvmdo3i53tulvtk7onrjoh3a",
-        "displayName": "Ложка Blue",
+        "displayName": "Ложка Blue🌱",
         "handle": "ssugarsp00n.bsky.social"
       }
     },
@@ -5684,6 +5768,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:lzbpznvuxknnlghirvxjvwtx",
+        "displayName": "Unluck",
+        "handle": "unlucka.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:lzm32y2dszph2woj4tjht7nq",
         "displayName": "Ёжик Крымский",
         "handle": "yezhik.bsky.social"
@@ -5817,7 +5908,7 @@
     {
       "subject": {
         "did": "did:plc:mj77gpwxolsrwghf236ocohr",
-        "displayName": "Ҟʜᴙӡƀ Ɓєʌџκџӣ 🔱",
+        "displayName": "Ҟʜᴙӡƀ Ɓєʌџκџӣ™",
         "handle": "knyazz.bsky.social"
       }
     },
@@ -6827,6 +6918,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:pnonb4hmppjmkkqaqccmpjvz",
+        "displayName": "arina golodyayeva",
+        "handle": "golodyayeva.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:pnoyf6rvalx3r5kyfksvzgdm",
         "displayName": "Megion",
         "handle": "megion.bsky.social"
@@ -7079,6 +7177,13 @@
         "did": "did:plc:qhthcvea3ztpxu6b7xpdbey2",
         "displayName": "vadik",
         "handle": "vadikkost.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:qi7tkoqrisjamiv6ixxzcngh",
+        "displayName": "Ivan Susanin",
+        "handle": "ivansusanin.bsky.social"
       }
     },
     {
@@ -8366,6 +8471,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:ubz6jkl7gqho3qdttaqncjqz",
+        "displayName": "Funny Clown ",
+        "handle": "klown.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:uctdflzkt7le66htrljwh2uk",
         "displayName": "спина",
         "handle": "gvnsdmy.bsky.social"
@@ -8390,6 +8502,13 @@
         "did": "did:plc:ue6fhhav2tzcpaqh5tdj2op6",
         "displayName": "Andrey Oshev",
         "handle": "oshev.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:uerlvdalalp3q2tui3yvz4rx",
+        "displayName": "Dancheq",
+        "handle": "dancheq.bsky.social"
       }
     },
     {
