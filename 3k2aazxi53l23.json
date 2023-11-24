@@ -462,6 +462,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:gij6no6qfgsfuvbz2dmpwlhr",
+        "displayName": "Hareza ŭ kutku",
+        "handle": "hareza-u-kutku.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:gl54j3xllsno2iagbxcsxm7c",
         "displayName": "Ivan Dubovik",
         "handle": "vandubovik.bsky.social"

@@ -379,6 +379,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:dtmbwuywxwbjxxoq6q76kwqt",
+        "displayName": "Дочь сына маминой подруги ",
+        "handle": "nncnotrue.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:dyk3y4jm5wkct3tq76pquwcg",
         "displayName": "jbáruch 🎩",
         "handle": "jbaru.ch"
@@ -922,6 +929,13 @@
         "did": "did:plc:pbfyh4dzvi4tnxqw3xfirkoi",
         "displayName": "OPSEC enjoyer",
         "handle": "towerfalls.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:pcammv47kilobplcjbhfrm64",
+        "displayName": "vinylka 🏳️‍⚧️",
+        "handle": "vnlk.bsky.social"
       }
     },
     {
