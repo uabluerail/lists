@@ -51,6 +51,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:3lm3i5m66zg5hp7njpmfgymw",
+        "displayName": "валерка",
+        "handle": "justvalerka.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:3m7h5nei3cqmwaufv657w4fo",
         "displayName": "Дэнчык Вясковы ",
         "handle": "villageman.bsky.social"
@@ -208,6 +215,13 @@
         "did": "did:plc:aa436ar5bjidb35rxxf5ligb",
         "displayName": "Jarač",
         "handle": "jarac.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ad5ythn42tf2vw7u53y6c5ir",
+        "displayName": "дзікае паляванне",
+        "handle": "ramonak.bsky.social"
       }
     },
     {
@@ -601,7 +615,7 @@
     {
       "subject": {
         "did": "did:plc:jwjmcy5jgcyye5ckdo27njkt",
-        "displayName": "Functional Character",
+        "displayName": "Кандрат Жалезны",
         "handle": "liodnik.bsky.social"
       }
     },
@@ -820,6 +834,13 @@
         "did": "did:plc:ok42xyfm6omyhn6up6mrkwib",
         "displayName": "Занадта пахмурна 🦒",
         "handle": "yuyudik.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:oktawuonixg7yeub7p3pxnmg",
+        "displayName": "Bāndānā 🎃",
+        "handle": "bahdana.bsky.social"
       }
     },
     {
@@ -1124,6 +1145,13 @@
         "did": "did:plc:xcu6mnt3cavluoisvnjzoqmi",
         "displayName": "Жужаль",
         "handle": "zhuzhal.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:xdxiez5z2laslpcqfeefybgq",
+        "displayName": "Krtek",
+        "handle": "krtek.bsky.social"
       }
     },
     {

@@ -261,13 +261,6 @@
     },
     {
       "subject": {
-        "did": "did:plc:3lm3i5m66zg5hp7njpmfgymw",
-        "displayName": "валерка",
-        "handle": "justvalerka.bsky.social"
-      }
-    },
-    {
-      "subject": {
         "did": "did:plc:3lqrojq7qrev3ums5hv7vdat",
         "displayName": "vladislav",
         "handle": "vldslv.bsky.social"
@@ -1244,13 +1237,6 @@
         "did": "did:plc:ad4axkqhwdvzza2sj77kdsvx",
         "displayName": "Naoto Paradise",
         "handle": "naotoparadise.bsky.social"
-      }
-    },
-    {
-      "subject": {
-        "did": "did:plc:ad5ythn42tf2vw7u53y6c5ir",
-        "displayName": "дзікае паляванне",
-        "handle": "ramonak.bsky.social"
       }
     },
     {
@@ -3368,13 +3354,6 @@
     },
     {
       "subject": {
-        "did": "did:plc:ljzmzd6uxy3n6uxzleyx2wkj",
-        "displayName": "любишь хлеб?",
-        "handle": "lubishkhleb.bsky.social"
-      }
-    },
-    {
-      "subject": {
         "did": "did:plc:lk6xhy4nntuvhe6qpzjwjp5n",
         "displayName": "Garbatka",
         "handle": "harbatka.bsky.social"
@@ -3955,13 +3934,6 @@
         "did": "did:plc:ojxayzdlhgbb5d2lqhswxseg",
         "displayName": "Orril",
         "handle": "orril.bsky.social"
-      }
-    },
-    {
-      "subject": {
-        "did": "did:plc:oktawuonixg7yeub7p3pxnmg",
-        "displayName": "Bāndānā 🎃",
-        "handle": "bahdana.bsky.social"
       }
     },
     {
@@ -4928,13 +4900,6 @@
     },
     {
       "subject": {
-        "did": "did:plc:tccatovagabpsh7anvsviexd",
-        "displayName": "Talifa Aus",
-        "handle": "talifa.bsky.social"
-      }
-    },
-    {
-      "subject": {
         "did": "did:plc:tcpbhqcihzcg4isv2ea5ohdn",
         "displayName": "Really Nice Nowheressor",
         "handle": "noyoursnotours.bsky.social"
@@ -5693,13 +5658,6 @@
         "did": "did:plc:xdwyexueqfp4fbhjqqr4g7hv",
         "displayName": "Муза Хренова",
         "handle": "imperfectrobot.bsky.social"
-      }
-    },
-    {
-      "subject": {
-        "did": "did:plc:xdxiez5z2laslpcqfeefybgq",
-        "displayName": "Krtek",
-        "handle": "krtek.bsky.social"
       }
     },
     {
