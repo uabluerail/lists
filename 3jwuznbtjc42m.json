@@ -29,6 +29,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:3ilzhrzkar3icae4mfyupmqp",
+        "displayName": "WarTranslated (Dmitri)",
+        "handle": "wartranslated.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:3oh3u4fbev3zlc7vcfdazlas",
         "displayName": "Aric Toler",
         "handle": "aric.bsky.social"
@@ -185,6 +192,13 @@
         "did": "did:plc:dkrobcqyjhhm7arsq3tnzifb",
         "displayName": "Evgeny Feldman",
         "handle": "evgenyfeldman.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:du5mo3cvenqtrl6fqte3uc2y",
+        "displayName": "Mareike Aden",
+        "handle": "mareikeaden.bsky.social"
       }
     },
     {

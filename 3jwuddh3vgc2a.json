@@ -8,6 +8,12 @@
     },
     {
       "subject": {
+        "did": "did:plc:23abaqdaew2bgimpdb7tdu6v",
+        "handle": "kasouryuu.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:2j2jfopu23fzzlfomxnqqxt5",
         "displayName": "Maria Khalusova ",
         "handle": "mariak.bsky.social"
@@ -330,6 +336,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:bzro7ydytiwoewnytbgn2wwt",
+        "displayName": "Jules 🤠",
+        "handle": "jules.su"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:ccochivaheexxnytycq7vczf",
         "displayName": "Философский пароход 🇺🇸",
         "handle": "batymitony.bsky.social"
@@ -409,6 +422,13 @@
         "did": "did:plc:e7gyl7ontfnlq6mi6r43ja4b",
         "displayName": "Masha 🏳️‍🌈 ",
         "handle": "mashavsl.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:epyxf22tr372artscr7hfw65",
+        "displayName": "Žeñok Borenstein",
+        "handle": "borenstein.bsky.social"
       }
     },
     {
@@ -610,6 +630,13 @@
         "did": "did:plc:if5qa45aas7bzr3qjtdzqani",
         "displayName": "Igor Gladkoborodov",
         "handle": "igorgl.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ifskpjrauskfaclrnvq4awgq",
+        "displayName": "Sergy S☮️✡🦄",
+        "handle": "niktosha.bsky.social"
       }
     },
     {
@@ -964,6 +991,13 @@
         "did": "did:plc:pscvvdv7kp5f2ng2dm74u2yz",
         "displayName": "Masha Zhdanova",
         "handle": "mashazart.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:pvxmhllkegs5umwqsyfqi6h5",
+        "displayName": "Anton Danilov",
+        "handle": "neverangryman.bsky.social"
       }
     },
     {

@@ -22,6 +22,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:3ilzhrzkar3icae4mfyupmqp",
+        "displayName": "WarTranslated (Dmitri)",
+        "handle": "wartranslated.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:3ksolji6twa5rjqbp2m5brmv",
         "displayName": "arno",
         "handle": "arnokim7.bsky.social"
@@ -282,6 +289,13 @@
         "did": "did:plc:nfbhfhef6c4pwd5hk5wuj7xi",
         "displayName": "Fabulous Abomination",
         "handle": "fababomination.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:nrria5gz77ptlke3je474vld",
+        "displayName": "tokapb",
+        "handle": "tokapb.bsky.social"
       }
     },
     {

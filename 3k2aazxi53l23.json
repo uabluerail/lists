@@ -16,6 +16,19 @@
     },
     {
       "subject": {
+        "did": "did:plc:2clztgdylau4iv5lh6w2oax5",
+        "handle": "euroradio.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:2cw7xixts37khihi3xifvuu7",
+        "displayName": "xenocake",
+        "handle": "xenocake.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:2eq2goxw44slwbp3sr7bo6ys",
         "displayName": "Acy",
         "handle": "acyoko.bsky.social"
@@ -30,9 +43,23 @@
     },
     {
       "subject": {
+        "did": "did:plc:2seu36jnlglli7ss5vd3mopy",
+        "displayName": "Pachnie Čabor",
+        "handle": "pachniecabor.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:2z3wcl7vnbi7jafzflmmjfic",
         "displayName": "Аляксандр",
         "handle": "a-sasnouski.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:37sjyw7lnxagpegq4tzqjy7n",
+        "displayName": "Xavran",
+        "handle": "xavran.bsky.social"
       }
     },
     {
@@ -65,6 +92,26 @@
     },
     {
       "subject": {
+        "did": "did:plc:3p75r52mmy2ue42pwokyv5p3",
+        "handle": "bytrush.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:3tejeqqqws7x2tlhony6zzjo",
+        "displayName": "Niejkaja kabieta",
+        "handle": "holymolly.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:3unq2ma53mvnltcbweedyhtu",
+        "displayName": "швірцам марц(ыпан)",
+        "handle": "mirryschwirry.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:3z4i7bps5otkoesm4bh44xph",
         "displayName": "мыш'як",
         "handle": "asurum.bsky.social"
@@ -93,6 +140,20 @@
     },
     {
       "subject": {
+        "did": "did:plc:4jaooyl43omgd5zl5ogmsbtj",
+        "displayName": "твая татэмная жывёла",
+        "handle": "orthocollapse.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:4uwzkl6w4gzxn32jfqvy7x3k",
+        "displayName": "Vydra",
+        "handle": "vydraia.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:4zrqllsxptsfuryoiu653lbt",
         "displayName": "Iri",
         "handle": "inspirit-iri.bsky.social"
@@ -117,6 +178,13 @@
         "did": "did:plc:56nigcycifbvwjovpu7eucf3",
         "displayName": "Актыўна-агрэсіўная ",
         "handle": "mimiliuk.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:576tdmrcpn7qqcukqp4zctox",
+        "displayName": "Надзея",
+        "handle": "stefkoisgood.bsky.social"
       }
     },
     {
@@ -156,9 +224,30 @@
     },
     {
       "subject": {
+        "did": "did:plc:5kzbffbet5c63lgcemzhnr5q",
+        "displayName": "Гандляр тваіх пачуццяў ",
+        "handle": "sladkikokosik.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:5vjlhjyrot5pyldxewsgzsmg",
+        "displayName": "Vichka++",
+        "handle": "vichka.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:5znix4u4r6mfj7va2slkum4j",
         "displayName": "Ihar Vozhyk Palynski",
         "handle": "vozhykby.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:623ifmsppwk22gwosvosy7zm",
+        "displayName": "bijałuchiń",
+        "handle": "stomlienycrow.bsky.social"
       }
     },
     {
@@ -177,9 +266,23 @@
     },
     {
       "subject": {
+        "did": "did:plc:6fl2mhf6mmeew6j3746fgazr",
+        "displayName": "Іра, што робіць памылкі💌",
+        "handle": "pamylicelnica.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:6haygn7rgqz2wxbcpfvliwpw",
         "displayName": "Тадэвуш Падасцюшка",
         "handle": "tadevushp.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:6lhuxzduln2rt4dxfl6pg3xh",
+        "displayName": "Кніжны Хома",
+        "handle": "homabellit.bsky.social"
       }
     },
     {
@@ -191,9 +294,30 @@
     },
     {
       "subject": {
+        "did": "did:plc:6vtylobiniil4ctsecj6tmmq",
+        "displayName": "Іван Клімчук / Пра тэхналогіі",
+        "handle": "ikbytech.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:6w7hyof2phkve4nddtwxqvhi",
+        "displayName": "Hanna Maklakova",
+        "handle": "hanna-maklakova.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:74gp2ynxph4sih4p7gc4lnah",
         "displayName": "Kostyugova",
         "handle": "lessprit.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:77tge4kqrdeu6prio654rw53",
+        "displayName": "Yuliya Matuzava",
+        "handle": "juliamatuzava.bsky.social"
       }
     },
     {
@@ -247,6 +371,12 @@
     },
     {
       "subject": {
+        "did": "did:plc:ayokpfniqhfuo2n2jeeigbm4",
+        "handle": "loshurik.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:aysveurxdridur5knpycnzv3",
         "displayName": "Karpeka",
         "handle": "djafi.bsky.social"
@@ -289,9 +419,30 @@
     },
     {
       "subject": {
+        "did": "did:plc:bsnhk2qan7rtmgsky5fm6wri",
+        "displayName": "Кусяндра",
+        "handle": "jeknight.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:btgam2w55q647jb6it2ytqwc",
+        "displayName": "Рыхтуе напад з 5-й пазіцыі",
+        "handle": "napad-z-5-pazicyi.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:buqromjx3viutuduihex6mdd",
         "displayName": "Tall_n_nerdy",
         "handle": "tallnerdy.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:bzme2luhox2xvlq52wxatfpm",
+        "displayName": "Трэці Дотык",
+        "handle": "dotyk.bsky.social"
       }
     },
     {
@@ -331,6 +482,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:cnzbusxu4i6wppnfiubbtf3l",
+        "displayName": "ноч гэта я ",
+        "handle": "tearsdreamer.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:ct323riigv4pamohni667bu2",
         "displayName": "Радыё Аршыца",
         "handle": "orshafans.bsky.social"
@@ -341,6 +499,13 @@
         "did": "did:plc:cvnccvfyzs6ail4ggwe3zw3v",
         "displayName": "Alexander Galtsow",
         "handle": "agaltsow.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:cxmpnnrelfcvcugfaw47cqzg",
+        "displayName": "вікця праклённіца ",
+        "handle": "vikcia.bsky.social"
       }
     },
     {
@@ -380,6 +545,20 @@
     },
     {
       "subject": {
+        "did": "did:plc:eazmlnf4muaqquu7vc5kiqi3",
+        "displayName": "Vera",
+        "handle": "laonix.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:edrzfe2dklzakk7tg3kropvz",
+        "displayName": "Добры Беларус",
+        "handle": "mainworld.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:eecjzezs37byy4ngmllamiw5",
         "handle": "hvedarnabilkin.bsky.social"
       }
@@ -406,9 +585,23 @@
     },
     {
       "subject": {
+        "did": "did:plc:esuad2t2esohq7taicvwzyjw",
+        "displayName": "Ihor Kastuseu",
+        "handle": "qwerty123.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:et7gevpt3cpnmdhjgis35g4m",
         "displayName": "kalahary",
         "handle": "kalahary.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ettvvcrcwyrjxrqv3273nlkm",
+        "displayName": "Fleur de la \"intelligencia\"",
+        "handle": "fleurdesmarty.bsky.social"
       }
     },
     {
@@ -434,6 +627,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:fjixh4rotbwwfmhbocs5b6v4",
+        "displayName": "envinsiv",
+        "handle": "envinsiv.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:fle7b27irl5ybos24yj4dekk",
         "displayName": "П⚈лиция Ск⚈рби",
         "handle": "policeofsorrow.bsky.social"
@@ -444,6 +644,13 @@
         "did": "did:plc:fyr3yfge3lttrsejt7do6epw",
         "displayName": "Dobski ",
         "handle": "dobski.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:g3d4miip3zpdae3xnf2kbwwi",
+        "displayName": "наста скатазаўра",
+        "handle": "skatazaura.bsky.social"
       }
     },
     {
@@ -465,6 +672,13 @@
         "did": "did:plc:gfoyar4xnbzkbd7rgii45njt",
         "displayName": "Jaŭhien Kazarcaŭ",
         "handle": "kzrtsv.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:gggzytqsu3a64eqw3gxsgqqg",
+        "displayName": "Старшыня крыптакалхазу",
+        "handle": "saintmonro.bsky.social"
       }
     },
     {
@@ -510,6 +724,40 @@
     },
     {
       "subject": {
+        "did": "did:plc:gszwu6unaylmcbt65bkswafe",
+        "displayName": "Боты з Ботам",
+        "handle": "botyzbotam.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:gyqzuz2yzsvuxxzt2j5qafj2",
+        "displayName": "written_by_food",
+        "handle": "katsiaryna.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:hlus4jsxc6xxjhiqz6br3nh2",
+        "displayName": "Кацяташная ",
+        "handle": "notmycats.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:hnxr73zyqgxl72ntnvsfggb6",
+        "handle": "daisy-valley.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:hrlmnvayzg2xdchyd4aa4k2w",
+        "displayName": "Пшанічка Ігрэйна",
+        "handle": "igrain.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:htjawe54laordmt6gd3i6ncl",
         "handle": "mineralka.bsky.social"
       }
@@ -519,6 +767,13 @@
         "did": "did:plc:hyk3alrw6zt5twzez77u4nji",
         "displayName": "Alina.by",
         "handle": "lilisosoon.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:i2xcivvvcxnsuapcre5yttnl",
+        "displayName": "гукі думання",
+        "handle": "onefrombelarus.bsky.social"
       }
     },
     {
@@ -572,6 +827,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:is5r3moozm4ws5lses3ykfxx",
+        "displayName": "Cyber Emo Punk",
+        "handle": "cyberemopunk.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:itwypmrertpsv3dhewadxdro",
         "displayName": "Сонца",
         "handle": "19lines.bsky.social"
@@ -582,6 +844,27 @@
         "did": "did:plc:iuttkbpi72kqkwlwj5ufi4l3",
         "displayName": "Vika Markouskaya",
         "handle": "vikamarkouskaya.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:j24klxmpmgyepon4w4k6fgnm",
+        "displayName": "тая самая Янь",
+        "handle": "asiptsova.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:j3bzbfsxws2ulp6gzgsgyj47",
+        "displayName": "PALATNO Media — Палатно",
+        "handle": "palatno.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:j3pnkczivtiiike4asip5ene",
+        "displayName": "tvoj zlačynny siabar 🤍❤️🤍 naarzi",
+        "handle": "nightmarenaarzi.bsky.social"
       }
     },
     {
@@ -691,6 +974,20 @@
     },
     {
       "subject": {
+        "did": "did:plc:lggy6wvr45msakq5xontk3n5",
+        "displayName": "Noele4ka",
+        "handle": "noele4ka.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:lk6xhy4nntuvhe6qpzjwjp5n",
+        "displayName": "Garbatka",
+        "handle": "harbatka.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:lqz2he7armt77bwn2tcu3mas",
         "displayName": "Роланд Дискейн ",
         "handle": "serega20121981.bsky.social"
@@ -705,6 +1002,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:lwcpvzwoxr6r22sxqhk5baqy",
+        "displayName": "Web All Need The Mandalorian 🤍❤️🤍",
+        "handle": "nodragonstime.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:lyueslfzuunsl6eokm7uacd7",
         "displayName": "𝕥𝕠𝕣𝕥𝕚𝕜 ",
         "handle": "zloitortik.bsky.social"
@@ -715,6 +1019,13 @@
         "did": "did:plc:m2y3r4v7jnjki53t55dupbf7",
         "displayName": "Kot⭐Sin",
         "handle": "kotsin.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:m32xas4addtmdzlqsipztyjh",
+        "displayName": "Ekivoki",
+        "handle": "ekivoki.bsky.social"
       }
     },
     {
@@ -734,7 +1045,7 @@
     {
       "subject": {
         "did": "did:plc:mbcgie5prhi6i47wc3pm7ant",
-        "displayName": "Фродесина",
+        "displayName": "Фродя",
         "handle": "frodesin.bsky.social"
       }
     },
@@ -796,9 +1107,37 @@
     },
     {
       "subject": {
+        "did": "did:plc:ne3ayrc37p3b263hbl7eqblj",
+        "displayName": "эн ачка 🇮🇱",
+        "handle": "enalumeert.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:nfdbq4ve4swpelbtnxuqnwba",
+        "displayName": "Isaz melt",
+        "handle": "isazmelt.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:nhnwg5cnbmsl7y63m3jgkedv",
+        "displayName": "маці ўсіх хасёў",
+        "handle": "volhasky.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:nyxb27dewlh32qwunzgvo3pt",
         "displayName": "daphnis nerii",
         "handle": "daphnisnerii.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:nzsasbgpmwygjqoavmjc74z4",
+        "displayName": "Aliaksei Aziauchykau",
+        "handle": "aaziauchykau.bsky.social"
       }
     },
     {
@@ -817,6 +1156,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:octucqkt3hlvkjko7225nyfy",
+        "displayName": "Светлiк)",
+        "handle": "svetlik.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:odid2jqvg3reytquuqzt7ce5",
         "displayName": "Uładźimir Hramadski 🇺🇦",
         "handle": "hramadski.bsky.social"
@@ -824,9 +1170,23 @@
     },
     {
       "subject": {
+        "did": "did:plc:oek2mpnzyywb4opq2xvhpwxb",
+        "displayName": "Наталляўна",
+        "handle": "jirusleep.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:ogxaho7kocjgieg7h4wyxynx",
         "displayName": "Не Дартс, но Вербер",
         "handle": "nadzeia.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ojxayzdlhgbb5d2lqhswxseg",
+        "displayName": "Orril",
+        "handle": "orril.bsky.social"
       }
     },
     {
@@ -845,6 +1205,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:ole2ol5zbbuzrnktlvlvplg7",
+        "displayName": "Дзед Барадзед 🤍❤️🤍",
+        "handle": "d3edbarad3ed.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:onwioq5lrckit4pbpxrfpbl6",
         "displayName": "Эль Кото",
         "handle": "bykot.bsky.social"
@@ -855,6 +1222,12 @@
         "did": "did:plc:orxcarplakfk6cwmf3d7zi5n",
         "displayName": "Пясецкі",
         "handle": "kahanak.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:owgrsbgk5sjuootck4zo2nua",
+        "handle": "vlria.bsky.social"
       }
     },
     {
@@ -882,6 +1255,13 @@
         "did": "did:plc:pimi5wsdgxkmxtlofqr4thkd",
         "displayName": "сосновая шишечбка",
         "handle": "gdzt.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:pn2mth3ugajuolahvt54nmih",
+        "displayName": "Заінелая здань",
+        "handle": "frozenghost.bsky.social"
       }
     },
     {
@@ -914,6 +1294,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:qdxdlsjm3x4fc7whnu35fpja",
+        "displayName": "Андруша",
+        "handle": "dobrisu.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:qflon2envuzpdbmcaaxdoizs",
         "displayName": "Ластаўка ў выраі     ◻️🟥◻️",
         "handle": "lastavachka.bsky.social"
@@ -942,9 +1329,30 @@
     },
     {
       "subject": {
+        "did": "did:plc:qo7uopbz7odq77dk2bo2yffd",
+        "displayName": "стомлены Мікіта",
+        "handle": "nemikita.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:qwblli4svwoq4thylreezbnn",
+        "displayName": "Пустазелле",
+        "handle": "pustazelle.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:rgnjdhonc4eyd2bxb7ewihdo",
         "displayName": "Pčv",
         "handle": "paczvarny.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:rmdhdzyigwjwlreiksmseiks",
+        "displayName": "памяркоу́ны Алесь",
+        "handle": "cambodja42.bsky.social"
       }
     },
     {
@@ -959,6 +1367,12 @@
         "did": "did:plc:rvwxmnulbzg4ynj54ys6jnwj",
         "displayName": "amaralny pryhažun",
         "handle": "goodnotbad.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:s7v5vn5prjvm6yce6qe3b4gs",
+        "handle": "slevinby.bsky.social"
       }
     },
     {
@@ -980,6 +1394,13 @@
         "did": "did:plc:sqcpv3f7qpdob6ncr4yxqshq",
         "displayName": "Teo ♥️✊✌️",
         "handle": "seteo.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:sryigp6mxl4venwhsfqhunus",
+        "displayName": "Валодзька",
+        "handle": "waldemaar.bsky.social"
       }
     },
     {
@@ -1019,6 +1440,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:tlxntjpafgi7t62inz2czhva",
+        "displayName": "Aliaksei Shpak",
+        "handle": "alex-vulgaris.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:tmmqxgaffkbj3i2bvhqbidgr",
         "displayName": "Pałkoŭnik",
         "handle": "torioyoshiko.bsky.social"
@@ -1033,9 +1461,23 @@
     },
     {
       "subject": {
+        "did": "did:plc:uk2oe66sktsob6bazf2ngskn",
+        "displayName": "Памідорка са смятанкай",
+        "handle": "pamjadorka.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:umqudqbleetbmbmupaod5f5h",
         "displayName": "Maksim Kliazovič ",
         "handle": "kliazovich.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:urlpehhgjop2wsgcnezsqe5c",
+        "displayName": "Берасцеец",
+        "handle": "manuilware.bsky.social"
       }
     },
     {
@@ -1047,8 +1489,21 @@
     },
     {
       "subject": {
+        "did": "did:plc:uuyz7s7ih3aplfiatgwjpt4f",
+        "handle": "chaborka.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:uxou7kqt7xp7htoaappkcs7k",
         "handle": "vadzianica.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:uypl2kseu4df6a6lpp3z4rwa",
+        "displayName": "Мікітка",
+        "handle": "mikitka.bsky.social"
       }
     },
     {
@@ -1062,6 +1517,13 @@
       "subject": {
         "did": "did:plc:vfidvfbgh6ioxel2pxk2qeh7",
         "handle": "achtung1.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:vsnuj2ukt5rqi4vozzcqiwgq",
+        "displayName": "Chrosnaja",
+        "handle": "chrosnaja.bsky.social"
       }
     },
     {
@@ -1080,6 +1542,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:vwiphkvmmri4u23ipywfoats",
+        "displayName": "Philipp Bikanau",
+        "handle": "bikanau.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:vzbfgr2nn3gmfqug6s5hb2pn",
         "displayName": "kynareth give me strenght",
         "handle": "d1dice.bsky.social"
@@ -1090,6 +1559,13 @@
         "did": "did:plc:w6uyckxsizhy2gbdorcroflk",
         "displayName": "Марозіва з водарам хлору",
         "handle": "ejch6.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:wacag263vuzdajlpfdayj4l6",
+        "displayName": "Jaŭhien Lićvin",
+        "handle": "jauhienlicvin.bsky.social"
       }
     },
     {
@@ -1142,6 +1618,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:wznysepix5dtcjq4la3jpljw",
+        "displayName": "Ляксандар Змрок",
+        "handle": "mrakduck.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:xcu6mnt3cavluoisvnjzoqmi",
         "displayName": "Жужаль",
         "handle": "zhuzhal.bsky.social"
@@ -1187,6 +1670,27 @@
         "did": "did:plc:yhovihahn5of7fhjfsrxwjot",
         "displayName": "Yinwille",
         "handle": "yinwille.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:yhwujfkpbmr7k7zvtaldmw35",
+        "displayName": "Karina By",
+        "handle": "m-kirsty.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:yihbxu2mobvlmoafohdrysyg",
+        "displayName": "🦊",
+        "handle": "afox.me"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ynnsyhoqj6gzuue234e357a2",
+        "displayName": "Баявы Бульбазаўр",
+        "handle": "jubiler.bsky.social"
       }
     },
     {
@@ -1261,6 +1765,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:ztwp74zbssle4e3ctpvjthlv",
+        "displayName": "KattyBy",
+        "handle": "kattyby.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:zwvrwlzwdmqiqlcinphwlj4g",
         "displayName": "curse of sturm",
         "handle": "arichtelus.bsky.social"
@@ -1270,6 +1781,13 @@
       "subject": {
         "did": "did:plc:zwz5v2z673nnkmdpd2kzvpag",
         "handle": "marharyta.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:zxyenznv6d6mrj5cvyfcr2pm",
+        "displayName": "Шкарпэтачка з дзірачкай",
+        "handle": "to4ilka.bsky.social"
       }
     }
   ],

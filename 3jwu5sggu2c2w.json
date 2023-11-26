@@ -432,6 +432,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:2weuva76yv6snycnbzxwsw65",
+        "displayName": "coyote_actual",
+        "handle": "flakwolves.su"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:2wkdc32o26h5asuzlkxoknfx",
         "displayName": "erin",
         "handle": "bansheebeat.bsky.social"
@@ -1180,6 +1187,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:4h573g4hmmlcpkap5kqwprvx",
+        "displayName": "Matti Guerraz",
+        "handle": "mattigue.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:4hcfkwhttn67naifkuust7oc",
         "displayName": "drew",
         "handle": "drooan.bsky.social"
@@ -1190,6 +1204,13 @@
         "did": "did:plc:4heoum44omkilnsjyslz62w6",
         "displayName": "Kiara Martínez 🏳️‍⚧️⚧️🏳️‍🌈 ☭",
         "handle": "kiaramart21.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:4hoxiyqnc5ux7dejvrhhrbyt",
+        "displayName": "🔻TankEnjoy3r",
+        "handle": "tankenjoy3r.bsky.social"
       }
     },
     {
@@ -1733,6 +1754,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:5hfmambhjl4rdobrx46atmmk",
+        "displayName": "plus",
+        "handle": "pura.su"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:5hl24rtzjhxgazagihzunjvk",
         "displayName": "Chris 🇩🇪 🇺🇦",
         "handle": "eiwasdann.bsky.social"
@@ -2210,7 +2238,7 @@
     {
       "subject": {
         "did": "did:plc:6kbmmm4cm3sxky6tmrypnhhd",
-        "displayName": "Kells",
+        "displayName": "𝚔𝚎𝚕𝚕𝚜",
         "handle": "thisvoidembrace.bsky.social"
       }
     },
@@ -2476,7 +2504,7 @@
     {
       "subject": {
         "did": "did:plc:7577kmy5fbirkvubzexkdqqn",
-        "displayName": "Robert Klauß",
+        "displayName": "Flickerklicker28 ",
         "handle": "flickklick28.bsky.social"
       }
     },
@@ -3040,6 +3068,12 @@
     },
     {
       "subject": {
+        "did": "did:plc:acbvpro4cfx4oizuodwhnymk",
+        "handle": "teh.su"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:aceut3psldupbrxeinph7q7j",
         "displayName": "k☭wagata, but autumnal",
         "handle": "kuwagata.bsky.social"
@@ -3131,7 +3165,7 @@
     {
       "subject": {
         "did": "did:plc:ajknlkh7zpim4bg5abgsczzt",
-        "displayName": "Nora (on her christmas arc)",
+        "displayName": "Nora",
         "handle": "antifaautist.bsky.social"
       }
     },
@@ -3371,6 +3405,13 @@
         "did": "did:plc:b3bhnpswtr77gxq5xfndvj7v",
         "displayName": "Jiri Mäntysalo 🏳️‍🌈☭☮️🌍",
         "handle": "mantysalo.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:b462ykwtx4luoymsawbdcty4",
+        "displayName": "Ethan",
+        "handle": "ethan.su"
       }
     },
     {
@@ -3633,6 +3674,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:bnh7kh3h2sa2hbg5e23fyhfg",
+        "displayName": "KrisXCIII",
+        "handle": "krisxciii.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:bnkgbnczkxyyrr3sxzqjz4kc",
         "displayName": "Cumrag Stalin",
         "handle": "cumragstalin.bsky.social"
@@ -3839,6 +3887,13 @@
         "did": "did:plc:c3zvnuyiy5d4qfqxru26znwo",
         "displayName": "Ross OC",
         "handle": "rossoc.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:c4b222kcgqjcvdtx3q54s4ra",
+        "displayName": "🏳️‍🌈 Piulenc ☭ ♀ ||*||",
+        "handle": "piulenc.bsky.social"
       }
     },
     {
@@ -4501,7 +4556,7 @@
     {
       "subject": {
         "did": "did:plc:dlf7fd2sqsne4fuelwmj4eoi",
-        "displayName": "Bailey",
+        "displayName": "Bailey [clever Christmas pun]",
         "handle": "bsten.bsky.social"
       }
     },
@@ -5220,6 +5275,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:eue5rffexgjzodyigjdat7ub",
+        "displayName": "𝕭𝖚𝖗𝖍𝖚𝖊𝖗🐚☭",
+        "handle": "burhuer.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:euuwjsutxofjtnwxg6vpy2ju",
         "displayName": "Rylee",
         "handle": "enby.dog"
@@ -5802,6 +5864,13 @@
         "did": "did:plc:fytzde7cv4wgu5kdajvunino",
         "displayName": "ember ashley",
         "handle": "embersinikka.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:fz5bln6aevrg2dgvwxchjybf",
+        "displayName": "Flor",
+        "handle": "draltor.bsky.social"
       }
     },
     {
@@ -7291,6 +7360,13 @@
         "did": "did:plc:iykvxxthoadz74n553fbb4zb",
         "displayName": "Rob ☭",
         "handle": "robjectivelyleft.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:iyr4gzmwlusmqfy2g6nwgzvo",
+        "displayName": "Bierchen, Lecker ",
+        "handle": "leckerbierchen.bsky.social"
       }
     },
     {
@@ -10678,6 +10754,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:pqmvuglnucgsjwzlngf73yot",
+        "displayName": "rely ☭",
+        "handle": "redivo.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:pqpvrlakbdghdlao345t6tvh",
         "displayName": "A Change in View",
         "handle": "redstarnsfw.bsky.social"
@@ -12617,7 +12700,7 @@
     {
       "subject": {
         "did": "did:plc:tubzcczy5wtgkns6nvdkvazv",
-        "displayName": "SmuttyBabaYaga🍂",
+        "displayName": "SmuttyBabaYaga🇵🇸",
         "handle": "smuttybabayaga.bsky.social"
       }
     },
@@ -12780,6 +12863,13 @@
         "did": "did:plc:u6xmb3yccaedupno7c3gr75y",
         "displayName": "Aly ",
         "handle": "comradealy.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:u75m626seejet3zy76fq7kiw",
+        "displayName": "Andy",
+        "handle": "pixelde.su"
       }
     },
     {
@@ -15355,7 +15445,7 @@
     {
       "subject": {
         "did": "did:plc:zqkrqub7q6qpdtzwmrdkiue7",
-        "displayName": "gabundy 🇵🇸 SAVE GAZA",
+        "displayName": "gabundy",
         "handle": "gabundy.bsky.social"
       }
     },
@@ -15467,7 +15557,7 @@
     {
       "subject": {
         "did": "did:plc:zxoewh6rrbk4ooomtjowj35r",
-        "displayName": "Professional IDF spermjacker",
+        "displayName": "I’ll be dead by halloween",
         "handle": "deglover.bsky.social"
       }
     },
