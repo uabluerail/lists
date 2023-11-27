@@ -2214,6 +2214,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:an7ynqphjg7ivbfyzaltmcjz",
+        "displayName": "blyuzaveta",
+        "handle": "blyuzaveta.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:anltrumbne6622x7tmtnxo2d",
         "displayName": "Morsylvia",
         "handle": "morsylvia.bsky.social"
@@ -2402,7 +2409,7 @@
     {
       "subject": {
         "did": "did:plc:be7z6aarc3okww344myzp4ch",
-        "displayName": "SnowmanAndOctopus adoptables",
+        "displayName": "☃️🌹SnowmanAndOctopus🌹🐙 adoptables",
         "handle": "snowmanandoctopus.bsky.social"
       }
     },
@@ -3381,6 +3388,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:efwzlvzo3aqgsseutizb3ikt",
+        "displayName": "Timeless New Roman",
+        "handle": "sanctusroman.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:efx5w456bkrg3zaf2cfulkvp",
         "displayName": "Ms. Genius",
         "handle": "msgenius.bsky.social"
@@ -3489,6 +3503,13 @@
         "did": "did:plc:enb3wqyjadaoy527azyrcryr",
         "displayName": "sleazy ⛓️ cmms open ",
         "handle": "sleazy.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:enh5xiwhmaywigvrwfngx2js",
+        "displayName": "Мама Изабеллы",
+        "handle": "angela47.bsky.social"
       }
     },
     {
@@ -6121,6 +6142,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:miuayvl5d3vlfsex3q7c6bxj",
+        "displayName": "𝔑𝔞𝔦𝔩 𝔅𝔲𝔰𝔱𝔢𝔯",
+        "handle": "nailbuster.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:mj47hsxewsa2cecd3em3j2zy",
         "displayName": "Стриж",
         "handle": "betaorionis.bsky.social"
@@ -6456,7 +6484,7 @@
     {
       "subject": {
         "did": "did:plc:nd3u6iyerfixcgmw25tflo4z",
-        "displayName": "𝖑𝖔𝖗𝖉 𝖔𝖋 𝖙𝖍𝖊 𝖈𝖗𝖎𝖓𝖌𝖊",
+        "displayName": "лорд кринжа",
         "handle": "icecreamofdeath.bsky.social"
       }
     },
@@ -6809,7 +6837,7 @@
     {
       "subject": {
         "did": "did:plc:ohy4gn7l2vmejaa6cvl2hiid",
-        "displayName": "LR",
+        "displayName": "and she said «OH NO»! ",
         "handle": "triangularis.bsky.social"
       }
     },
@@ -6936,6 +6964,13 @@
         "did": "did:plc:owxcw3sbrzie4pi5yem4rz6v",
         "displayName": "dasha",
         "handle": "nonbinarydawg.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:oxivmpeahxg4tz5s6ev7jvsu",
+        "displayName": "Tyoma",
+        "handle": "tyomych.bsky.social"
       }
     },
     {
@@ -7174,6 +7209,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:pmx5mif2dgzmgkyncgkek2tb",
+        "displayName": "Lisa Shevchenko",
+        "handle": "lisashevchenko.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:pn53o24ryzlout7enhofi6zc",
         "displayName": "Продавец Родины",
         "handle": "motherlandseller.bsky.social"
@@ -7405,6 +7447,13 @@
         "did": "did:plc:qezlwshecwaxxrpqr53dn2mo",
         "displayName": "свифтлосаф",
         "handle": "philosaph.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:qfporj57zp3tyt55rgqn5b7b",
+        "displayName": "Andrew Pery",
+        "handle": "andrewpery.bsky.social"
       }
     },
     {
@@ -7685,6 +7734,12 @@
         "did": "did:plc:qydn4lmp33pnuk7af5ifd3s6",
         "displayName": "マリ",
         "handle": "marserka.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:r2i2adjt2eqtds72z4rdcis2",
+        "handle": "delegate.bsky.social"
       }
     },
     {
@@ -8048,6 +8103,13 @@
         "did": "did:plc:rzrydaminiyzxihr5r4554yo",
         "displayName": "Arthur Alikulov",
         "handle": "arthur.alikulov.me"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:s2g3er66tdfeucenpqj5jfzk",
+        "displayName": "Fialka",
+        "handle": "fialka.bsky.social"
       }
     },
     {
@@ -8797,9 +8859,23 @@
     },
     {
       "subject": {
+        "did": "did:plc:u6xqzxoichdxhshfptdza2hg",
+        "displayName": "Плутя шпиён",
+        "handle": "pluttiespy.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:u6xywd2n6k3uelzlra4pbfea",
         "displayName": "HytaleRu | Новости Хайтейл",
         "handle": "hytaleru.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:u7abbghpjrq4d4nsqndozk2m",
+        "displayName": "дагестанская ягнятина",
+        "handle": "kurdiston.bsky.social"
       }
     },
     {
@@ -8952,6 +9028,13 @@
         "did": "did:plc:ultuvqids4bw6dg3boaecgnl",
         "displayName": "Spice Captain",
         "handle": "spicecapt.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:umue5gtmfcmrwcfmbmekj5s3",
+        "displayName": "Corvo Nero",
+        "handle": "corvocures.bsky.social"
       }
     },
     {
@@ -9942,6 +10025,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:xuo5xseteydb5ch4pgnqpstt",
+        "displayName": "Pavel 🌌",
+        "handle": "tweedlecat.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:xwb3xwpwxhqb666tva4edrni",
         "displayName": "Aleksandrs Nosovs",
         "handle": "realabs.bsky.social"
@@ -10402,6 +10492,13 @@
         "did": "did:plc:zfz7g5jsscsbdfqc2kucjh6z",
         "displayName": "Сварщег ",
         "handle": "swarscheg.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:zhdaclip7cendsjh77vzoz63",
+        "displayName": "Amal Спрингфилд-2",
+        "handle": "brnghkk.bsky.social"
       }
     },
     {

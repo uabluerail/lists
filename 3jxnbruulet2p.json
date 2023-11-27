@@ -345,6 +345,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:7drbkbrlbobcijcwlarbj5fl",
+        "displayName": "Hein Goemans",
+        "handle": "heingoemans.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:7pal3b342gmxdt2fsmvjooei",
         "displayName": "The Future is Still Unwritten",
         "handle": "abrightgreencity.bsky.social"
