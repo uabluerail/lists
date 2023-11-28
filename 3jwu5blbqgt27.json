@@ -207,6 +207,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:2teplbxddbb4mkql5azppmu6",
+        "displayName": "xenodove",
+        "handle": "xenodove.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:2tlmvc63r5auw65hjrcjvmfw",
         "displayName": "ixus",
         "handle": "1xus.bsky.social"
@@ -377,6 +384,13 @@
         "did": "did:plc:3bmsxh6cozvt5ekfxul5yetd",
         "displayName": "Смотри, собачка, какая хуйня ",
         "handle": "susljander.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:3bzoa5i6bkmxnd4zgg5n2fxn",
+        "displayName": "Температурное расширение волка",
+        "handle": "ulsor.bsky.social"
       }
     },
     {
@@ -639,6 +653,13 @@
         "did": "did:plc:3yn5u3p6c5k4cv7rivigcqje",
         "displayName": "холи гуакамоли!",
         "handle": "pawpawpower23.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:3zxexgvqwsycph24r7egju66",
+        "displayName": "Туподар 😼 Краснодар",
+        "handle": "typodar.bsky.social"
       }
     },
     {
@@ -922,6 +943,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:4rkr3zcfll6w4tubldrw6e4h",
+        "displayName": "Борщ ленивый.",
+        "handle": "trapezohedron.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:4ssnbqayduvscd3ig6zdhkei",
         "displayName": "сайдерзелот",
         "handle": "ciderzealot.bsky.social"
@@ -1161,6 +1189,12 @@
         "did": "did:plc:5jxhuywog6nmkrg6jlh24smx",
         "displayName": "Стю",
         "handle": "nn-astel.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:5kavdompnatw254whjpp5ifb",
+        "handle": "jujik.bsky.social"
       }
     },
     {
@@ -1678,6 +1712,13 @@
       "subject": {
         "did": "did:plc:6t6uqpsfra6fiixziusyejeh",
         "handle": "lemofet.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:6tjuwkx3lqljcloqrcjxisnb",
+        "displayName": "Korsalis",
+        "handle": "korsalis.bsky.social"
       }
     },
     {
@@ -2975,6 +3016,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:cz5oqtsco4zhjdmxk2ooucbb",
+        "displayName": "Checkhoff",
+        "handle": "checkhoff.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:czjnnv6rv4ozom7rgvoyxpw4",
         "displayName": "маленькая коллаборационистка сидит на спине у кита",
         "handle": "vysha.bsky.social"
@@ -2989,6 +3037,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:d3tend2blccuyzo5xfunrivq",
+        "displayName": "goocasden ",
+        "handle": "goocasden.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:d5h5rthwvt5bqmln4kwfwyjk",
         "displayName": "Mikhail Karpov",
         "handle": "lsdhunter.bsky.social"
@@ -2997,6 +3052,7 @@
     {
       "subject": {
         "did": "did:plc:d5myfi72izehmagfynjqet2n",
+        "displayName": "rmnt",
         "handle": "rmnt.bsky.social"
       }
     },
@@ -3336,6 +3392,20 @@
         "did": "did:plc:e2rn63r4egt3cdhthb7ogh7r",
         "displayName": "СЫНЧЕЛОВЕЧЕСКИЙ ",
         "handle": "spv2022.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:e2xruunmthie2fzpmqmnqtk5",
+        "displayName": "Kirakkkch",
+        "handle": "kirakkkch.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:e36cahcj2kkr4sjlxryoswow",
+        "displayName": "Sailor28 (Hikari_Hoshino)",
+        "handle": "sailor28.bsky.social"
       }
     },
     {
@@ -3853,6 +3923,12 @@
     },
     {
       "subject": {
+        "did": "did:plc:fjje5fl7a75e4bqkpfnxmsdz",
+        "handle": "voidabyss.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:fk4vv65xv3fehfrxyxiawmku",
         "displayName": "Радиоляйтер",
         "handle": "rattywolf.bsky.social"
@@ -4151,6 +4227,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:gg6ulswjq7m3q2xcigriy2mn",
+        "displayName": "mitch",
+        "handle": "acramitch.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:ggghlmd6rcav3hphwrvtbzt5",
         "displayName": "Мерожик",
         "handle": "meroko.bsky.social"
@@ -4220,9 +4303,23 @@
     },
     {
       "subject": {
+        "did": "did:plc:gnhz6njkx2qo5652pnvdi7ek",
+        "displayName": "Catton",
+        "handle": "cattont.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:gnojehtaplifhkgfnbe22l7l",
         "displayName": "Медиазона Беларусь",
         "handle": "mediazonaby.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:go2bwvkozgrpr6iojwdrmpaz",
+        "displayName": "doctorant en économie ",
+        "handle": "bersenevv.bsky.social"
       }
     },
     {
@@ -4438,6 +4535,13 @@
         "did": "did:plc:hdaavv3ea2oo2s5wlixtst6h",
         "displayName": "Старый Ворон/Old Raven",
         "handle": "oldvalravn.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:hddbxch6mpmu63oqgkvahs5w",
+        "displayName": "lostgalaxy",
+        "handle": "lostgalaxy.bsky.social"
       }
     },
     {
@@ -5338,6 +5442,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:k6iek22kq4l2lw4xsyapj7xo",
+        "displayName": "Sango_moon",
+        "handle": "sangomoon.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:k7jnjsnilcnzws7ryujknouk",
         "displayName": "🍄Relina Ruj🍄💙🟡",
         "handle": "relina-ruj.bsky.social"
@@ -5914,6 +6025,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:lopufnfjyauiurh3ik7h54b5",
+        "displayName": "Douzi •not home•",
+        "handle": "douzitripla.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:lp2govvazqu5sfjxehubooxt",
         "handle": "surver99.bsky.social"
       }
@@ -5923,6 +6041,13 @@
         "did": "did:plc:lp55hd2mvrt2uhjjr4pap4sw",
         "displayName": "Ступин",
         "handle": "stoopkah.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:lpwqhx7bhd3q35rnvhtc6uud",
+        "displayName": "stuurman",
+        "handle": "stuurman.bsky.social"
       }
     },
     {
@@ -6062,6 +6187,13 @@
         "did": "did:plc:m6xnlpt2z7g4m7i7jdhmmtla",
         "displayName": "Патогенез хуйни",
         "handle": "menostosociety.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:manwofvarthxjuxoxyiosivl",
+        "displayName": "Zoro Fly!",
+        "handle": "zorofly.bsky.social"
       }
     },
     {
@@ -6837,7 +6969,7 @@
     {
       "subject": {
         "did": "did:plc:ohy4gn7l2vmejaa6cvl2hiid",
-        "displayName": "and she said «OH NO»! ",
+        "displayName": "STOP ME IF I'M WRONG",
         "handle": "triangularis.bsky.social"
       }
     },
@@ -7643,6 +7775,13 @@
         "did": "did:plc:qr3trm65bnfae7zf362xcleu",
         "displayName": "spe",
         "handle": "spefides.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:qrl6hrcxdsjcyu2m7fkb54qw",
+        "displayName": "Leo Arti",
+        "handle": "leoarti.bsky.social"
       }
     },
     {
@@ -8572,6 +8711,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:tfofvtb3qymhy75vcgvto5pj",
+        "displayName": "🎃eŝafodo🎃 | #RussiaIsATerroristState",
+        "handle": "buttleoff.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:tgjamn4khwsv7lcktrkev5ou",
         "displayName": "Kir Korotkov",
         "handle": "korotkov.bsky.social"
@@ -8932,6 +9078,13 @@
         "did": "did:plc:ue6fhhav2tzcpaqh5tdj2op6",
         "displayName": "Andrey Oshev",
         "handle": "oshev.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ue7r76xfiq3edng4asfvdrgq",
+        "displayName": "орсинистер",
+        "handle": "orsinist.bsky.social"
       }
     },
     {
@@ -9325,6 +9478,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:vhh4ulxojssit6c57bhqnsds",
+        "displayName": "Kris",
+        "handle": "churiestine.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:viivhf6exfugvxazjnbuzru2",
         "displayName": "katarsis SPB",
         "handle": "katarsiski.bsky.social"
@@ -9453,6 +9613,13 @@
         "did": "did:plc:vw6tgvjudrg3oybjjdeqvexc",
         "displayName": "Кирона 🎲🗡️",
         "handle": "mskirona.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:vwevzsublvslp4ztvpvmmv6q",
+        "displayName": "Начальник Блюская ",
+        "handle": "gehryesh.bsky.social"
       }
     },
     {
@@ -9638,6 +9805,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:wjfwzcvb5ogoypw7wwck2hjq",
+        "displayName": "crowgrowe",
+        "handle": "crowgrowe.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:wk7adlrig3yyzkbdroqh3rmw",
         "displayName": "Contrigra",
         "handle": "contrigra.bsky.social"
@@ -9742,9 +9916,30 @@
     },
     {
       "subject": {
+        "did": "did:plc:wu4eiriyuhqpxxbpjyjktbym",
+        "displayName": "Сашуля",
+        "handle": "nejenka.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:wug76j2qfhodpbhlirg3z2m7",
+        "displayName": "souwus",
+        "handle": "souwus.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:wvuqsrvuloa55fnbhaymkgfs",
         "displayName": "по-чан",
         "handle": "posity.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:wwk6z5oerri7ozumtf2he373",
+        "displayName": "Ilya",
+        "handle": "ijustified.bsky.social"
       }
     },
     {
@@ -9856,6 +10051,13 @@
         "did": "did:plc:xcbpp5f4pqmtvww5lntdjagy",
         "displayName": "Сталкер ",
         "handle": "stalker1.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:xcd5gvkoicxcaztfkvu5e6gx",
+        "displayName": "Alexaedr",
+        "handle": "alexaedr.bsky.social"
       }
     },
     {
@@ -10373,6 +10575,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:z3zw2i35fewhe6v4mkfd33ju",
+        "displayName": "Kamoru",
+        "handle": "kamoru.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:z45ofpg6fjetaqkj5wm3xdg7",
         "displayName": "Marshall Migraine",
         "handle": "marshallmigraine.bsky.social"
@@ -10576,6 +10785,13 @@
         "did": "did:plc:zn7ketaxrtp4hnnsdayotkod",
         "displayName": " Shugister ",
         "handle": "shugister.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:zntvm3jvtjvk6l3tgfg7ymob",
+        "displayName": "𝕒𝕝𝕖𝕜𝕜𝟚𝟘𝟙𝟠 🔞",
+        "handle": "alekk2018.bsky.social"
       }
     },
     {

@@ -280,6 +280,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:6huszew7e3dxqjk4wrt7imru",
+        "displayName": "Kasia Kastrychnickaja",
+        "handle": "ks-october.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:6lhuxzduln2rt4dxfl6pg3xh",
         "displayName": "Кніжны Хома",
         "handle": "homabellit.bsky.social"

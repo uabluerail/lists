@@ -772,6 +772,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:mgmzvakiirrzoc4cro2fwiej",
+        "displayName": "Orit🇮🇱🇺🇦",
+        "handle": "rizhayasveta.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:mtdaj2jmffmnddoz7rkphp3q",
         "displayName": "never_better",
         "handle": "heligdloy.bsky.social"
@@ -998,6 +1005,13 @@
         "did": "did:plc:pvxmhllkegs5umwqsyfqi6h5",
         "displayName": "Anton Danilov",
         "handle": "neverangryman.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:pz3uolbe2lqjlb2y3fgecvth",
+        "displayName": "Мозги не делай ",
+        "handle": "javor.bsky.social"
       }
     },
     {
@@ -1416,7 +1430,7 @@
     {
       "subject": {
         "did": "did:plc:ytwhk55nyy4xuitbxbbi53pt",
-        "displayName": "KJETLL ×× ",
+        "displayName": "KJETLL ×× COMMS OPEN",
         "handle": "kjetll.bsky.social"
       }
     },

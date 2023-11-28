@@ -331,11 +331,11 @@
   ],
   "list": {
     "$type": "",
-    "cid": "bafyreigj6ho4y4gqnvxdb2n2maimg6mu3tevnlhh7l7w3pduvungr3kuhy",
+    "cid": "bafyreig6mvyayraj4d5nzkavqctqrsjcicjzee4n7nwl5ttgcrzdjy5tli",
     "creator": null,
-    "description": "Global coverage on 🇺🇦 in English.\n\nFeed building purpose list. \n\n⚠️CW: Western media may use wordings like \"Ukraine war\", \"Ukraine crisis\", \"the Ukraine\", \"Kiev\" and can be tone deaf towards the victims\n\n⚠️DO NOT SUBSCRIBE unless you know what you're doing! This will mute most western media",
+    "description": "",
     "indexedAt": "2023-06-06T10:32:57.082Z",
-    "name": "FYI: 🌐📰 media on 🇺🇦 in English",
+    "name": "\u003cEMPTY\u003e",
     "purpose": "app.bsky.graph.defs#modlist",
     "uri": "at://did:plc:bmjomljebcsuxolnygfgqtap/app.bsky.graph.list/3jxii7k5wfj2i"
   }
