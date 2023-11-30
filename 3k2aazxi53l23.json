@@ -259,6 +259,12 @@
     },
     {
       "subject": {
+        "did": "did:plc:6aipcjap25jmkv6e6wtsbqok",
+        "handle": "pachvaryna.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:6farza5hvoo2ncaws6gaduid",
         "displayName": "Jan Pona",
         "handle": "jan-pona.bsky.social"
@@ -725,6 +731,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:grr3wrsgzogcnuycmaerdp4x",
+        "displayName": "Оливер Блин",
+        "handle": "antimax286.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:gsdzgnzrspknyf3bwthpbzvl",
         "handle": "gomzik.by"
       }
@@ -788,6 +801,13 @@
         "did": "did:plc:i2ztq24eueryk5pwxq7ccg7n",
         "displayName": "Сонная 🌖",
         "handle": "daisysad.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:i5qn3askmxl7eykh5zf7hzh3",
+        "displayName": "Daria S.",
+        "handle": "salavei.bsky.social"
       }
     },
     {
@@ -1350,6 +1370,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:qxlgjuundoqkddudpiufzwbs",
+        "displayName": "viktor",
+        "handle": "lisikoff.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:rgnjdhonc4eyd2bxb7ewihdo",
         "displayName": "Pčv",
         "handle": "paczvarny.bsky.social"
@@ -1422,6 +1449,13 @@
         "did": "did:plc:t6ps7gnwklpva2zppiwwwgfe",
         "displayName": "януш ",
         "handle": "champanjan.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:t7uacuvdvxhmsx4bjqgi2yh7",
+        "displayName": "Pretensjonalny bóbr",
+        "handle": "kurwabobr.bsky.social"
       }
     },
     {
@@ -1649,6 +1683,13 @@
         "did": "did:plc:xheu35f6ytidg2yfc43jix7a",
         "displayName": "Menavita ",
         "handle": "menavitaonline.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:xisle25hnjhljor7dnaxiyei",
+        "displayName": "Alco Golem LVL 80+",
+        "handle": "elikso.bsky.social"
       }
     },
     {

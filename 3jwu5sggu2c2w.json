@@ -281,6 +281,7 @@
     {
       "subject": {
         "did": "did:plc:2mxveurma23piwz4hiuuw2gg",
+        "displayName": "Sabidor",
         "handle": "sabidor.bsky.social"
       }
     },
@@ -1019,8 +1020,15 @@
     },
     {
       "subject": {
+        "did": "did:plc:43ayqfqicn4tds7ntct2ijxu",
+        "displayName": "DistinctlyMediocre",
+        "handle": "distinctlymediocre.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:43j2yqxuxjm4yyxvmay5xjxv",
-        "displayName": "Quirky (but not quarky) Electron",
+        "displayName": "The Artist Formerly Known as NEGATRON",
         "handle": "electron.bsky.social"
       }
     },
@@ -2492,6 +2500,13 @@
         "did": "did:plc:73ehn7vzejuzytlzph2ooeom",
         "displayName": "Brokenkilljoy ",
         "handle": "brokenkilljoy.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:744lxzwfgkmmduh4eox37keh",
+        "displayName": "- ̗̀ Pol ̖́-",
+        "handle": "polbeh.bsky.social"
       }
     },
     {
@@ -5011,7 +5026,7 @@
     {
       "subject": {
         "did": "did:plc:efi7p5c64nqpackkoqmqeswz",
-        "displayName": "a boiled egg",
+        "displayName": "a boiled egg 🇵🇸",
         "handle": "aboiledegg.bsky.social"
       }
     },
@@ -5213,7 +5228,7 @@
     {
       "subject": {
         "did": "did:plc:epm7ygttg5jqisqkome6fbio",
-        "displayName": "Sky Leaton 🏳️‍⚧️",
+        "displayName": "Sky Leaton",
         "handle": "sleaton.bsky.social"
       }
     },
@@ -6249,6 +6264,13 @@
         "did": "did:plc:gr3pv6un6yxhvhrnbfwsslmx",
         "displayName": "ROU SUIBIAN ",
         "handle": "bienfilatre.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:gr6glr3getmxszdshfg6zozs",
+        "displayName": "🏴‍☠️ blocked by pfrazee 🇵🇸",
+        "handle": "hstark.bsky.social"
       }
     },
     {
@@ -7554,7 +7576,7 @@
     {
       "subject": {
         "did": "did:plc:jcszmynscjgxwo3d77yy2akv",
-        "displayName": "Iron Felix Unger 🇵🇸",
+        "displayName": "Iron Felix Unger 🇵🇸🚁👕",
         "handle": "2ez2dance.bsky.social"
       }
     },
@@ -8106,7 +8128,7 @@
     {
       "subject": {
         "did": "did:plc:kg6sga6cvzdbzuh5wvzh4ilb",
-        "displayName": "jammy 🍂",
+        "displayName": "jammy ☃️",
         "handle": "pajamawitch.bsky.social"
       }
     },
@@ -12195,16 +12217,16 @@
     },
     {
       "subject": {
-        "did": "did:plc:sol3zhr6ra4tb2qanmmd7rl3",
-        "displayName": "Jinx ",
-        "handle": "ahjuicyfruit.bsky.social"
+        "did": "did:plc:soqszi2muxhcj73tab7hlapv",
+        "displayName": "Ethereal Angel ❀",
+        "handle": "angeleterea.bsky.social"
       }
     },
     {
       "subject": {
-        "did": "did:plc:soqszi2muxhcj73tab7hlapv",
-        "displayName": "Ethereal Angel ❀",
-        "handle": "angeleterea.bsky.social"
+        "did": "did:plc:sptycjmcjy4x5nvz7wshrhgh",
+        "displayName": "Vance’s Bear Reprisal",
+        "handle": "jaegerbombastic.bsky.social"
       }
     },
     {
@@ -13043,6 +13065,13 @@
         "did": "did:plc:uixha46ej2udzdbhr5gakkgg",
         "displayName": "SweRedGuard🚩🏳️‍🌈",
         "handle": "sweredguard.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:uj3h7el7dsiz32lmtx3gvbvf",
+        "displayName": "Moon",
+        "handle": "brettc55.bsky.social"
       }
     },
     {
@@ -14962,7 +14991,7 @@
     {
       "subject": {
         "did": "did:plc:yj2pd3wzceorf3bcawceoqfk",
-        "displayName": "imogen (jolly moding) 🏳️‍⚧️",
+        "displayName": "imogen (mew moding) 🏳️‍⚧️",
         "handle": "im.ogen.gay"
       }
     },
