@@ -37,7 +37,7 @@
     {
       "subject": {
         "did": "did:plc:2igk5x4s35zsdzfefhzv6lyi",
-        "displayName": "pyromairon 🌙(6/8) comms open!",
+        "displayName": "pyromairon 🌙(4/8) comms open!",
         "handle": "pyromairon.bsky.social"
       }
     },
@@ -668,6 +668,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:g5sbzh2pa74ksxy4am6g5r26",
+        "displayName": "Ryna",
+        "handle": "karinaprokishina.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:gdbqs7433rhbm2rudbenny7x",
         "displayName": "Yahor Kliastoŭ",
         "handle": "nineofsvvords.bsky.social"
@@ -953,7 +960,7 @@
     {
       "subject": {
         "did": "did:plc:kcd26vzxlrnbfmkuj36pol6o",
-        "displayName": "Mad'S, the tired Toxic Duck🦆💀",
+        "displayName": "Mad'S, SIGH Toxic Duck🦆💀",
         "handle": "madsduck.bsky.social"
       }
     },
@@ -1725,6 +1732,12 @@
         "did": "did:plc:yhwujfkpbmr7k7zvtaldmw35",
         "displayName": "Karina By",
         "handle": "m-kirsty.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:yi7jrr5wcseetouddagwitxd",
+        "handle": "voronnikita13.bsky.social"
       }
     },
     {

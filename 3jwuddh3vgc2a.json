@@ -146,6 +146,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:5utessvhuf43zk22ajqnbaac",
+        "displayName": "Маргит",
+        "handle": "ritanorov.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:5ycq57tiq64idehp4ln4us4d",
         "displayName": "Ilya Stepanov",
         "handle": "istepanov.bsky.social"
@@ -177,6 +184,13 @@
         "did": "did:plc:6treiwvaunhy6v6xwrseipjm",
         "displayName": "🇧🇷Belkus Vulgaris",
         "handle": "belkus.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:6v3qmkvx2xoxaeujxzk4fhnt",
+        "displayName": "Ismail Abramov ",
+        "handle": "silenius13.bsky.social"
       }
     },
     {
@@ -826,6 +840,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:mg5fmon3c3fscarsmzoc2rfg",
+        "displayName": "Daria",
+        "handle": "dashik.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:mgmzvakiirrzoc4cro2fwiej",
         "displayName": "Orit🇮🇱🇺🇦",
         "handle": "rizhayasveta.bsky.social"
@@ -899,6 +920,12 @@
         "did": "did:plc:nppstykors5vefhp7qfhdfba",
         "displayName": "Seva",
         "handle": "seva.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:nqgqydwllfrliyntcqwj7s7n",
+        "handle": "chayanbayan.bsky.social"
       }
     },
     {
