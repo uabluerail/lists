@@ -133,6 +133,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:5mecfrq7ppytquv3kil2rokv",
+        "displayName": "Героиня Антиутопии",
+        "handle": "aaakkva.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:5mn4ohb35oy5yzevx7gsb2kg",
         "handle": "woyorus.bsky.social"
       }
@@ -279,6 +286,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:apmqr3s2fo37fm2um7nb57p3",
+        "displayName": "Lupatniece",
+        "handle": "lupatniece.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:aq4c7nxmqqhqlzwyyewzttnx",
         "displayName": "Olga",
         "handle": "witzseeker.bsky.social"
@@ -412,6 +426,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:co5rpchxnjdn2yvjp5rwdqmm",
+        "displayName": "All",
+        "handle": "balbesall.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:ctj4rgkdnoazyrnphwqof5cl",
         "displayName": "Eddie Koss",
         "handle": "eddiekoss.bsky.social"
@@ -468,6 +489,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:dyo5rnaie2ojw4lk65osjdn3",
+        "displayName": "Mrs. Brightside🇱🇻",
+        "handle": "marina8oo8.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:e2f77azwjcnvfxldyeppfum6",
         "displayName": "Neil MacFarquhar",
         "handle": "nmacfarquhar.bsky.social"
@@ -484,6 +512,13 @@
         "did": "did:plc:e7gyl7ontfnlq6mi6r43ja4b",
         "displayName": "Masha 🏳️‍🌈 ",
         "handle": "mashavsl.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:eemsqupbgkprnqarqk2igeaz",
+        "displayName": "That Random Pharmacist 🇺🇸",
+        "handle": "penrph.bsky.social"
       }
     },
     {
@@ -510,7 +545,7 @@
     {
       "subject": {
         "did": "did:plc:ewljbtkvanrwqmvdopfnpdas",
-        "displayName": "Alex",
+        "displayName": "shmAlex",
         "handle": "biryuk.bsky.social"
       }
     },
@@ -575,6 +610,13 @@
         "did": "did:plc:fqjmk2ser743bqozqefjfqld",
         "displayName": "St.Parazyth",
         "handle": "parazyth.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:fsvggcpmb7mnqcbcwrgcenon",
+        "displayName": "@vikschum",
+        "handle": "vikschum.bsky.social"
       }
     },
     {
@@ -731,9 +773,23 @@
     },
     {
       "subject": {
+        "did": "did:plc:iu3dx5tz7723i43wkdfb77a5",
+        "displayName": "Шайтан 41 жыл окуп Чылпак боло албай коюптур ",
+        "handle": "shokbala.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:jphc2eroabwhbglbj4ig7pdd",
         "displayName": "spandrels in your lap",
         "handle": "1vth1nk3r.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:juupqucqjsiow4ibskcw4tim",
+        "displayName": "Dmitri Manuylov",
+        "handle": "dmitrimanuylov.bsky.social"
       }
     },
     {
@@ -785,6 +841,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:klnlpn4tp5bkt4jrxnz3hzgr",
+        "displayName": "Император Византийский Василевс ",
+        "handle": "zlojadmin.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:ktn67opdav27oyrohoxjozdl",
         "handle": "agent9000000.bsky.social"
       }
@@ -815,6 +878,13 @@
         "did": "did:plc:lev4i6cwhr2pqpgxnref6umg",
         "displayName": "macdigger",
         "handle": "macdigger.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:lgqbmco2ijxenc5ohg6ew2oe",
+        "displayName": "Springsss in BG3 hell",
+        "handle": "springsss.bsky.social"
       }
     },
     {
@@ -1118,6 +1188,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:qrizfqaghxmvx6f5s5e3mg4z",
+        "displayName": "Pasha Medvedev",
+        "handle": "medvedi.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:quenht7qg7z4viodwyrynfa4",
         "displayName": "Elena Henkel ",
         "handle": "elenahenkel.bsky.social"
@@ -1202,6 +1279,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:rs6ndim6bzhlbpdy7ei4kysp",
+        "displayName": "DariusA 🇱🇹🦈",
+        "handle": "dariussa.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:rwais6llpunt52fnwqem635x",
         "displayName": "Liza Vereykina ",
         "handle": "lizav.bsky.social"
@@ -1233,6 +1317,13 @@
         "did": "did:plc:sbq4p4phexvyrxhsznrut2io",
         "displayName": "кёрновуха",
         "handle": "yeahkern.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:sc5ycbslpdi6zcafmylsfwnk",
+        "displayName": "Viktoria",
+        "handle": "vilya.bsky.social"
       }
     },
     {

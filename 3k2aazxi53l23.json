@@ -300,6 +300,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:6rs72uacloiybofksx5oqhcg",
+        "displayName": "Slaver",
+        "handle": "slaver.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:6tberqq7yijkhy4e7qlomvwj",
         "displayName": "Usiasłaŭ Paškievič",
         "handle": "usiaslaup.bsky.social"
@@ -331,6 +338,13 @@
         "did": "did:plc:77tge4kqrdeu6prio654rw53",
         "displayName": "Yuliya Matuzava",
         "handle": "juliamatuzava.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:7fcmrw2lj7ob64jnahub6ru2",
+        "displayName": "змрочная ганна ",
+        "handle": "ketkok.bsky.social"
       }
     },
     {
@@ -449,6 +463,13 @@
         "did": "did:plc:buqromjx3viutuduihex6mdd",
         "displayName": "Tall_n_nerdy",
         "handle": "tallnerdy.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:bvg7qjyokd6gxw4k4gsfpzi3",
+        "displayName": "Siarhiej Hurski",
+        "handle": "light-drow.bsky.social"
       }
     },
     {
@@ -584,6 +605,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:epqpeogwig5ugido674ryrws",
+        "displayName": "Ліл Кек",
+        "handle": "ch3p3.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:epunbo4rkisdbrr345wku543",
         "displayName": "Vikk’s",
         "handle": "vikk.bsky.social"
@@ -650,6 +678,12 @@
         "did": "did:plc:fle7b27irl5ybos24yj4dekk",
         "displayName": "П⚈лиция Ск⚈рби",
         "handle": "policeofsorrow.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ftaelfkf2spxsqqktwzooxlu",
+        "handle": "gingervik.bsky.social"
       }
     },
     {
@@ -794,6 +828,13 @@
         "did": "did:plc:hyk3alrw6zt5twzez77u4nji",
         "displayName": "Alina.by",
         "handle": "lilisosoon.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:i2m6whu6kmkkqfttjvpezu7f",
+        "displayName": "ℳ𝓎𝓅𝓀𝒶",
+        "handle": "ttamenow.bsky.social"
       }
     },
     {
@@ -987,6 +1028,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:kwnnyzni3mpdb2i45fl2px3w",
+        "displayName": "🦈Ačmureły Łachankin🦈",
+        "handle": "fuckinglohankin.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:ky5kl47p66anu4ypoapudbpc",
         "displayName": "Лиса Анубиса",
         "handle": "foxywitchery.bsky.social"
@@ -1127,6 +1175,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:myjljey4cgmzd76gi66sp3eo",
+        "displayName": "Egor Ka",
+        "handle": "egorka.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:n2rcgffycwhga47345bbjor7",
         "displayName": "Tim Zubreichuk",
         "handle": "autotroph.bsky.social"
@@ -1193,6 +1248,13 @@
         "did": "did:plc:octucqkt3hlvkjko7225nyfy",
         "displayName": "Светлiк)",
         "handle": "svetlik.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:od2zjeh7kjxjtgyjzuudsnwa",
+        "displayName": "Vladya",
+        "handle": "ar7work.bsky.social"
       }
     },
     {
@@ -1432,6 +1494,12 @@
     },
     {
       "subject": {
+        "did": "did:plc:sof6kljih36l3ahvto6y7jrg",
+        "handle": "zimenko.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:sqcpv3f7qpdob6ncr4yxqshq",
         "displayName": "Teo ♥️✊✌️",
         "handle": "seteo.bsky.social"
@@ -1502,6 +1570,12 @@
     },
     {
       "subject": {
+        "did": "did:plc:uejtpn7sk7jexjd7efbpzxu6",
+        "handle": "rots.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:ujq4ipqmwds4aj4zuo2ogiyb",
         "displayName": "Calibro ❤️✊✌️🇺🇦🏳️‍🌈🏳️‍⚧️",
         "handle": "dontevenask.me"
@@ -1565,6 +1639,12 @@
       "subject": {
         "did": "did:plc:vfidvfbgh6ioxel2pxk2qeh7",
         "handle": "achtung1.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:vr6sxr2iy2h46ncpo2rddqbo",
+        "handle": "busla.bsky.social"
       }
     },
     {
