@@ -780,6 +780,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:jdquhb3cyfqoxyh6x6o5vujb",
+        "displayName": "Dima Lazarev",
+        "handle": "dmitrywithouti.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:jphc2eroabwhbglbj4ig7pdd",
         "displayName": "spandrels in your lap",
         "handle": "1vth1nk3r.bsky.social"

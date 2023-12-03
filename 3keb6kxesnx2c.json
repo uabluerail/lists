@@ -4797,6 +4797,7 @@
     {
       "subject": {
         "did": "did:plc:fmhsg5qkykhmmysgszecst32",
+        "displayName": "Alex Vanin",
         "handle": "alexvanin.bsky.social"
       }
     },
@@ -5404,6 +5405,7 @@
     {
       "subject": {
         "did": "did:plc:h6atcfff5ivnwzx5cbwrhyvp",
+        "displayName": "Input44",
         "handle": "input44.bsky.social"
       }
     },
@@ -8987,6 +8989,7 @@
     {
       "subject": {
         "did": "did:plc:q6jb7ggdnf5bzha2d34tsjbh",
+        "displayName": "постпельменьпанк",
         "handle": "ascendedsleeper.bsky.social"
       }
     },
@@ -10558,7 +10561,7 @@
     {
       "subject": {
         "did": "did:plc:u5smxgwzv664gmgogsuprfka",
-        "displayName": "Девушка с приколами ",
+        "displayName": "Тёмная сторона личности",
         "handle": "vikolt.bsky.social"
       }
     },
