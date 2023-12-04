@@ -314,6 +314,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:b6djt6ohred2avlvcx53xva5",
+        "displayName": "Neringa",
+        "handle": "neringa.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:b77qhlxd3qhooo3bpsfk4y3i",
         "displayName": "Mihalyich🇺🇸",
         "handle": "borodapomorska.bsky.social"
@@ -917,6 +924,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:maqil35dfsvgdjyxx3s6lusg",
+        "displayName": "Ukrainian American 🇺🇲🇺🇦🇮🇱",
+        "handle": "andreimaksimenka.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:mg5fmon3c3fscarsmzoc2rfg",
         "displayName": "Daria",
         "handle": "dashik.bsky.social"
@@ -962,6 +976,13 @@
         "did": "did:plc:nbkp47kv7yeytfxsfsokykin",
         "displayName": "uniswee",
         "handle": "uniswee.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ncrauvz6mzgxhi7ut2zjvzm5",
+        "displayName": "Alex 🇺🇸🇺🇦🇮🇱",
+        "handle": "atenenb.bsky.social"
       }
     },
     {

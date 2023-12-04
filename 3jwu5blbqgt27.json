@@ -1982,6 +1982,12 @@
     },
     {
       "subject": {
+        "did": "did:plc:7ap4ftfx7fl44ua56twphsbz",
+        "handle": "iffjey.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:7cea47smv6t22hawvdh3g7cm",
         "displayName": "Влад Влад",
         "handle": "feigelman.bsky.social"
@@ -6323,7 +6329,7 @@
     {
       "subject": {
         "did": "did:plc:kuz4rdmqjifcujvxyithnfgd",
-        "displayName": "[🌟] matriarch of a silly family",
+        "displayName": "[🎄] matriarch of a silly family",
         "handle": "bimbonryo.bsky.social"
       }
     },
@@ -7009,7 +7015,6 @@
     {
       "subject": {
         "did": "did:plc:mokx2ixxqbhyvill7lbiyk66",
-        "displayName": "Ilia Nazmutdinov",
         "handle": "ilia-nazmutdinov.bsky.social"
       }
     },
@@ -9882,6 +9887,12 @@
     },
     {
       "subject": {
+        "did": "did:plc:u4g42yvzfmxxmu3fkioqsiwi",
+        "handle": "totokartonio.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:u4quowwpthhk2466podf7wfj",
         "displayName": "GoodDeer",
         "handle": "gooddeer.ru"
@@ -11308,6 +11319,13 @@
         "did": "did:plc:xuo5xseteydb5ch4pgnqpstt",
         "displayName": "Pavel 🌌",
         "handle": "tweedlecat.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:xw5pnjjmrgcol7oypahpnjxt",
+        "displayName": "июльские синяки",
+        "handle": "yulionn.bsky.social"
       }
     },
     {
