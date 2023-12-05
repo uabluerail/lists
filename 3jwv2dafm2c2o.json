@@ -37,6 +37,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:bqulmur4cskn3gwj5t3mfqv5",
+        "displayName": "emma",
+        "handle": "seltzerqueen.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:hklwgimzcioeuqcvcxhmfwhg",
         "displayName": "Natalia Antonova🇺🇸🇺🇦",
         "handle": "nataliaantonova.bsky.social"

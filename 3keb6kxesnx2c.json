@@ -7566,7 +7566,7 @@
     {
       "subject": {
         "did": "did:plc:mes42ov6jrjkh2p7rbmw27l6",
-        "displayName": "vlad",
+        "displayName": "v.lad",
         "handle": "vlans.bsky.social"
       }
     },
@@ -11435,6 +11435,7 @@
     {
       "subject": {
         "did": "did:plc:wlkaqmjnv6o4s2bcxfwcu2vt",
+        "displayName": "Christian Archer",
         "handle": "chrstnarchr.bsky.social"
       }
     },
@@ -12570,13 +12571,6 @@
         "did": "did:plc:zgc76x3n7lqfk55axbwupk7a",
         "displayName": "בלוץ'",
         "handle": "beloch.bsky.social"
-      }
-    },
-    {
-      "subject": {
-        "did": "did:plc:zhguilosnfqkdwfnofrjuhb5",
-        "displayName": "Woogie Boogie 🇺🇦❤️🇺🇸",
-        "handle": "woogieboogie.bsky.social"
       }
     },
     {

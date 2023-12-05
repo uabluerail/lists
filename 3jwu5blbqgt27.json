@@ -185,6 +185,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:2qbrym54ngxbdkgze3rgsnjt",
+        "displayName": "Dmitry Baranov 🇱🇹",
+        "handle": "d-metrius.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:2qifvxqwayl2ilbt7l64seiv",
         "displayName": "Lioncourt",
         "handle": "lioncourt.bsky.social"
@@ -2497,7 +2504,7 @@
     {
       "subject": {
         "did": "did:plc:anu2bzfi37rtalftr3b5vym7",
-        "displayName": "Lawarier ",
+        "displayName": "saligiacis",
         "handle": "lawarier.bsky.social"
       }
     },
@@ -2845,13 +2852,6 @@
         "did": "did:plc:bqgpd5jv4yxyshogie5xxpwc",
         "displayName": "Keroronsk",
         "handle": "keroronsk.bsky.social"
-      }
-    },
-    {
-      "subject": {
-        "did": "did:plc:bqulmur4cskn3gwj5t3mfqv5",
-        "displayName": "emma",
-        "handle": "seltzerqueen.bsky.social"
       }
     },
     {
@@ -4186,13 +4186,6 @@
     },
     {
       "subject": {
-        "did": "did:plc:f6yekxxpke7gyas3d7qeipty",
-        "displayName": "Michael Druker 💙💛",
-        "handle": "mdruker.bsky.social"
-      }
-    },
-    {
-      "subject": {
         "did": "did:plc:f7ha3m2wderfat35ke7x272r",
         "displayName": "Shamerli",
         "handle": "shamerli.bsky.social"
@@ -5509,6 +5502,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:ilts4l5uqxlfyyawz3ocngcj",
+        "displayName": "некрøфe†ишизw",
+        "handle": "demler.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:imeszeuyzrvzrw3arlwvqvsd",
         "displayName": "Дракональя",
         "handle": "berdycat.bsky.social"
@@ -6248,13 +6248,6 @@
         "did": "did:plc:knv44aieprsmgwzx67bdbipg",
         "displayName": "John Fox",
         "handle": "johnfox.bsky.social"
-      }
-    },
-    {
-      "subject": {
-        "did": "did:plc:ko3s73jlvrnlgv6ie36malkt",
-        "displayName": "Квіточка Криму 🇺🇦",
-        "handle": "kvitochkakrumy.bsky.social"
       }
     },
     {
@@ -9046,8 +9039,8 @@
     {
       "subject": {
         "did": "did:plc:rudsnw4psdriawmq7in4r6np",
-        "displayName": "SteppeFox",
-        "handle": "steppe-fox.bsky.social"
+        "displayName": "Okay Fox",
+        "handle": "okayfox.bsky.social"
       }
     },
     {
@@ -10083,13 +10076,6 @@
         "did": "did:plc:uijusijevwywl5qnncpvosc3",
         "displayName": "DSP",
         "handle": "drspacepanda.bsky.social"
-      }
-    },
-    {
-      "subject": {
-        "did": "did:plc:uin47pnqv5gpao752go3l22t",
-        "displayName": "Umay_Aryk",
-        "handle": "umayfm.bsky.social"
       }
     },
     {
@@ -11179,7 +11165,7 @@
     {
       "subject": {
         "did": "did:plc:xfwx2s5eio2zubemk7y7meit",
-        "displayName": "Impersonation warning ",
+        "displayName": "Призма Экстремизма",
         "handle": "commealaguerre.bsky.social"
       }
     },

@@ -35,6 +35,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:2qrnjyvkmdq2eqztno7zuztu",
+        "displayName": "LeftArmOfThe",
+        "handle": "leftarmofthe.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:2zxqblci5lfcfonc2mhq2clb",
         "displayName": "Котограф 💙💛 | Catographer 💙💛",
         "handle": "vladvoice.bsky.social"
@@ -1436,6 +1443,13 @@
         "did": "did:plc:uhvn26l6nesna42z5k4eysdh",
         "displayName": "Aspnadiyar",
         "handle": "aspandiyar.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:uin47pnqv5gpao752go3l22t",
+        "displayName": "Umay_Aryk",
+        "handle": "umayfm.bsky.social"
       }
     },
     {
