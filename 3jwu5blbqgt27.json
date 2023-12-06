@@ -851,6 +851,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:4ddx4xkv7r6xmqhsuxj4vebi",
+        "displayName": "Father Frodo",
+        "handle": "unno.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:4deqezcgyog5rv7epop22j2n",
         "displayName": "hyperolive im exil",
         "handle": "simonkostin.bsky.social"
@@ -4684,7 +4691,7 @@
     {
       "subject": {
         "did": "did:plc:gfiyaib32nsxa4yolynqqrdo",
-        "displayName": "Балтийский тюлень ",
+        "displayName": "🦭🏳️‍⚧️",
         "handle": "ronis.bsky.social"
       }
     },
@@ -8788,7 +8795,7 @@
     {
       "subject": {
         "did": "did:plc:r5owpvrfwzoud74guczwbpjn",
-        "displayName": "Волчица в небесах с алмазами",
+        "displayName": "Волчица в небесах без алмазов",
         "handle": "freerevachol.bsky.social"
       }
     },
@@ -9390,6 +9397,13 @@
         "did": "did:plc:sriwrmxmxoljakb5meyhqobu",
         "displayName": "Странный психолог",
         "handle": "psycholog.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:srjzurxqf36ll5aa75bqh34d",
+        "displayName": "Angry Iroquois",
+        "handle": "angryiroquois.bsky.social"
       }
     },
     {

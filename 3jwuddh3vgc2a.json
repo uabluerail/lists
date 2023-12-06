@@ -342,6 +342,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:bboltloxztlugbhlp7hdju7j",
+        "displayName": "KVygantas",
+        "handle": "vygantas.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:bccxl43ji7mxhy2bnazfmxht",
         "displayName": "きつね",
         "handle": "dariacastro.bsky.social"
@@ -359,6 +366,13 @@
         "did": "did:plc:ben2bpynauquadyybkr3hh66",
         "displayName": "Roman Shaposhnik",
         "handle": "rvs.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:bi22fl6parqvhxkdb6vkxqzy",
+        "displayName": "etoMaDiNa",
+        "handle": "cherkesswitch.bsky.social"
       }
     },
     {
@@ -401,6 +415,12 @@
         "did": "did:plc:bwheulnj77xqs3hrmangtimf",
         "displayName": "Scott Rose",
         "handle": "rprose.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:bx4cxjnstpe2ghvae7uva5i6",
+        "handle": "baursak.bsky.social"
       }
     },
     {
@@ -952,6 +972,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:mrndcgdsrhl2k57zx5rydb4y",
+        "displayName": "Mikel Lucyšyn",
+        "handle": "loinik.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:mtdaj2jmffmnddoz7rkphp3q",
         "displayName": "never_better",
         "handle": "heligdloy.bsky.social"
@@ -1079,6 +1106,13 @@
         "did": "did:plc:olrwzu43rysfm54typz5kqpu",
         "displayName": "Spenser A. Warren",
         "handle": "spenserawarren.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:oniwl5scm4wltaugf73272de",
+        "displayName": "Aleksey Shipilëv",
+        "handle": "shipilev.bsky.social"
       }
     },
     {
@@ -1380,6 +1414,12 @@
         "did": "did:plc:sshzk7ebmpoa34e6lfhqpzkq",
         "displayName": "Sam Breazeale",
         "handle": "sambreazeale.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:tc6m4v2d5tm6kmxckhge3kao",
+        "handle": "nnitosan.bsky.social"
       }
     },
     {

@@ -1126,6 +1126,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:maqil35dfsvgdjyxx3s6lusg",
+        "displayName": "Ukrainian American 🇺🇲🇺🇦🇮🇱",
+        "handle": "andreimaksimenka.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:mbcgie5prhi6i47wc3pm7ant",
         "displayName": "Фродя",
         "handle": "frodesin.bsky.social"

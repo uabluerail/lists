@@ -261,13 +261,6 @@
     },
     {
       "subject": {
-        "did": "did:plc:2qrnjyvkmdq2eqztno7zuztu",
-        "displayName": "LeftArmOfThe",
-        "handle": "leftarmofthe.bsky.social"
-      }
-    },
-    {
-      "subject": {
         "did": "did:plc:2rhbupcb6uqnvlu35j5rzode",
         "handle": "www0rker.bsky.social"
       }
@@ -3648,6 +3641,7 @@
     {
       "subject": {
         "did": "did:plc:cns5pyrbwkvdoyes4w2cih6t",
+        "displayName": "Lana Ipekakuana",
         "handle": "kosmonozhka.bsky.social"
       }
     },
@@ -8792,8 +8786,8 @@
     {
       "subject": {
         "did": "did:plc:pihwlhzsymoet6wgrjgddspy",
-        "displayName": "𝕬𝖚𝖌𝖚𝖘𝖙𝖎𝖓",
-        "handle": "augustiner.bsky.social"
+        "displayName": "𝕸𝖗.𝕬𝖚𝖌𝖚𝖘𝖙𝖎𝖓",
+        "handle": "mraugustin.bsky.social"
       }
     },
     {
@@ -10142,6 +10136,7 @@
     {
       "subject": {
         "did": "did:plc:t75gpx7c3z7hcq7iuk3zrwmc",
+        "displayName": "Rgsrr.Погнали",
         "handle": "rgser.bsky.social"
       }
     },
@@ -10608,7 +10603,7 @@
     {
       "subject": {
         "did": "did:plc:ueyf66trsjnls47vzwgoqjuf",
-        "displayName": "Злая буханачка",
+        "displayName": "Злая буханачка 🎄",
         "handle": "sad-fem.bsky.social"
       }
     },
