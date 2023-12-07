@@ -9951,13 +9951,6 @@
     },
     {
       "subject": {
-        "did": "did:plc:srjzurxqf36ll5aa75bqh34d",
-        "displayName": "Angry Iroquois",
-        "handle": "angryiroquois.bsky.social"
-      }
-    },
-    {
-      "subject": {
         "did": "did:plc:srozkc3tf4nlte2uxenczxxi",
         "displayName": "Kirill Komarov",
         "handle": "kakomarov.bsky.social"
@@ -11694,6 +11687,7 @@
     {
       "subject": {
         "did": "did:plc:xchaccpnyotqzqtudl4ctuqb",
+        "displayName": "Саша",
         "handle": "lexzz.bsky.social"
       }
     },
@@ -11896,13 +11890,6 @@
       "subject": {
         "did": "did:plc:xsiveo3smgaeznhtb5njic5v",
         "handle": "rtmfrdch.bsky.social"
-      }
-    },
-    {
-      "subject": {
-        "did": "did:plc:xt4xb4c4n6hdnwtps233hbu7",
-        "displayName": "Лідер власної думки ",
-        "handle": "kurovsky.bsky.social"
       }
     },
     {
