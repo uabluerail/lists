@@ -1890,7 +1890,7 @@
     {
       "subject": {
         "did": "did:plc:6tusp3zibpgcvlmxaiam4gmd",
-        "displayName": " Wanderer ",
+        "displayName": " Wanderer 🇨🇦",
         "handle": "strannitza.bsky.social"
       }
     },
@@ -8058,6 +8058,12 @@
     },
     {
       "subject": {
+        "did": "did:plc:pcjyo6rqox26r2h6knfxcpjz",
+        "handle": "thesirinbird.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:pcnwvosyozdgu5ujpx52odfi",
         "displayName": "Annteya | Commissions open",
         "handle": "annteya.bsky.social"
@@ -10311,6 +10317,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:v4h2jkm2uvjmtilt36a4mns5",
+        "displayName": "саша • საშა ↙↙↙",
+        "handle": "samsha.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:v4maujmowxnxpvh2k6e5hxqx",
         "displayName": "🐍SNEGOVSKI",
         "handle": "snegovski9623.bsky.social"
@@ -11753,7 +11766,7 @@
     {
       "subject": {
         "did": "did:plc:z5vojjhwjsxf6o26iyrdvmw4",
-        "displayName": "🐈‍⬛",
+        "displayName": "frag",
         "handle": "fragilehankei.bsky.social"
       }
     },

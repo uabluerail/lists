@@ -582,13 +582,6 @@
     },
     {
       "subject": {
-        "did": "did:plc:cnletzqisnpyzimz5xk6baol",
-        "displayName": "Сергей Смирнов",
-        "handle": "sssmirnov.bsky.social"
-      }
-    },
-    {
-      "subject": {
         "did": "did:plc:cob5zamhrw5b5xgfsbv6pirj",
         "displayName": "mentat marx 🇵🇸",
         "handle": "marksist.bsky.social"
@@ -1088,6 +1081,13 @@
         "did": "did:plc:kaicfg3p55agjve6mu7admnn",
         "displayName": "Mark (Wumpy) McCaw 🇮🇪 🇵🇸",
         "handle": "wumpyspeaks.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:katl2n3xfpfwpv45aiwwtbrb",
+        "displayName": "Caræsten",
+        "handle": "cara.city"
       }
     },
     {

@@ -1161,6 +1161,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:mfjodciigsjyh7g653ehimf7",
+        "displayName": "Яўген",
+        "handle": "evgen1991.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:mkz4rgcvxy72dxnq7idpvyyk",
         "displayName": "Nadvorie",
         "handle": "nadvorie.bsky.social"

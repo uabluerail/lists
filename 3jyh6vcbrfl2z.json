@@ -253,6 +253,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:katl2n3xfpfwpv45aiwwtbrb",
+        "displayName": "Caræsten",
+        "handle": "cara.city"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:l4hv5qadjhnaqf3f7o6a23vr",
         "displayName": "LocalTransCommie",
         "handle": "localtranscommie.bsky.social"

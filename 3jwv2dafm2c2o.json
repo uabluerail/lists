@@ -79,6 +79,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:katl2n3xfpfwpv45aiwwtbrb",
+        "displayName": "Caræsten",
+        "handle": "cara.city"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:n3lnles3nqhtniyefyytgcsh",
         "displayName": "LeftwardSwing 🏳️‍⚧️ 🌈 🏳️‍🌈 ♿",
         "handle": "leftwardswing.bsky.social"
