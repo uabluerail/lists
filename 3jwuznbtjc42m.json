@@ -287,6 +287,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:ke7pjugndrhbwxe3ahxbiwoq",
+        "displayName": "Yulia Tarkovskaia ",
+        "handle": "protegeboga.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:ko3s73jlvrnlgv6ie36malkt",
         "displayName": "Квіточка Криму 🇺🇦",
         "handle": "kvitochkakrumy.bsky.social"

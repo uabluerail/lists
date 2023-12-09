@@ -57,6 +57,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:2btvhpr5mwdwvdnmayws5woh",
+        "displayName": "данковская",
+        "handle": "iamhiraishin.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:2dga3b5qidhveoieziffnft2",
         "displayName": "Le Pendu",
         "handle": "ldzn.bsky.social"
@@ -949,6 +956,12 @@
     },
     {
       "subject": {
+        "did": "did:plc:4mwh2qk2g3jo2ldaeytypsxg",
+        "handle": "baskinrob.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:4mxmuiezjvalyvg53kvbcxbb",
         "displayName": "Право имею🕊💚",
         "handle": "rainyreign.bsky.social"
@@ -1153,6 +1166,13 @@
         "did": "did:plc:4ygl3llohmv5m4um2oe6ykvb",
         "displayName": "Martovskiy Zayac",
         "handle": "martovskiyzayac.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:4zkp3d2agvinfc7zyjld64a7",
+        "displayName": "эскапизм",
+        "handle": "patheticpaketik.bsky.social"
       }
     },
     {
@@ -2016,6 +2036,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:7dnpwua4aldvseyhd6rhcq6i",
+        "displayName": "Санечка",
+        "handle": "sane4ka.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:7e62nrgxofmiekwohorgy334",
         "displayName": "Dan The Stranger / Денис Чужой",
         "handle": "danthestranger.bsky.social"
@@ -2534,13 +2561,6 @@
         "did": "did:plc:at55lk6ufdnryqjiualt7bh6",
         "displayName": "d.Candela",
         "handle": "dervish-candela.bsky.social"
-      }
-    },
-    {
-      "subject": {
-        "did": "did:plc:at5zjizdpi4ia466s56ctt7j",
-        "displayName": "Риз",
-        "handle": "viso.bsky.social"
       }
     },
     {
@@ -3064,9 +3084,23 @@
     },
     {
       "subject": {
+        "did": "did:plc:c5rh7s76b7gkfcjkkdqmr324",
+        "displayName": "Essera ",
+        "handle": "essera.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:c6dwnbvffsnoz3ble4z5p4zo",
         "displayName": "Рэдрик Шухарт",
         "handle": "ringort.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:c7br4i6fxz3mwosftwjlcspq",
+        "displayName": "Jolfar, ein Windir #IStandWithUkraine",
+        "handle": "avskyn.bsky.social"
       }
     },
     {
@@ -3243,6 +3277,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:cpt3wrklpdb3mxyrl67e7fvd",
+        "displayName": "Adelhaid ",
+        "handle": "adelhaidcosplay.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:cqdv5uzqgfzleqkjrx43raj2",
         "displayName": "Ariadna Hiddls",
         "handle": "ariadnawin69.bsky.social"
@@ -3337,6 +3378,13 @@
         "did": "did:plc:cz5oqtsco4zhjdmxk2ooucbb",
         "displayName": "Checkhoff",
         "handle": "checkhoff.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:czbh4o4h3oyfxwv3pnp7dtfq",
+        "displayName": "Vadim",
+        "handle": "gopstop.bsky.social"
       }
     },
     {
@@ -4962,6 +5010,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:h2xh3le6hdjlwsuncgnnnkrj",
+        "displayName": "🍂Al Dente🎃",
+        "handle": "mrkotets.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:h3gobgqgwhgwuimyuio6tdfe",
         "handle": "luckyroen.bsky.social"
       }
@@ -5040,6 +5095,13 @@
         "did": "did:plc:havcpuauokrdf5vlbwue5pvb",
         "displayName": "Oleg Mingalev",
         "handle": "mingaleg.ru"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:hcblw5u6q6yml4i72af7np53",
+        "displayName": "Clover Frostwaker",
+        "handle": "frostwaker.bsky.social"
       }
     },
     {
@@ -5234,6 +5296,13 @@
         "did": "did:plc:hsahzo4aenqcrovcsixrmcvs",
         "displayName": "Aleksandr K",
         "handle": "34wfs.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:hsvdbpyc3ifufe4xakl5isle",
+        "displayName": "Vladimir",
+        "handle": "lootgoblinmb.bsky.social"
       }
     },
     {
@@ -5858,6 +5927,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:joj7ftmvze4yinqzzn5ibnho",
+        "displayName": "J",
+        "handle": "yelich.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:jpmqkigusaiv4jorzsg2ju3r",
         "displayName": "Victor",
         "handle": "aivengo.bsky.social"
@@ -6136,6 +6212,13 @@
         "did": "did:plc:ke4p2wzdcmygb6as2m37zota",
         "displayName": "doxx holiday",
         "handle": "planev.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ke7pjugndrhbwxe3ahxbiwoq",
+        "displayName": "Yulia Tarkovskaia ",
+        "handle": "protegeboga.bsky.social"
       }
     },
     {
@@ -6434,6 +6517,13 @@
         "did": "did:plc:l4ji7lv3lrbzmtghmbtaya2j",
         "displayName": "reasvis",
         "handle": "reasvis.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:l5ade7ie2qhpi4qsvifrlfno",
+        "displayName": "Viktor N.",
+        "handle": "vmrachen.bsky.social"
       }
     },
     {
@@ -6975,6 +7065,13 @@
         "did": "did:plc:mki4lqj5darhakufxkufc3zd",
         "displayName": "𝐍𝐚𝐯𝐚𝐥𝐧𝐲𝐬 𝐅𝐚𝐡𝐫𝐞𝐫 🇩🇪🤍💙🤍",
         "handle": "navfah.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:mlrwbxlzthz5tffvngmucszl",
+        "displayName": "Chichiri",
+        "handle": "chichiri.bsky.social"
       }
     },
     {
@@ -9093,6 +9190,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:rwfatphpnauhmn6nlaaqakg5",
+        "displayName": "мюсли великих ётунов",
+        "handle": "vaalfar.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:rxccqmpqua2zhmihxd4ddyaq",
         "displayName": "BBoogwin",
         "handle": "bboogwin.bsky.social"
@@ -9271,6 +9375,12 @@
         "did": "did:plc:s7xzfuybfbeiz4qfiq4wqnas",
         "displayName": "sasha f.",
         "handle": "princeonprozac.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:sb3637ijl4jdnd5cbr22v2qn",
+        "handle": "stillru.bsky.social"
       }
     },
     {
@@ -10208,6 +10318,12 @@
         "did": "did:plc:utomqors7grphriqvhiczdbr",
         "displayName": "Jan Falk (ThistleArts) - ART RAFFLE",
         "handle": "thistlearts.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:utor7377ggonzyfu3snnij6q",
+        "handle": "atapin.bsky.social"
       }
     },
     {
@@ -11458,6 +11574,13 @@
         "did": "did:plc:ybnp6ytoesa7gkgcqm7hgm6n",
         "displayName": "Jedi Shat",
         "handle": "jedishat.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:yc25kitz4e2qmxf73rgehndj",
+        "displayName": "Не Кант",
+        "handle": "ne-kant.bsky.social"
       }
     },
     {
