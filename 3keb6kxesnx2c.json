@@ -2638,13 +2638,6 @@
     },
     {
       "subject": {
-        "did": "did:plc:6ritc55d2rvxspsrnjs4uuoe",
-        "displayName": "Confident  Pie",
-        "handle": "confpie.bsky.social"
-      }
-    },
-    {
-      "subject": {
         "did": "did:plc:6rsx42s725jedkgy3sbggbsb",
         "displayName": "mmmyya",
         "handle": "myya.bsky.social"
@@ -4096,6 +4089,7 @@
     {
       "subject": {
         "did": "did:plc:b6yhgl6mbyzwaj7yrcdmtmmb",
+        "displayName": "supertehteh ",
         "handle": "supertehteh.bsky.social"
       }
     },
@@ -6091,6 +6085,7 @@
     {
       "subject": {
         "did": "did:plc:ez4jnmnowsjvowbe37236s7k",
+        "displayName": "Emira~",
         "handle": "emyseth.bsky.social"
       }
     },
@@ -8557,7 +8552,7 @@
     {
       "subject": {
         "did": "did:plc:jgyya6yy7japdwuoptfqljjl",
-        "displayName": "иконостасия",
+        "displayName": "иконастасия",
         "handle": "nepizding.bsky.social"
       }
     },
@@ -9341,6 +9336,7 @@
     {
       "subject": {
         "did": "did:plc:l3zv7r6hbhbxo3nexblbe34i",
+        "displayName": "Ma Be",
         "handle": "eponym.bsky.social"
       }
     },
@@ -11645,8 +11641,8 @@
     {
       "subject": {
         "did": "did:plc:pihwlhzsymoet6wgrjgddspy",
-        "displayName": "𝕸𝖗.𝕬𝖚𝖌𝖚𝖘𝖙𝖎𝖓",
-        "handle": "mraugustin.bsky.social"
+        "displayName": "𝕸𝖗.𝕮𝖔𝖓𝖔𝖗",
+        "handle": "mrconor.bsky.social"
       }
     },
     {
