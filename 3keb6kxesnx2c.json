@@ -7155,13 +7155,6 @@
     },
     {
       "subject": {
-        "did": "did:plc:h3hi4zpxy4be3mwxi47crjyr",
-        "displayName": "истребитель сухого 🍷",
-        "handle": "ifeelsurgut.bsky.social"
-      }
-    },
-    {
-      "subject": {
         "did": "did:plc:h3ioiegzxtakesojukt6quj5",
         "handle": "igorkolomytsev.bsky.social"
       }
@@ -7176,7 +7169,7 @@
     {
       "subject": {
         "did": "did:plc:h3ja7it22dg6246n2henwbpd",
-        "displayName": "Spadar Padłoŭčy 🤖🥔",
+        "displayName": "𝙰𝚖𝚋𝚊𝚜𝚊𝚍𝚘𝚛 𝚞 ‡🤍🩵🤍‡",
         "handle": "kmza.bsky.social"
       }
     },
@@ -10413,7 +10406,7 @@
     {
       "subject": {
         "did": "did:plc:n65monb2tjrqeocbq7ch6kxh",
-        "displayName": "azoich.art",
+        "displayName": "azoich.art COMMISSIONS OPEN ",
         "handle": "marshalkot.bsky.social"
       }
     },
@@ -16146,6 +16139,7 @@
     {
       "subject": {
         "did": "did:plc:ydaz2pxoyk4ihzdf4unkn3zi",
+        "displayName": "Нойзи",
         "handle": "noisegrapher.bsky.social"
       }
     },
