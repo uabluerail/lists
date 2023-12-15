@@ -443,7 +443,7 @@
     {
       "subject": {
         "did": "did:plc:b4td4mpmhj76dwdqrds72p4p",
-        "displayName": "agent jabsco in the sky",
+        "displayName": "agent jabsco",
         "handle": "jabsco.cia.fyi"
       }
     },
@@ -1394,6 +1394,13 @@
         "did": "did:plc:qxiwajwnd3hkcaphkrkowelt",
         "displayName": "BarbaraKB in Michigan",
         "handle": "barbarakb.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:qxyx7g5tnzbf32uveki53a2v",
+        "displayName": "Carl Nyberg ",
+        "handle": "carlnyberg312.bsky.social"
       }
     },
     {

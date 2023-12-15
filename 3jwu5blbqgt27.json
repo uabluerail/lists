@@ -2799,6 +2799,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:bklmdfqehyjpw42ozjpf5cgx",
+        "displayName": "Fedor F Kamenets",
+        "handle": "kamenetsff.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:blaejxaksretfcen22efymfr",
         "displayName": "Dmitriy Lex",
         "handle": "damnstaticradio.bsky.social"
@@ -5006,6 +5013,13 @@
         "did": "did:plc:gzsrby43qlltnpgptrbr5hds",
         "displayName": "Symberzite",
         "handle": "symberzite.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:gzyn2e4y5fqm4pw6xeo2xhd5",
+        "displayName": "Faeryx",
+        "handle": "faeryx.bsky.social"
       }
     },
     {
@@ -10646,6 +10660,13 @@
         "did": "did:plc:vlge7b5psmuz2n3zkco4aexp",
         "displayName": "Filippok86",
         "handle": "filippok86.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:vlkqexuxfkctqs5lposjp3ml",
+        "displayName": "Alexander Ivlev",
+        "handle": "ivlev.bsky.social"
       }
     },
     {
