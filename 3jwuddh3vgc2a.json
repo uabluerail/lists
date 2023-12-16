@@ -209,6 +209,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:74ezby7mrxsjonmzi6t32dqb",
+        "displayName": "Бандеролька",
+        "handle": "banderolka.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:74vrfcvjin544uuromqgzvws",
         "displayName": "Кибернетик Снаут",
         "handle": "snautsolaris.bsky.social"
@@ -898,6 +905,13 @@
         "did": "did:plc:kwkuztihqhy463vvjvotxnic",
         "displayName": "Её котейшество𓁢",
         "handle": "santabalizza.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:kxzwliwefkoy2x6x5mhfvzmj",
+        "displayName": "Andrey Smetanenko / Vox Gratis",
+        "handle": "andreysmetanenko.bsky.social"
       }
     },
     {

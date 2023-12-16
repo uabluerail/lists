@@ -2475,6 +2475,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:ajvch7opi2dj5qo3ax74wq2e",
+        "displayName": "Starry Hati",
+        "handle": "starryhati.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:al2hgvvm5jn6fkc4nl5ljryc",
         "displayName": "Boris Nekrasov",
         "handle": "krsq.bsky.social"
@@ -2932,7 +2939,7 @@
     {
       "subject": {
         "did": "did:plc:btun7lvpmkkpdix6qggbwcei",
-        "displayName": "Anatoly Kalin",
+        "displayName": "m4n71k0r",
         "handle": "ttldtor.bsky.social"
       }
     },
@@ -5944,6 +5951,13 @@
         "did": "did:plc:joj7ftmvze4yinqzzn5ibnho",
         "displayName": "J",
         "handle": "yelich.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:joxhwydf5yoombgk6zhuop6x",
+        "displayName": "Смерть неизбѣжна",
+        "handle": "deathisinvtbl.bsky.social"
       }
     },
     {
@@ -9324,6 +9338,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:s5m342j3k25lsjdhm3a2upto",
+        "displayName": "саша все очень хорошо",
+        "handle": "sandrucccia.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:s5wvlgati2ghcafr5xogam3y",
         "displayName": "Rema",
         "handle": "remaron.ru"
@@ -10331,7 +10352,7 @@
     {
       "subject": {
         "did": "did:plc:utomqors7grphriqvhiczdbr",
-        "displayName": "Jan Falk (ThistleArts) - ART RAFFLE",
+        "displayName": "Jan Falk (ThistleArts) Book Cover Artist",
         "handle": "thistlearts.bsky.social"
       }
     },
