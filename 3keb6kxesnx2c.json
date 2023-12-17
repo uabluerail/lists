@@ -6420,6 +6420,7 @@
     {
       "subject": {
         "did": "did:plc:fik6f225hfqmq6fkueb3nf4e",
+        "displayName": "Вова Лессергардиан",
         "handle": "lesserguardian.bsky.social"
       }
     },
@@ -12266,6 +12267,7 @@
     {
       "subject": {
         "did": "did:plc:qrimxkr25nl3n7nhhwkmjrrl",
+        "displayName": "натаната",
         "handle": "allgoodbro.bsky.social"
       }
     },
@@ -13367,13 +13369,6 @@
         "did": "did:plc:sxvkcvwavlghpaf2flldbfb5",
         "displayName": "Mamoru",
         "handle": "mmruch.bsky.social"
-      }
-    },
-    {
-      "subject": {
-        "did": "did:plc:szeexsguto4nnfupapgqpzob",
-        "displayName": "белка",
-        "handle": "squirrelinside.bsky.social"
       }
     },
     {
