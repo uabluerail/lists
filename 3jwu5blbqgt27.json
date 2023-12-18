@@ -837,6 +837,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:47pjwmnrlk2lhpxqiwoy2y23",
+        "displayName": "mollusq",
+        "handle": "mollusq.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:4aielfspeyiz7rdtz6trzkyi",
         "displayName": "metya",
         "handle": "metya.bsky.social"
@@ -1649,6 +1656,13 @@
         "did": "did:plc:6762x32gmaqe44b5pqog6fsu",
         "displayName": "bulochka 🪷",
         "handle": "mantoumnt.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:67eq7e43leasxirei5n7b2nc",
+        "displayName": "rilastin",
+        "handle": "risalan.bsky.social"
       }
     },
     {
@@ -4830,7 +4844,7 @@
     {
       "subject": {
         "did": "did:plc:gicrzwtq5223q75xr2nfpjqf",
-        "displayName": "Rina dvesovy",
+        "displayName": "Rina",
         "handle": "rettnord.bsky.social"
       }
     },
@@ -8060,6 +8074,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:ovclbgygwuzsvqrlgkg5nz5p",
+        "displayName": "Eddie🦇",
+        "handle": "eddiemunson1.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:ovr53rg4xm4ufome6hrk6e5m",
         "displayName": "Cicvil 🔞 (Comms: OPEN)",
         "handle": "cicvil.bsky.social"
@@ -8552,7 +8573,7 @@
     {
       "subject": {
         "did": "did:plc:qc4kv47y4fyaxkepy7opsbes",
-        "displayName": "Erin Crook 🍂",
+        "displayName": "🚬 kissing fangs🌻",
         "handle": "erincrook.bsky.social"
       }
     },
@@ -9466,6 +9487,13 @@
         "did": "did:plc:s6srveawd6m3llncpxq2fm7e",
         "displayName": "Andrew Chalmaev",
         "handle": "soaron.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:s6werfoapcpgfhqzfsacmbuy",
+        "displayName": "Ива",
+        "handle": "catwillow.bsky.social"
       }
     },
     {
@@ -11114,6 +11142,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:wey6sh66vnwq3whztunndzuq",
+        "displayName": "neverender",
+        "handle": "neverenderr.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:wfewup5xdrvwiaubimubo4s4",
         "displayName": "Иблис Пиндосский",
         "handle": "partial-observer.bsky.social"
@@ -11707,6 +11742,13 @@
         "did": "did:plc:yamp4g4p4yxknqykcojmzsnz",
         "displayName": "Психолог Владимир Школьников ",
         "handle": "vladimirshkolnikov.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:yb56rrddhrbb34osg4i5fk4e",
+        "displayName": "болотная мразь",
+        "handle": "whomoer.bsky.social"
       }
     },
     {

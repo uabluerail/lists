@@ -133,6 +133,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:7hmnvxwuqfjnvlx62fv6cbar",
+        "displayName": "Зореутворення UA",
+        "handle": "pdu7v-2bc4f.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:a3hyagdbwqfw67kqib635kmu",
         "displayName": "Alexander Borodikhin",
         "handle": "borodikhin.bsky.social"
