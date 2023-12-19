@@ -294,6 +294,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:2nxnfwtdkhlzjqqj6eznnv3x",
+        "displayName": "Callie Lioness (Bunny)",
+        "handle": "callielioness.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:2odjl4zkibj3muqf6tqtksgi",
         "displayName": "Dolphin Pilot ",
         "handle": "theamitie.bsky.social"
@@ -946,6 +953,13 @@
         "did": "did:plc:3u7in2tehhqfdiyuexjpm7co",
         "displayName": "Ben🏳️‍🌈 ☭",
         "handle": "ilooklikebarb.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:3uxiibz2m4kezlteuzfvx35m",
+        "displayName": "jamie",
+        "handle": "zerojokes.bsky.social"
       }
     },
     {
@@ -5388,6 +5402,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:ep4mui2jc3lnj3z2i5tjbkv5",
+        "displayName": "Thomas One",
+        "handle": "oneness.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:epazqim3ds2zgdzp742xcnwm",
         "displayName": "LucasPaleninistra ☭",
         "handle": "lucaspaleninistra.bsky.social"
@@ -5940,7 +5961,7 @@
     {
       "subject": {
         "did": "did:plc:fovms7i2zpjrndd2uslzjgvs",
-        "displayName": "Jazz ☭ 🦋❤️ de Belém ◣★◥",
+        "displayName": "Jazz 🦋❤️ de Belém ◣★◥",
         "handle": "brabul.suapediatra.com"
       }
     },
@@ -8045,7 +8066,7 @@
     {
       "subject": {
         "did": "did:plc:jqabmjot5a4brgfbogkdmxjv",
-        "displayName": "Olive Colored Skies 🏳️‍⚧️🍂",
+        "displayName": "Olive Colored Skies 🏳️‍⚧️",
         "handle": "atomic-olive.bsky.social"
       }
     },
@@ -8826,7 +8847,7 @@
     {
       "subject": {
         "did": "did:plc:l2vkskh5k6x6hwlekqcamdfk",
-        "displayName": "🎃Scoob Scared Stupid🎃",
+        "displayName": "Scoob",
         "handle": "scoobydouchebag.bsky.social"
       }
     },
@@ -14496,6 +14517,13 @@
         "did": "did:plc:wronvllgk5xwlm2fq54ofk7g",
         "displayName": "Mauri",
         "handle": "notesfromthewidth.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ws6lwknynt273dxkls7gpfyn",
+        "displayName": "☭ 🏳️‍🌈",
+        "handle": "ausgelaucht.bsky.social"
       }
     },
     {

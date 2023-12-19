@@ -5709,6 +5709,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:isdaodv2aerdul53yeflos3g",
+        "displayName": "м.икота 🕊️🏳️‍🌈",
+        "handle": "seimikoto.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:isvsbsohujyibstdh4u5to46",
         "displayName": "Ментат",
         "handle": "mehtat.bsky.social"
@@ -8851,7 +8858,7 @@
     {
       "subject": {
         "did": "did:plc:qro4cko6jkedv7hf53d5nqy2",
-        "displayName": "тревожный котик",
+        "displayName": "тревожный котик 🎄",
         "handle": "konstantinov.bsky.social"
       }
     },
@@ -9443,7 +9450,7 @@
     {
       "subject": {
         "did": "did:plc:s5xyxqwanjnemqas6zzeymxm",
-        "displayName": "Agent #13",
+        "displayName": "Аgent#13",
         "handle": "agent13.bsky.social"
       }
     },
