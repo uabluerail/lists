@@ -1875,7 +1875,7 @@
     {
       "subject": {
         "did": "did:plc:5hm6gmnwxrtuam33otszl6bf",
-        "displayName": "Today: $0☙𝐖𝑖𝑙𝑙ø𝑤 ⚘ 𝐃ʀʌᴠᴇɴ❧",
+        "displayName": "Today: $70☙𝐖𝑖𝑙𝑙ø𝑤 ⚘ 𝐃ʀʌᴠᴇɴ❧",
         "handle": "willowdraven.bsky.social"
       }
     },
@@ -3293,7 +3293,7 @@
       "subject": {
         "did": "did:plc:afioobsamkdjiagnyn4elql5",
         "displayName": "TibaldTheBlue",
-        "handle": "tibaldtheblue.bsky.social"
+        "handle": "handle.invalid"
       }
     },
     {
@@ -3371,6 +3371,13 @@
         "did": "did:plc:alsr7qchw2fkadikww5t3ifd",
         "displayName": "gnat",
         "handle": "imonlyposting.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:am4l4cx5ia7twx5dffbmy2ir",
+        "displayName": "Adrian Goerken",
+        "handle": "adriangoerken.bsky.social"
       }
     },
     {
@@ -3817,8 +3824,8 @@
     {
       "subject": {
         "did": "did:plc:bjwnxr3ujrtwhhyc6qzsxo6a",
-        "displayName": "pilot.mech",
-        "handle": "roxxicorps.bsky.social"
+        "displayName": "pilot.augustine",
+        "handle": "augustine.love"
       }
     },
     {
@@ -3930,6 +3937,13 @@
         "did": "did:plc:br3dxytr5wzep245ltrkdwpi",
         "displayName": "mehu",
         "handle": "mehu.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:br7gngayedh2wjlhyc7pkgca",
+        "displayName": "🍉 Romain Kelkun ~ Ⓐ☭",
+        "handle": "romainkelkun.bsky.social"
       }
     },
     {
@@ -7891,7 +7905,7 @@
     {
       "subject": {
         "did": "did:plc:jcszmynscjgxwo3d77yy2akv",
-        "displayName": "Iron Felix Unger 🇵🇸🚁👕",
+        "displayName": "EZ 🇵🇸",
         "handle": "2ez2dance.bsky.social"
       }
     },
@@ -9141,7 +9155,7 @@
     {
       "subject": {
         "did": "did:plc:lhaj6yywjppyxfwkf37rdjcg",
-        "displayName": "Benji ",
+        "displayName": "Benji (semi-hiatus)",
         "handle": "xbirdofhermes.bsky.social"
       }
     },
@@ -10686,7 +10700,7 @@
     {
       "subject": {
         "did": "did:plc:olru3dp2g275uxpvlb26lvuk",
-        "displayName": "sophie",
+        "displayName": "sophie (🔪 era)",
         "handle": "communist-girly.bsky.social"
       }
     },
@@ -10779,6 +10793,12 @@
         "did": "did:plc:or4aaxo47lz3ayquh4t3f25f",
         "displayName": "Comrade Adil ☭",
         "handle": "comradeadil.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:osel4rclk5iyjtez2fhgmpxc",
+        "handle": "kall399.bsky.social"
       }
     },
     {
@@ -11479,6 +11499,13 @@
         "did": "did:plc:q7nywpgqpqjitw6xulvs67lc",
         "displayName": "Charlie",
         "handle": "daishan.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:q7zbvd5rtwscllhn3bn5af3x",
+        "displayName": "Carrow☭",
+        "handle": "carrow.bsky.social"
       }
     },
     {
@@ -12273,7 +12300,7 @@
     {
       "subject": {
         "did": "did:plc:rtkqj2stgsojekj7rf4vnmec",
-        "displayName": "Bleat-O Extraordinare ",
+        "displayName": "Festively Bleating 🔜 ANE",
         "handle": "lloyddeerboyo.bsky.social"
       }
     },
@@ -12415,13 +12442,6 @@
         "did": "did:plc:s4mr5odcb6r2opyycw7mr7q6",
         "displayName": "Windy|☭∞🦇🔊🛡",
         "handle": "nhagio.bsky.social"
-      }
-    },
-    {
-      "subject": {
-        "did": "did:plc:s4tt6jmspq3jqkc4gpiz5f7t",
-        "displayName": "Jokinha ",
-        "handle": "jokinha.bsky.social"
       }
     },
     {
@@ -13259,7 +13279,7 @@
     {
       "subject": {
         "did": "did:plc:tubzcczy5wtgkns6nvdkvazv",
-        "displayName": "SmuttyBabaYaga🇵🇸",
+        "displayName": "SmuttyBabaYaga☃️",
         "handle": "smuttybabayaga.bsky.social"
       }
     },
@@ -13705,7 +13725,7 @@
     {
       "subject": {
         "did": "did:plc:uraielgolztbeqrrv5c7qbce",
-        "displayName": "Kairi, Estrogen Empress 🏳️‍⚧️",
+        "displayName": "Kairi Whitepussy",
         "handle": "estrogenempress.gay"
       }
     },
@@ -14429,6 +14449,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:waxpgipsffaqtm4ithikyhfn",
+        "displayName": "Matt ツ ☭",
+        "handle": "mateussemh06.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:wbjowaxcx74vpivtgk5asdrx",
         "displayName": "🙏🏽Fullmetal Guanacomist 🙏🏽",
         "handle": "salvadorancent.bsky.social"
@@ -15137,7 +15164,7 @@
     {
       "subject": {
         "did": "did:plc:xogf4xk3kkndiyuh5jowrh3x",
-        "displayName": "Pessoal da bossa nova | 🇵🇸",
+        "displayName": "Percystente 🔱",
         "handle": "angggggggggg.bsky.social"
       }
     },
@@ -16153,6 +16180,13 @@
         "did": "did:plc:zq7pmae2h4xmw6ahd3dlhxlk",
         "displayName": "Frosty the Communist Kaiju",
         "handle": "communistkaiju.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:zqddtpuxk43gfjxlr4tlqn2i",
+        "displayName": "Princeالــــ",
+        "handle": "tamerprince77.bsky.social"
       }
     },
     {
