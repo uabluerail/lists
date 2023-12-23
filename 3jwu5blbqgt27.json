@@ -1938,7 +1938,7 @@
     {
       "subject": {
         "did": "did:plc:6tusp3zibpgcvlmxaiam4gmd",
-        "displayName": " Wanderer 🇨🇦",
+        "displayName": " 🦋Wanderer🦋 ",
         "handle": "strannitza.bsky.social"
       }
     },
@@ -3776,7 +3776,7 @@
     {
       "subject": {
         "did": "did:plc:duwu3tytl3x7achwnhlthorf",
-        "displayName": "Nat",
+        "displayName": "Nat🎄✨",
         "handle": "nelprints.bsky.social"
       }
     },
@@ -7813,6 +7813,13 @@
         "did": "did:plc:o2ktvor22js5wfw4fbogjgpc",
         "displayName": "божия хорда",
         "handle": "bitterend.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:o2ukfebwjlx4il6pzhbygee4",
+        "displayName": "Arhwolf",
+        "handle": "arhwolf.bsky.social"
       }
     },
     {
