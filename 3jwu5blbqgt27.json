@@ -1724,7 +1724,7 @@
     {
       "subject": {
         "did": "did:plc:6fewfo4l4ugniqncn4wkohsk",
-        "displayName": "Домовёнок Каа",
+        "displayName": "Горный домовой",
         "handle": "homeboykaa.bsky.social"
       }
     },
@@ -3603,6 +3603,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:df6cignylj4e2c3wo5jshrwe",
+        "displayName": "Sergeant_LiS",
+        "handle": "sergeantlis.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:dfe3uagqtnuae7kjrs7rbr6c",
         "displayName": "KecaFur 🔞",
         "handle": "kecafur.bsky.social"
@@ -4272,6 +4279,12 @@
         "did": "did:plc:f3etmjqv2unhct55vldcvu26",
         "displayName": "Katmor",
         "handle": "katmor.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:f3ixus2hfsjcahge4ygw6cmk",
+        "handle": "berennis.bsky.social"
       }
     },
     {
@@ -5371,7 +5384,7 @@
     {
       "subject": {
         "did": "did:plc:hsvdbpyc3ifufe4xakl5isle",
-        "displayName": "Vladimir",
+        "displayName": "Зачем вы славите дьявола?",
         "handle": "lootgoblinmb.bsky.social"
       }
     },
@@ -5413,7 +5426,7 @@
     {
       "subject": {
         "did": "did:plc:hxiexbv3d32y7mqeesep5tfe",
-        "displayName": "SNARUJi © 🇵🇱",
+        "displayName": "SNARUJi 🇵🇱",
         "handle": "snaruji.bsky.social"
       }
     },

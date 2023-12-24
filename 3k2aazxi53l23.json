@@ -1189,6 +1189,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:mv74tz6u5ftx737n42c67qm7",
+        "displayName": "Dzmitry ",
+        "handle": "chippo91.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:mvgbegahworrmtxn2w66zsaj",
         "displayName": "Kai su, bygåy 💫",
         "handle": "bygay.bsky.social"
