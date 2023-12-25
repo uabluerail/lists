@@ -730,6 +730,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:hvhnrx7qt2kgeoshodbky47p",
+        "displayName": "Igor",
+        "handle": "ygordragan.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:hysyt4472qohg3yxnrnj7raa",
         "displayName": "Стервятник Социальных Сетей",
         "handle": "spiritofsiberia.bsky.social"
