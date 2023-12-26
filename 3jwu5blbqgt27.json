@@ -1405,13 +1405,6 @@
     },
     {
       "subject": {
-        "did": "did:plc:5ok2gvq2eage2i4jg47obxyx",
-        "displayName": "not hehe  ",
-        "handle": "blphen.bsky.social"
-      }
-    },
-    {
-      "subject": {
         "did": "did:plc:5ougozgojhkbsxtbfromcn2m",
         "displayName": "тайна на изображение судьи",
         "handle": "krbchnk.bsky.social"
@@ -3051,7 +3044,7 @@
     {
       "subject": {
         "did": "did:plc:bxx3yfpjifm3z2yj5vdnwdml",
-        "displayName": "Asgardskaya и все-все ",
+        "displayName": "Асгардская в пограничье",
         "handle": "asgardskaya.bsky.social"
       }
     },
@@ -6557,7 +6550,7 @@
     {
       "subject": {
         "did": "did:plc:kytajdndb3eiim5tgijtech3",
-        "displayName": "Anton Maslak",
+        "displayName": "Amino",
         "handle": "am1no.bsky.social"
       }
     },
@@ -7458,7 +7451,7 @@
     {
       "subject": {
         "did": "did:plc:n6txvzn56nvhezjh4tdxdikh",
-        "displayName": "Vitalik",
+        "displayName": "Vitalik 🏳️‍🌈",
         "handle": "sska8.bsky.social"
       }
     },
@@ -12368,7 +12361,7 @@
     {
       "subject": {
         "did": "did:plc:zpzjiogxsg2qplcdy6veq4fo",
-        "displayName": "小林",
+        "displayName": "小林 ☃️",
         "handle": "kobayasi-sama.bsky.social"
       }
     },
