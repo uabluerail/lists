@@ -1530,6 +1530,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:5wbbhab4blgvusvjgiuj4jdc",
+        "displayName": "джейн клоунардо, но в блюскае",
+        "handle": "regnardo.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:5xijgjvw23i7stwetmqio7bi",
         "displayName": "Возможность острова",
         "handle": "lichtfleck.bsky.social"
@@ -2420,6 +2427,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:aexs6bmahtsavg5drmaqqzjn",
+        "displayName": "Vik",
+        "handle": "vikpan.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:af7gkdkvcdbxkn6sl22lciyu",
         "displayName": "mrsRina",
         "handle": "mrsrina.bsky.social"
@@ -2593,6 +2607,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:asw5uzqcfcigczxeza67vyaa",
+        "displayName": "pragma",
+        "handle": "pragma.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:at55lk6ufdnryqjiualt7bh6",
         "displayName": "d.Candela",
         "handle": "dervish-candela.bsky.social"
@@ -2610,6 +2631,13 @@
         "did": "did:plc:atuomzswmhmjxtehpnxdqzgz",
         "displayName": "zmeess",
         "handle": "zmeess.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:auzbyegvhbwaum76cvvlv5sk",
+        "displayName": "на сложных опятах",
+        "handle": "opatafisica.bsky.social"
       }
     },
     {
@@ -3329,6 +3357,13 @@
         "did": "did:plc:cpt3wrklpdb3mxyrl67e7fvd",
         "displayName": "Adelhaid ",
         "handle": "adelhaidcosplay.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:cptzybl2menn4dqplake4mv7",
+        "displayName": "Apple Chappel ",
+        "handle": "applechapel.bsky.social"
       }
     },
     {
@@ -5023,6 +5058,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:guwjm7q3xivrmntbzumcwaca",
+        "displayName": "felice ⭐️",
+        "handle": "fel1cee.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:gvjtfmi74buc4vzic4bgixa6",
         "displayName": "влюбленный волк уже не хищник",
         "handle": "aratakireigen.bsky.social"
@@ -5860,6 +5902,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:j5npng6zm4rjki7fstsokrrb",
+        "displayName": "No nema",
+        "handle": "bezimynnay.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:j5ot5j25lxarkq3dabtajy4y",
         "displayName": "Скорч",
         "handle": "scorchedclash.bsky.social"
@@ -6638,6 +6687,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:l7ycyzrk3da5h2f47i6tk3jb",
+        "displayName": "Kira Kim",
+        "handle": "keerakeem.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:lbajdkopqiynexwwqpb5tplt",
         "displayName": "Ms Opinionated",
         "handle": "msopinionated.bsky.social"
@@ -7022,6 +7078,13 @@
         "did": "did:plc:m5lagrd2vtm4kla2vphythrp",
         "displayName": "Рыжая Израильтянка Жаннетт🐱",
         "handle": "jeannettcat.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:m6ne4q4bkxtmey7lu7xbotdc",
+        "displayName": "Капитан Зелёная",
+        "handle": "kapitanzeleniy.bsky.social"
       }
     },
     {
@@ -7761,6 +7824,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:nvya72kqtqkfqtik7gyawhaj",
+        "displayName": "немытая людоедка",
+        "handle": "proudsharky.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:nw23v6lrepwy4mbk2uputz47",
         "displayName": "Honovy",
         "handle": "honovy.bsky.social"
@@ -7868,6 +7938,13 @@
         "did": "did:plc:o6z3h7vkqebwz2g4ksqlhh6r",
         "displayName": "Max",
         "handle": "maximmax42.ru"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:o7m37d2vlobpafyzxvvi5tri",
+        "displayName": "Хорхе",
+        "handle": "niscigvan.bsky.social"
       }
     },
     {
@@ -8530,6 +8607,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:pysjsebzpjrhgoijgu2d52si",
+        "displayName": "Leonid Kapitonov",
+        "handle": "feacur.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:pyx4inanpgpy3vun4rcwsouh",
         "displayName": "Ксюня и бусинки",
         "handle": "beadygirl.bsky.social"
@@ -8912,9 +8996,23 @@
     },
     {
       "subject": {
+        "did": "did:plc:qtsgb2ysfscolza7nwnwr4b5",
+        "displayName": "Hikari Hoshino ",
+        "handle": "hoshino28.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:qtucqt2znobqukm54o2ji67k",
         "displayName": "Mintyllete || Мятничка",
         "handle": "mintyllete.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:qtwqksjypj3wtm64eiwemjfg",
+        "displayName": "constantine ⚠️🦌",
+        "handle": "horrorcanis.bsky.social"
       }
     },
     {
@@ -10398,6 +10496,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:ul4ajbafgh537j4mdqojirbu",
+        "displayName": "Lossril",
+        "handle": "lossril.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:ultuvqids4bw6dg3boaecgnl",
         "displayName": "Spice Captain",
         "handle": "spicecapt.bsky.social"
@@ -11066,6 +11171,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:w7bvo5l7nsshphgevlmrdpjg",
+        "displayName": "This world is not mine",
+        "handle": "ssmith589.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:w7vvngohnk3pjupkhh4nhxem",
         "displayName": "Madame Dranique",
         "handle": "dranique.bsky.social"
@@ -11408,6 +11520,13 @@
         "did": "did:plc:wyorc2dnxfamilweap3nr2cm",
         "displayName": "Ophelia",
         "handle": "opheliacl.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:wyvswqqf3jdlot6cyukj4hq3",
+        "displayName": "магацуками 唐江理",
+        "handle": "miaballadeer.bsky.social"
       }
     },
     {
@@ -12112,7 +12231,7 @@
     {
       "subject": {
         "did": "did:plc:z5vojjhwjsxf6o26iyrdvmw4",
-        "displayName": "frag",
+        "displayName": "frag 🐈‍⬛",
         "handle": "fragilehankei.bsky.social"
       }
     },

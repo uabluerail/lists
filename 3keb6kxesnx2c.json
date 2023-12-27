@@ -215,7 +215,7 @@
     {
       "subject": {
         "did": "did:plc:2fhlpxfbys73ylwlq5swk2nn",
-        "displayName": "黒蜜抹茶/モフぴよ",
+        "displayName": "暁夜(黒蜜抹茶)",
         "handle": "mofu-pippi.bsky.social"
       }
     },
@@ -4716,13 +4716,6 @@
     },
     {
       "subject": {
-        "did": "did:plc:asw5uzqcfcigczxeza67vyaa",
-        "displayName": "pragma",
-        "handle": "pragma.bsky.social"
-      }
-    },
-    {
-      "subject": {
         "did": "did:plc:aswhjr2qxv73yfiuazo2icrt",
         "displayName": "эдвард руки-лего",
         "handle": "dzhuki.bsky.social"
@@ -6840,7 +6833,7 @@
     {
       "subject": {
         "did": "did:plc:e7nkljb42pjfhod2a3mo3ubi",
-        "displayName": "Egor",
+        "displayName": "Egor🐔",
         "handle": "yukjyukj.bsky.social"
       }
     },
@@ -8628,7 +8621,7 @@
     {
       "subject": {
         "did": "did:plc:h3ja7it22dg6246n2henwbpd",
-        "displayName": "𝙰𝚖𝚋𝚊𝚜𝚊𝚍𝚘𝚛 𝚞 ‡🤍🩵🤍‡",
+        "displayName": "krynžeńjo🤖🥔",
         "handle": "kmza.bsky.social"
       }
     },
@@ -8938,7 +8931,7 @@
     {
       "subject": {
         "did": "did:plc:hl3l5hooyiip35gipqen5i4g",
-        "displayName": "Иллюзия себя ",
+        "displayName": "Self Delusion",
         "handle": "ftbnu.bsky.social"
       }
     },
@@ -14436,7 +14429,7 @@
     {
       "subject": {
         "did": "did:plc:qbnb2u5t5bmxgzcs5evmaxvv",
-        "displayName": "Undeαd💜💚🌈",
+        "displayName": "Deαdfαce",
         "handle": "undeadwanderer.bsky.social"
       }
     },
@@ -17618,6 +17611,7 @@
     {
       "subject": {
         "did": "did:plc:vg376qvolcrl33v7jstqkxwn",
+        "displayName": "Catatonically Alive",
         "handle": "mathever.bsky.social"
       }
     },
