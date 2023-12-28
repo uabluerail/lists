@@ -322,6 +322,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:l3cpjedkirdkpvedyxsj2afv",
+        "displayName": "Russia-Ukraine Daily News",
+        "handle": "rvps2001.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:lvfh6gdurkhbuzn6qlxcc4cj",
         "displayName": "McMullah",
         "handle": "mcmullah.bsky.social"

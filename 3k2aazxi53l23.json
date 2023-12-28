@@ -168,9 +168,16 @@
     },
     {
       "subject": {
+        "did": "did:plc:54tav2d5w64m6xxaietrxnpc",
+        "displayName": "Noaqin",
+        "handle": "noaqin.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:55g3yfnli7fsameay3xjedsv",
         "displayName": "Lex Kartynnik",
-        "handle": "itbeard.bsky.social"
+        "handle": "itbeard.com"
       }
     },
     {
@@ -192,6 +199,13 @@
         "did": "did:plc:5bceikdp4te3h7obs3w6mzlq",
         "displayName": "маргуня лоўца захадаў",
         "handle": "iamyourmrgrt.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:5fhii24ezgyauc2skuozpuq6",
+        "displayName": "Big Gleb",
+        "handle": "biggleb.bsky.social"
       }
     },
     {
@@ -589,6 +603,13 @@
         "did": "did:plc:eazmlnf4muaqquu7vc5kiqi3",
         "displayName": "Vera",
         "handle": "laonix.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:ebknrob2jisharh7q5225rqs",
+        "displayName": "Angoulema",
+        "handle": "angoulema.bsky.social"
       }
     },
     {
@@ -1376,6 +1397,12 @@
     },
     {
       "subject": {
+        "did": "did:plc:pidkdeidfnbk75vy3xirydts",
+        "handle": "avdenago.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:pimi5wsdgxkmxtlofqr4thkd",
         "displayName": "сосновая шишечбка",
         "handle": "gdzt.bsky.social"
@@ -1453,6 +1480,12 @@
     },
     {
       "subject": {
+        "did": "did:plc:qo5vmfsfcsfnqfipgcuuxbuw",
+        "handle": "whitebeast666.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:qo7uopbz7odq77dk2bo2yffd",
         "displayName": "стомлены Мікіта",
         "handle": "nemikita.bsky.social"
@@ -1498,6 +1531,13 @@
         "did": "did:plc:rvwxmnulbzg4ynj54ys6jnwj",
         "displayName": "amaralny pryhažun",
         "handle": "goodnotbad.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:s4n523xmwtpmrb2uykxmmrlh",
+        "displayName": "YoshiNotDino",
+        "handle": "yoshinotdino.bsky.social"
       }
     },
     {

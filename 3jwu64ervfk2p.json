@@ -402,7 +402,7 @@
     {
       "subject": {
         "did": "did:plc:ikuvyyzinrrojzi4dtvtknkb",
-        "displayName": "TH (Yuletide variant)",
+        "displayName": "TH",
         "handle": "yaboyth.bsky.social"
       }
     },
@@ -507,7 +507,7 @@
     {
       "subject": {
         "did": "did:plc:nc4l3poqss7tdu7k56l3qebr",
-        "displayName": "\\Nemo\\\\  Pryde of the Xmas",
+        "displayName": "\\Nemo\\\\ Maximum Alienation",
         "handle": "joulesbyrne.bsky.social"
       }
     },
@@ -744,6 +744,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:vuqxavyo5rrqhtfi66hbbym2",
+        "displayName": "Oh god, oh fuck. My skeets are public!?",
+        "handle": "sekoku.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:vvprlhhqur43xdjv5diluffx",
         "displayName": "jnl - nafo mutelist",
         "handle": "jnl.bsky.social"
@@ -878,7 +885,7 @@
     {
       "subject": {
         "did": "did:plc:zifbq74pivhmode7fflzngye",
-        "displayName": "ricotta enjoyer",
+        "displayName": "prosecco-soaked olive",
         "handle": "machete.gay"
       }
     },

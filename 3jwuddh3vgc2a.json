@@ -391,6 +391,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:bkpedvlzkturqan4mng6aasq",
+        "displayName": "sergey.pyxlon 🇰🇿",
+        "handle": "pyxlon.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:bkqgky4k3s4poimwoe47noqs",
         "displayName": "Aleks",
         "handle": "negotiation.bsky.social"
@@ -1010,6 +1017,12 @@
         "did": "did:plc:mufb6e6hmrjjfcfwqknfpsv7",
         "displayName": "oy vey",
         "handle": "m337.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:mwbigwzur5essr5umntel2ft",
+        "handle": "unstablemagi.bsky.social"
       }
     },
     {
