@@ -30,7 +30,7 @@
     {
       "subject": {
         "did": "did:plc:3ksolji6twa5rjqbp2m5brmv",
-        "displayName": "아르노",
+        "displayName": "arno",
         "handle": "arnokim7.bsky.social"
       }
     },
@@ -263,6 +263,20 @@
         "did": "did:plc:katl2n3xfpfwpv45aiwwtbrb",
         "displayName": "Caræsten",
         "handle": "cara.city"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:kyhug2d25ipcy4rscu3hdlhz",
+        "displayName": "Postradamus",
+        "handle": "postradamus.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:lqarqskjz3fonkhg2gyr7pf4",
+        "displayName": "the reluctant Übermensch 🇷🇺🇪🇭",
+        "handle": "slavaboo.bsky.social"
       }
     },
     {
