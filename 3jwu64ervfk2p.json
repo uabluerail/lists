@@ -423,8 +423,15 @@
     {
       "subject": {
         "did": "did:plc:jojoqdp5ukc5yl5f27nhxasp",
-        "displayName": "A Celebratory Wookiee 🏳️‍🌈🏳️‍⚧️🇵🇸",
+        "displayName": "Wookiee New Year 🏳️‍🌈🏳️‍⚧️🇵🇸",
         "handle": "fancywookiee.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:jr53vcd6mwen3hs6svmzzzpz",
+        "displayName": "FK",
+        "handle": "notrimskiy.bsky.social"
       }
     },
     {
