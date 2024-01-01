@@ -43,6 +43,12 @@
     },
     {
       "subject": {
+        "did": "did:plc:2msug6hrwry6fjgfmzeoa4ew",
+        "handle": "d13charic.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:2seu36jnlglli7ss5vd3mopy",
         "displayName": "Pachnie Čabor",
         "handle": "pachniecabor.bsky.social"

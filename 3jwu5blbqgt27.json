@@ -1310,6 +1310,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:55wwuz4nzwt6jxdmenphu7g2",
+        "displayName": "Andrey Makarov",
+        "handle": "winand.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:57mmryxumcnkzudfixzossga",
         "displayName": "Деми | Korimar ⚧",
         "handle": "fromdemy.bsky.social"
@@ -1795,6 +1802,13 @@
         "did": "did:plc:6d2qvgwxrbaotgl7p5atbbmk",
         "displayName": "Эfan. ",
         "handle": "efanforvor.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:6desxa4ldhvinzxkqdslyj6d",
+        "displayName": "Юрий Алексеевич Гагарин",
+        "handle": "gagarin23.bsky.social"
       }
     },
     {

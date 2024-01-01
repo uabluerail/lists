@@ -1368,6 +1368,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:rnx6dn4skgft2adgfbqpw2sh",
+        "displayName": "Тот самый Тай",
+        "handle": "tailaria.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:roownv72zao7vhy6zsnduwxj",
         "displayName": "In_Je_Ner",
         "handle": "injener.bsky.social"
