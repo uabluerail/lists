@@ -269,7 +269,7 @@
     {
       "subject": {
         "did": "did:plc:65vd4hw3lj7meoe5savfgecg",
-        "displayName": "\"New Year's Tape\" (U2, 1983)",
+        "displayName": "tape",
         "handle": "tape.website"
       }
     },
@@ -1915,7 +1915,7 @@
     {
       "subject": {
         "did": "did:plc:zifbq74pivhmode7fflzngye",
-        "displayName": "prosecco-soaked olive",
+        "displayName": "olive consumer",
         "handle": "machete.gay"
       }
     },
