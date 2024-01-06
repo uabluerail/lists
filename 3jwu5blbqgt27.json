@@ -2211,6 +2211,7 @@
     {
       "subject": {
         "did": "did:plc:7flrxvgojkthq6jcebvp32j2",
+        "displayName": "Leyla-Baku",
         "handle": "leylabaku.bsky.social"
       }
     },
@@ -10028,7 +10029,7 @@
     {
       "subject": {
         "did": "did:plc:s5xyxqwanjnemqas6zzeymxm",
-        "displayName": "Аgеnt #13",
+        "displayName": "Аgеnt #1З",
         "handle": "agent13.bsky.social"
       }
     },
@@ -13169,7 +13170,7 @@
     {
       "subject": {
         "did": "did:plc:zrmci626biexxlerlbpqw2av",
-        "displayName": "Birmit | hiatus",
+        "displayName": "Birmit",
         "handle": "birmit.bsky.social"
       }
     },

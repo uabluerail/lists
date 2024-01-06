@@ -8163,13 +8163,6 @@
     },
     {
       "subject": {
-        "did": "did:plc:ds7t7w6dp6dhm3dri5ze4mz3",
-        "displayName": "Vitaliy",
-        "handle": "kuznecby.bsky.social"
-      }
-    },
-    {
-      "subject": {
         "did": "did:plc:dsaovajpax5w2h5y6doijihi",
         "handle": "nyuma.bsky.social"
       }
