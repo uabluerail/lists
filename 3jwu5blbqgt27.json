@@ -657,6 +657,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:3oj667shd5soppwqz6bjolrd",
+        "displayName": "свинка кабанчик",
+        "handle": "fadade.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:3olmjeoiicmal3rvlrbebjed",
         "displayName": "Nataliya",
         "handle": "nvolf.bsky.social"
@@ -1545,6 +1552,7 @@
     {
       "subject": {
         "did": "did:plc:5rwbwyakta5uunp6wurf46wb",
+        "displayName": "Здравствуй, это я",
         "handle": "noyabrskaya.bsky.social"
       }
     },
@@ -2490,6 +2498,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:a4pvc7a76g5hrk4ekgtuo5uz",
+        "displayName": "одинокий котоотец",
+        "handle": "shizophoenix.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:a5cjrhvekryznqzrz4funhfx",
         "displayName": "Mooses Putro",
         "handle": "pietarin.bsky.social"
@@ -3162,6 +3177,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:brk2iywvbtmxraytsineahrc",
+        "displayName": "Upup",
+        "handle": "upup.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:brpiftmw6p2eje6v5zzu63dp",
         "displayName": "кисин ⚔️🍁 | 🌟🌙",
         "handle": "xingmoon.bsky.social"
@@ -3559,6 +3581,13 @@
         "did": "did:plc:cnletzqisnpyzimz5xk6baol",
         "displayName": "Сергей Смирнов",
         "handle": "sssmirnov.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:cnt22opdcejzw4iguakrw4zp",
+        "displayName": "Арджи Линсе 💛💜",
+        "handle": "argee-lince.bsky.social"
       }
     },
     {
@@ -5116,7 +5145,7 @@
     {
       "subject": {
         "did": "did:plc:gdpcavdbwfznciro5tnapphv",
-        "displayName": "asya rorschach ",
+        "displayName": "Кошка, которая приходит всегда",
         "handle": "asyarorschach.bsky.social"
       }
     },
@@ -7045,6 +7074,13 @@
     },
     {
       "subject": {
+        "did": "did:plc:lbwezkhpera7lg7gya6yvvun",
+        "displayName": "xSync",
+        "handle": "xsync.bsky.social"
+      }
+    },
+    {
+      "subject": {
         "did": "did:plc:lckg3v5ybaiz2zz7oy3rgg3s",
         "displayName": "ределин",
         "handle": "redelin.bsky.social"
@@ -7470,6 +7506,13 @@
         "did": "did:plc:mb6boh5schzxpbrvvcytlwgg",
         "displayName": "Alex",
         "handle": "actinglikecrazy.bsky.social"
+      }
+    },
+    {
+      "subject": {
+        "did": "did:plc:mbeaublqhltm5xilxzzh6imk",
+        "displayName": "InFern0L",
+        "handle": "infern0l.bsky.social"
       }
     },
     {
